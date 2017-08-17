@@ -9,3 +9,5 @@ ADD THESE
 ### The videos are hosted on youtube
 - Video 1, Instructor Version
 - [Video 1, Student Version](https://youtu.be/2WMTfhhgVyM)
+
+### Archives of our video files are stored online [here](http://github.com/mthomas7/CaViAr)
