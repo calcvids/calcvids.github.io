@@ -1,6 +1,11 @@
 ## Welcome to The Calculus Videos Project
 
-Things to add to this page:
-- ximera link
-- google drive links
-- youtube links
+### Ximera
+Our interactive websites are hosted by [ximera](ximera.osu.edu). To see a sample page, click [here](ximera.osu.edu/calcvids/sample)
+
+### We have descriptions of our theoretical frameworks, etc.
+ADD THESE
+
+### The videos are hosted on youtube
+- Video 1, Instructor Version
+- [Video 1, Student Version](https://youtu.be/2WMTfhhgVyM)
