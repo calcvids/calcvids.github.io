@@ -1,7 +1,7 @@
 ## Welcome to The Calculus Videos Project
 
 ### Ximera
-Our interactive websites are hosted by [ximera](ximera.osu.edu). To see a sample page, click [here](ximera.osu.edu/calcvids/sample)
+Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a sample page, click [here](http://ximera.osu.edu/calcvids/sample)
 
 ### We have descriptions of our theoretical frameworks, etc.
 ADD THESE
