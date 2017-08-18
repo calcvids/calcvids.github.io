@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [The Calculus Videos Project]
 description: []
-show_downloads: ["true"]
+show_downloads: [false]
