@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [The Calculus Videos Project]
-description: [Team]
+description: []
+baseurl: /calcvids
+
