@@ -20,7 +20,7 @@ Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a
   - Video Set 7: Integrals from Riemann Sums
   - Video Set 8: Antiderivatives
 
-### Videos (Student Versions)
+### Youtube Videos (Student Versions)
   - Video Set 1: Constant Rates of Change
     - [Video 1: Constant Speed](https://youtu.be/2WMTfhhgVyM)
     - [Video 2: Constant Fuel Efficiency](https://youtu.be/nAsB_lLY8Jw)
