@@ -10,4 +10,4 @@ Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a
 ### [Youtube Videos (Student Versions)](/youtube)
  
 
-### Instructor versions of videos are stored [here](http://github.com/mthomas7/CaViAr) in a private repository
+### Instructor versions of videos are stored [here](http://github.com/mthomas7/CaViAr) in a private repository. Please [contact us](/team) for access.
