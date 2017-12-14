@@ -1,3 +1,3 @@
 # The Team
 
-Some info about us here
+Info about the team
