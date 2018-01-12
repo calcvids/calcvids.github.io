@@ -1,4 +1,12 @@
 ## Videos
 
-Click to go to a new page
-[go](1.md)
+Select the video set you would like to watch.
+
+* [1](1.md)
+* [2](2.md)
+* [3](3.md)
+* [4](4.md)
+* [5](5.md)
+* [6](6.md)
+* [7](7.md)
+* [8](8.md)
