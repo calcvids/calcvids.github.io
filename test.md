@@ -1,6 +1,5 @@
 ## Test page
 
-  <!DOCTYPE html>
   <html>
     <head>
       <!--Import Google Icon Font-->
@@ -14,7 +13,7 @@
 
     <body>
     
-    Test!!!
+    Test
     
     <!-- Dropdown Trigger -->
   <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>
