@@ -1,9 +1,9 @@
-## Youtube Videos (Student Versions)
+## Youtube Videos
 
 * Video Set 1: Constant Rates of Change
-  - [Video 1: Constant Speed](https://youtu.be/2WMTfhhgVyM)
-  - [Video 2: Constant Fuel Efficiency](https://youtu.be/nAsB_lLY8Jw)
-  - [Video 3: Constant Rate of Change (General)](https://youtu.be/8A6wMrvauRA)
+  - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
+  - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
+  - [Video 3: Constant Rate of Change (General)](https://youtu.be/sYFaTiio3rI)
 - Video Set 2: Approximating Instantaneous Rates of Change
   - [Video 1: Approximating Instantaneous Speed](https://youtu.be/VyoM3PAP9No)
   - [Video 2: Improving the Approximation of Instantaneous Speed](https://youtu.be/llFreYa35wY)
