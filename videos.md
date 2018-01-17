@@ -1,6 +1,6 @@
 ## Youtube Videos (Student Versions)
 
-- Video Set 1: Constant Rates of Change
+* Video Set 1: Constant Rates of Change
   - [Video 1: Constant Speed](https://youtu.be/2WMTfhhgVyM)
   - [Video 2: Constant Fuel Efficiency](https://youtu.be/nAsB_lLY8Jw)
   - [Video 3: Constant Rate of Change (General)](https://youtu.be/8A6wMrvauRA)
