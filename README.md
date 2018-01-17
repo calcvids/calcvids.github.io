@@ -13,8 +13,8 @@ Please [contact us](/team) to learn more about the project.
 ### Ximera
 Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a sample page, click [here](http://ximera.osu.edu/calcvids/sample)
 
-### [Powerpoint Slides](/slides)
+<!-- ### [Powerpoint Slides](/slides) -->
 
-### [Youtube Videos (Student Versions)](/videos)
+<!-- ### [Youtube Videos (Student Versions)](/videos) -->
  
 
