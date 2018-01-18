@@ -5,10 +5,10 @@
   - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
   - [Video 3: Constant Rate of Change (General)](https://youtu.be/sYFaTiio3rI)
 - Video Set 2: Approximating Instantaneous Rates of Change
-  - [Video 1: Approximating Instantaneous Speed](https://youtu.be/VyoM3PAP9No)
-  - [Video 2: Improving the Approximation of Instantaneous Speed](https://youtu.be/llFreYa35wY)
-  - [Video 3: Approximating Instantaneous Fuel Efficiency](https://youtu.be/TSF2wWIjFvA)
-  - [Video 4: Improving the Approximation of Instantaneous Fuel Efficiency](https://youtu.be/Y_sodV953fE)
+  - [Video 1: Approximating Instantaneous Speed](https://youtu.be/sXEhePVRr34)
+  - [Video 2: Improving the Approximation of Instantaneous Speed](https://youtu.be/jC9VKoaQ5HA)
+  - [Video 3: Approximating Instantaneous Fuel Efficiency](https://youtu.be/GbApYWJm_rk)
+  - [Video 4: Improving the Approximation of Instantaneous Fuel Efficiency](https://youtu.be/YLS0GSyHweU)
 - Video Set 3: Graphing Derivatives
   - [Video 1: Graphing a Speeding up Car](https://www.youtube.com/watch?v=uHY0B3iPHjU)
   - [Video 2: Graphing the Derivative Function](https://www.youtube.com/watch?v=n-3KsId0Km0)
