@@ -1,6 +1,13 @@
 ## Youtube Videos
 
+Text text text
 <p>
+Text
+</p>
+
+<p>
+
+Text tex text
 
 * Video Set 1: Constant Rates of Change
   - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
