@@ -16,4 +16,7 @@ baseurl:      ""
 #  - jekyll-paginate
 
 #Others
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
