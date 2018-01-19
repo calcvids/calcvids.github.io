@@ -26,27 +26,27 @@ function getCookie(cname) {
 }
 
 function checkCookie() {
-    var vidchoice=getCookie("vid1");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set1";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set1";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set1";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set1";}
+    var vidchoice=getCookie("croc");
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/croc";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/croc";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/croc";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/croc";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
-        setCookie("vid1", 1, 365);
+        setCookie("croc", 1, 365);
         checkCookie();
         }
       else if (forwardchoice <= 0.5 ){
-        setCookie("vid1", 2, 365);
+        setCookie("croc", 2, 365);
         checkCookie();
         }
       else if (forwardchoice <= 0.75 ){
-        setCookie("vid1", 3, 365);
+        setCookie("croc", 3, 365);
         checkCookie();
         }
       else {
-        setCookie("vid1", 4, 365);
+        setCookie("croc", 4, 365);
         checkCookie();
         }
       }

@@ -2,7 +2,7 @@
 
 Please select the video set you would like to watch
 
-* [1: Constant Rate of Change](1.md)
+* [1: Constant Rate of Change](croc.md)
 <!--* [2: Approximating Instantaneous Rates of Change](2.md)-->
 <!--* [3: Graphing Derivatives](3.md)-->
 <!--* [4: Basic Derivative Rules](4.md)-->
