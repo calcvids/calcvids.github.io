@@ -1,6 +1,7 @@
 ## Youtube Videos
 
 <p>
+
 * Video Set 1: Constant Rates of Change
   - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
   - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
@@ -30,4 +31,5 @@
   - [Video 1: Antiderivatives](https://www.youtube.com/watch?v=VBALr2ggcR0)
   - [Vidoe 2: The General Antiderivative](https://www.youtube.com/watch?v=Up7dxYfTYVE)
   - [Video 3: Evaluating Definite Integrals using Antiderivatives](https://www.youtube.com/watch?v=0amPPufnuok)
+
   </p>
