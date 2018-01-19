@@ -1,9 +1,8 @@
 ## Youtube Videos
 
+This is the list of videos
+
 * Video Set 1: Constant Rates of Change
-
-
-
   - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
   - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
   - [Video 3: Constant Rate of Change (General)](https://youtu.be/sYFaTiio3rI)
