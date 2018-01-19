@@ -1,8 +1,5 @@
 ## Youtube Videos
 
-Text text text
-Text tex text
-
 * Video Set 1: Constant Rates of Change
   - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
   - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
