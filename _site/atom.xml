@@ -4,11 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>Calculus Videos Project</title>
-<<<<<<< HEAD
-	<updated>2018-01-23T12:54:35-05:00</updated>
-=======
-	<updated>2018-01-23T12:54:27-05:00</updated>
->>>>>>> 98e7065b6518f3ed15ba0b654e3535e998e3a116
+	<updated>2018-01-23T12:57:15-05:00</updated>
 
 	<subtitle>This is a website for the Calculus Videos Project</subtitle>
 
@@ -19,6 +15,10 @@
 				<name>mthomas7</name>
 			
 			
+				<email>mthomas7@ithaca.edu</email>
+			
+			
+				<uri>http://mthomas7.github.io/</uri>
 			
 		</author>
 	
@@ -42,6 +42,10 @@
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -105,6 +109,10 @@
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -572,6 +580,10 @@ element&lt;/td&gt;
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -603,6 +615,10 @@ element&lt;/td&gt;
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -668,6 +684,10 @@ element&lt;/td&gt;
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -737,6 +757,10 @@ image:
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -807,6 +831,10 @@ image:
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -868,6 +896,10 @@ image:
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -942,6 +974,10 @@ image:
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
@@ -1012,6 +1048,10 @@ image:
 						<name>mthomas7</name>
 					
 					
+						<email>mthomas7@ithaca.edu</email>
+					
+					
+						<uri>http://mthomas7.github.io/</uri>
 					
 				</author>
 			
