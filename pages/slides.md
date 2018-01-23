@@ -3,6 +3,13 @@ layout: page-fullwidth
 title: "Powerpoint Slides"
 meta_title: "PPT Slides"
 permalink: "/slides/"
+
+header:
+    image:  "person4.jpg"
+    pattern:  "pattern_concrete.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+
 ---
 
 

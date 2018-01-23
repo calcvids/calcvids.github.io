@@ -5,7 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
-header: no
 
 #
 # Use the call for action to show a button on the frontpage
