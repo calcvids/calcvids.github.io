@@ -28,7 +28,7 @@ header: no
 homepage: true
 ---
 
-<!--# Welcome to the homepage for the calculus videos project-->
+# Welcome to the homepage for the calculus videos project
 
 <!--If you're a student looking for our videos, please go [here](./vids/)-->
 
