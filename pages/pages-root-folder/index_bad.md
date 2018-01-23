@@ -25,7 +25,7 @@ Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a
 <!-- ### [Powerpoint Slides](/slides) -->
 
 <!-- ### [Youtube Videos (Student Versions)](/videos) -->
- 
+
 
 #
 # Use the call for action to show a button on the frontpage
@@ -44,4 +44,3 @@ Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a
 #
 homepage: true
 ---
-
