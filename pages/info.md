@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "About the Project"
 meta_title: "About the Project"
 teaser: "What we do"
-permalink: "/about/"
+permalink: "/info/"
 ---
 
 ## Investigating Student Learning and Sense-Making from Instructional Calculus Videos
