@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Videos"
 meta_title: "Videos"
 permalink: "/videos/"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "About the Team"
 meta_title: "About the Team"
 teaser: "Who we are"

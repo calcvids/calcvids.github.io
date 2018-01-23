@@ -26,10 +26,6 @@ permalink: /index.html
 homepage: true
 ---
 
-
-<!--header:
-  image_fullwidth: header_unsplash_12.jpg-->
-
 # Welcome to the homepage for the calculus videos project.
 
 If you're a student looking for our videos, please go [here](./vids/)
@@ -38,10 +34,10 @@ This is an NSF-funded project *Investigating Student Learning and Sense-Making f
 
 This site allows you to see our resources for making videos.
 
-Please [contact us](/team) to learn more about the project.
+Please [contact us](/team/) to learn more about the project.
 
 ### Ximera
-Our interactive websites are hosted by [ximera](http://ximera.osu.edu). To see a sample page, click [here](http://ximera.osu.edu/calcvids/sample)
+Our interactive websites are hosted by [ximera](http://ximera.osu.edu).
 
 <!-- ### [Powerpoint Slides](/slides) -->
 
