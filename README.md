@@ -1,6 +1,6 @@
 # Jekyll Materialize Starter Template v0.1
 
-*A Site Starter Materialize Templates.
+*A Site Starter Materialize Templates. TEST
 
 The theme is a fork of the [minima][1]
 
