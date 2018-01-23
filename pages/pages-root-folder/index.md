@@ -38,7 +38,3 @@ Please [contact us](/team/) to learn more about the project.
 
 ### Ximera
 Our interactive websites are hosted by [ximera](http://ximera.osu.edu).
-
-<!-- ### [Powerpoint Slides](/slides) -->
-
-<!-- ### [Youtube Videos (Student Versions)](/videos) -->

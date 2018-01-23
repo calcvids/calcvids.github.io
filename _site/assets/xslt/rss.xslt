@@ -151,24 +151,26 @@
           
             
             
+
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000//about/">About</a></li>
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/">About</a>
 
-            
-            
-          
-        
+                  <ul class="dropdown">
+                    
 
-              
+                      
 
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000//team/">Team</a></li>
+                      <li><a  href="http://localhost:4000//about/">The Project</a></li>
+                    
 
-            
+                      
+
+                      <li><a  href="http://localhost:4000//team/">The Team</a></li>
+                    
+                  </ul>
+
+              </li>
             
           
         
@@ -260,7 +262,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//vids/">Student videos</a></li>
+              <li><a  href="http://localhost:4000//vids/">Student Videos</a></li>
               <li class="divider"></li>
 
             
@@ -280,12 +282,6 @@
 
             
             
-          
-        
-
-              
-
-          
           
         
 
