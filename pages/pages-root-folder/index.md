@@ -28,7 +28,11 @@ header: no
 homepage: true
 ---
 
+<<<<<<< HEAD
 ## Welcome to the homepage for the calculus videos project
+=======
+# Welcome to the homepage for the calculus videos project
+>>>>>>> 04b391413d3ced4e8669e501bb2efa6209d41fe9
 
 <!--If you're a student looking for our videos, please go [here](./vids/)-->
 
