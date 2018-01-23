@@ -1,25 +1,19 @@
 <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% capture url %}{{ site.url | append: "$" | replace: "/$", "" | replace: "$", "" }}{% endcapture %}
+  {% include head.html %}
 
-<html lang="ko">
-<head>
-  {% include meta.html %}
-  {% include css.html %}
-</head>
+  <body>
 
-<body>
-  <header>
-    {% include nav.html %}
-  </header>
-  <main>
-    <section>
-      {{ content }}
-    </section>
-  </main>
-  <footer class="page-footer">
+    {% include header.html %}
+
+
+        {{ content }}
+
     {% include footer.html %}
-  </footer>
-  {% include js.html %}
-</body>
+      
+    {% include script.html %}
+
+  </body>
+
 </html>
