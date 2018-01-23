@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Videos</title>
+	<title>set3</title>
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
 
@@ -33,13 +33,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000//vids/">
+	<link rel="canonical" href="http://localhost:4000//vids/set3/">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Videos">
+	<meta property="og:title" content="set3">
 	<meta property="og:description" content="This is a website for the Calculus Videos Project">
-	<meta property="og:url" content="http://localhost:4000//vids/">
+	<meta property="og:url" content="http://localhost:4000//vids/set3/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Calculus Videos Project">
@@ -52,7 +52,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Videos">
+	<meta name="twitter:title" content="set3">
 	<meta name="twitter:description" content="This is a website for the Calculus Videos Project">
 	
 	
@@ -266,7 +266,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Videos</h1>
+					<h1>Constant Rate of Change</h1>
 				</div>
 			</header>
 
@@ -274,18 +274,67 @@
 			
 
 			<div itemprop="articleSection">
-			<p>Please select the video set you would like to watch</p>
+			<html>
+<head>
+<script>
 
-<ul>
-  <li><a href="croc">1: Constant Rate of Change</a>
-<!--* [2: Approximating Instantaneous Rates of Change](2)-->
-<!--* [3: Graphing Derivatives](3)-->
-<!--* [4: Basic Derivative Rules](4)-->
-<!--* [5: The Chain Rule](5)-->
-<!--* [6: Optimization](6)-->
-<!--* [7: Integrals from Riemann Sums](7)-->
-<!--* [8: Antiderivatives](8)--></li>
-</ul>
+function setCookie(cname,cvalue,exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function checkCookie() {
+    var vidchoice=getCookie("vid3");
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set3";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set3";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set3";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set3";}
+    else {
+      var forwardchoice=Math.random();
+      if (forwardchoice <= 0.25 ){
+        setCookie("vid3", 1, 365);
+        checkCookie();
+        }
+      else if (forwardchoice <= 0.5 ){
+        setCookie("vid3", 2, 365);
+        checkCookie();
+        }
+      else if (forwardchoice <= 0.75 ){
+        setCookie("vid3", 3, 365);
+        checkCookie();
+        }
+      else {
+        setCookie("vid3", 4, 365);
+        checkCookie();
+        }
+      }
+}
+
+
+</script>
+</head>
+<body onload="checkCookie()">
+Loading...
+</body>
+</html>
 
 			</div>
 
