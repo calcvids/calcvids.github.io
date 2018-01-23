@@ -131,18 +131,6 @@
 
           
           
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -208,132 +196,21 @@
 
             
             
-              <li><a  href="http://localhost:4000//getting-started/">Getting Started</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000//design/">Templates</a>
+                <a  href="http://localhost:4000/">Research</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="http://localhost:4000//videos/">Videos</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000//design/typography/typography/">Typography</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/page/">Page/Post</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/portfolio/">Portfolio</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000//headers/">Header Styles</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/header-full-width-image/">Header with Full-Width-Image</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/header-image-pattern/">Header with Image and Pattern</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000//design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a  href="http://localhost:4000//publications/">Publications</a></li>
                     
                   </ul>
 
