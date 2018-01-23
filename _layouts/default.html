@@ -1,24 +1,25 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  
-  {% include head.html %}
 
-  {% include nav.html %}
+{% capture url %}{{ site.url | append: "$" | replace: "/$", "" | replace: "$", "" }}{% endcapture %}
 
-  <body>
-    {% include page-header.html %}
+<html lang="ko">
+<head>
+  {% include meta.html %}
+  {% include css.html %}
+</head>
 
-    <section class="main-content">
-      
+<body>
+  <header>
+    {% include nav.html %}
+  </header>
+  <main>
+    <section>
       {{ content }}
-
-      {% include page-footer.html %}
-
     </section>
-
-<!--Import jQuery before materialize.js-->
-      <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-      <script type="text/javascript" src="js/materialize.min.js"></script>
-
-  </body>
+  </main>
+  <footer class="page-footer">
+    {% include footer.html %}
+  </footer>
+  {% include js.html %}
+</body>
 </html>
