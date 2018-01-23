@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "About the Team"
-meta_title: "About the Team"
-subheadline: "Who we are"
-teaser: "Who we are"
+title: "About the Teamtitle"
+meta_title: "About the Teammetatitle"
+subheadline: "Who we aresubhead"
+teaser: "Who we areteaser"
 permalink: "/team/"
 ---
 
