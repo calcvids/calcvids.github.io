@@ -2,7 +2,6 @@
 
 Name: mthomas7
 Site: http://mthomas7.github.io/
-Twitter: @phlow
 
 
 /* THANKS */
