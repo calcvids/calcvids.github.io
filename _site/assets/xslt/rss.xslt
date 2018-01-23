@@ -161,7 +161,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000//about/">The Project</a></li>
+                      <li><a  href="http://localhost:4000//info/">The Project</a></li>
                     
 
                       
