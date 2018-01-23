@@ -70,6 +70,10 @@
   url: "/search/"
   side: right
 
+- title: "Team"
+  url: "/team/"
+  side:right
+
 - title: "Contact"
   url: "/contact/"
   side: right
