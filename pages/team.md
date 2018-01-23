@@ -6,7 +6,7 @@ teaser: "Who we are"
 permalink: "/team/"
 ---
 
-<!--subheadline: "Who we aresubhead"-->
+<!--subheadline: "Who we are"-->
 
 * Aaron Weinberg is an associate professor in the mathematics department at Ithaca College.
 * Matt Thomas is an assistant professor in the mathematics department at Ithaca College.
