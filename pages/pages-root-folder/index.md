@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: page-fullwidth
 header: no
 
 #
@@ -26,9 +26,9 @@ permalink: /index.html
 homepage: true
 ---
 
-# Welcome to the homepage for the calculus videos project.
+# Welcome to the homepage for the calculus videos project
 
-If you're a student looking for our videos, please go [here](./vids/)
+<!--If you're a student looking for our videos, please go [here](./vids/)-->
 
 This is an NSF-funded project *Investigating Student Learning and Sense-Making from Instructional Calculus Videos* (awards DUE #1712312, DUE #1711837 and DUE #1710377). You can read more [about the project here](/about).
 
