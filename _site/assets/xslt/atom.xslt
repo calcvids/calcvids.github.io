@@ -131,6 +131,12 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -216,6 +222,21 @@
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000//vids/">Student videos</a></li>
+              <li class="divider"></li>
+
+            
             
           
         

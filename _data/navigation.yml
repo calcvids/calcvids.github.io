@@ -10,6 +10,10 @@
   - title: "Publications"
     url: "/publications/"
 
+- title: "Student videos"
+  side: left
+  url: "/vids/"
+
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
