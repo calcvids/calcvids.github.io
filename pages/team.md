@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "About the Team"
-meta_title: "About the Teammetatitle"
+meta_title: "About the Team"
 teaser: "Who we are"
 permalink: "/team/"
 ---
+
+<!--subheadline: "Who we aresubhead"-->
 
 * Aaron Weinberg is an associate professor in the mathematics department at Ithaca College.
 * Matt Thomas is an assistant professor in the mathematics department at Ithaca College.
