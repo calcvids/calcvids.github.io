@@ -17,3 +17,4 @@ baseurl:      ""
 
 #Others
 markdown: kramdown
+remote_theme: macrod68/jekyll-materialize-starter-template
