@@ -5,8 +5,7 @@ meta_title: "PPT Slides"
 permalink: "/slides/"
 
 header:
-    title: "stuff"
-    image_fullwidth:  "person3.jpg"
+    image:  "background_wide.jpg"
     pattern: "pattern_concrete.jpg"
 ---
 
