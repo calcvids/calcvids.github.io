@@ -5,7 +5,7 @@ homepage: true
 title: "Welcome to the homepage for the calculus videos project"
 meta_title: "Calculus Videos Home"
 header:
-    image:  "background_wide.jpg"
+    image:  "background_image.jpg"
     pattern: "pattern_concrete.jpg"
 ---
 
