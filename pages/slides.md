@@ -6,10 +6,7 @@ permalink: "/slides/"
 
 header:
     image:  "background_image.jpg"
-    pattern:  "pattern_concrete.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-
+    pattern: "pattern_concrete.jpg"
 ---
 
 

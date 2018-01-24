@@ -5,8 +5,8 @@ homepage: true
 title: "Welcome to the homepage for the calculus videos project"
 meta_title: "Calculus Videos Home"
 header:
-    title: header with text
-    image_fullwidth: "background_image.jpg"
+    image:  "background_wide.jpg"
+    pattern: "pattern_concrete.jpg"
 ---
 
 <!--If you're a student looking for our videos, please go [here](./vids/)-->
