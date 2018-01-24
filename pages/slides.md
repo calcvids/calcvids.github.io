@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Powerpoint Slides"
 meta_title: "PPT Slides"
 permalink: "/slides/"
