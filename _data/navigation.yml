@@ -1,0 +1,35 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Research
+  side: left
+  dropdown:
+  - title: "Videos"
+    url: "/videos/"
+  - title: "Publications"
+    url: "/publications/"
+
+- title: Slides
+  side: left
+  url: "/slides/"
+
+- title: "Student Videos"
+  side: left
+  url: "/vids/"
+
+- title: "Make your Own"
+  side: left
+  url: "/makeyourown/"
+
+- title: "About"
+  side: right
+  dropdown:
+  - title: "The Project"
+    url: "/info/"
+  - title: "The Team"
+    url: "/team/"
+
+- title: "Search"
+  url: "/search/"
+  side: right

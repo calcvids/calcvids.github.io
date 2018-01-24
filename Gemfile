@@ -1,7 +1,13 @@
 source 'https://rubygems.org'
-gemspec
 
 gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
+
+group :jekyll_plugins do
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem "jekyll-asciidoc"
+end
+
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'
+

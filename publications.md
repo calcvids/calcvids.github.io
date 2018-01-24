@@ -1,2 +1,0 @@
-## Publications
-* Investigating Student Learning and Sense-Making from Instructional Calculus Videos. Poster to be presented at the 21st Annual Conference of the Special Interest Group of the Mathematical Association of America on Research in Undergraduate Mathematics Education.

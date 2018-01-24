@@ -1,24 +1,23 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  
-  {% include head.html %}
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-  {% include nav.html %}
+	{% include _masthead.html %}
+	{{ content }}
 
-  <body>
-    {% include page-header.html %}
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-    <section class="main-content">
-      
-      {{ content }}
-
-      {% include page-footer.html %}
-
-    </section>
-
-<!--Import jQuery before materialize.js-->
-      <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-      <script type="text/javascript" src="js/materialize.min.js"></script>
-
-  </body>
+	{% include _footer_scripts.html %}
+</body>
 </html>
