@@ -6,7 +6,7 @@ permalink: "/slides/"
 
 header:
     title: "stuff"
-    image_fullwidth:  "background_wide.jpg"
+    image_fullwidth:  "person3.jpg"
     pattern: "pattern_concrete.jpg"
 ---
 
