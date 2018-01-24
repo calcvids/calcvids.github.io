@@ -24,4 +24,4 @@ header:
   - Video Set 5: The Chain Rule
   - Video Set 6: Optimization
   - Video Set 7: Integrals from Riemann Sums
-  <!--- Video Set 8: Antiderivatives-->
+  - Video Set 8: Antiderivatives
