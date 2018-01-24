@@ -5,7 +5,7 @@ meta_title: "PPT Slides"
 permalink: "/slides/"
 
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "background_top.jpg"
 ---
 
 
