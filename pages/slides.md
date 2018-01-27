@@ -3,9 +3,6 @@ layout: page
 title: "Powerpoint Slides"
 meta_title: "PPT Slides"
 permalink: "/slides/"
-
-header:
-    image_fullwidth: "background_top.jpg"
 ---
 
 
@@ -24,4 +21,4 @@ header:
   - Video Set 5: The Chain Rule
   - Video Set 6: Optimization
   - Video Set 7: Integrals from Riemann Sums
-  - Video Set 8: Antiderivatives
+  - Video Set 8: Antiderivative

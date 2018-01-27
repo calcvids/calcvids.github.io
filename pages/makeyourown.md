@@ -2,7 +2,6 @@
 layout: page-fullwidth
 title: "Instructions for making your own versions of the videos"
 meta_title: "Make your own"
-background-color: "#fabb00"
 permalink: "/makeyourown/"
 ---
 
