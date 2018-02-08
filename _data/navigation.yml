@@ -2,6 +2,14 @@
   url: "/"
   side: left
 
+- title: "About"
+  side: left
+  dropdown:
+  - title: "The Project"
+    url: "/info/"
+  - title: "The Team"
+    url: "/team/"
+
 - title: Research
   side: left
   dropdown:
@@ -22,13 +30,6 @@
   side: left
   url: "/makeyourown/"
 
-- title: "About"
-  side: right
-  dropdown:
-  - title: "The Project"
-    url: "/info/"
-  - title: "The Team"
-    url: "/team/"
 
 - title: "Search"
   url: "/search/"
