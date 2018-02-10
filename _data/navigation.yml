@@ -10,6 +10,11 @@
   - title: "The Team"
     url: "/team/"
 
+- title: "Student Videos"
+  url: "/vids/"
+  side: left
+
+
 - title: Research
   side: left
   dropdown:
