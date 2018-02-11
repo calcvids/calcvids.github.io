@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Set2"
-meta_title: "Set2"
-permalink: "/vids/set2/"
+title: "Approximating Instantaneous Rates of Change"
+meta_title: "Approximating Instantaneous Rates of Change"
+permalink: "/vids/arociroc/"
 ---
 
 <html>
@@ -34,10 +34,10 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("vid2");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set2";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set2";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set2";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set2";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/arociroc";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/arociroc";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/arociroc";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/arociroc";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
