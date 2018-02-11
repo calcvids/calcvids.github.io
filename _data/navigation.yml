@@ -14,6 +14,15 @@
   url: "/vids/"
   side: left
 
+- title: "For Researchers"
+  side: left
+  dropdown:
+  - title: "Samples"
+    url: "/sample/"
+  - title: "Make your Own Videos"
+    url: "/makeyourown/"
+  - title: Slides
+    url: "/slides/"
 
 - title: Research
   side: left
@@ -22,19 +31,6 @@
     url: "/videos/"
   - title: "Publications"
     url: "/publications/"
-
-- title: Slides
-  side: left
-  url: "/slides/"
-
-- title: "Samples"
-  side: left
-  url: "/sample/"
-
-- title: "Make your Own"
-  side: left
-  url: "/makeyourown/"
-
 
 - title: "Search"
   url: "/search/"
