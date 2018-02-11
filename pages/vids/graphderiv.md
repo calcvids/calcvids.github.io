@@ -2,7 +2,7 @@
 layout: page
 title: "Graphing Derivatives"
 meta_title: "Graphing Derivatives"
-permalink: "/vids/graphingderiv/"
+permalink: "/vids/graphderiv/"
 ---
 
 
@@ -35,10 +35,10 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("vid3");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/graphingderiv";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/graphingderiv";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/graphingderiv";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/graphingderiv";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/graphderiv";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/graphderiv";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/graphderiv";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/graphderiv";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
