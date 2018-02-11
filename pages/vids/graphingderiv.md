@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Constant Rate of Change"
-meta_title: "set3"
-permalink: "/vids/set3/"
+title: "Graphing Derivatives"
+meta_title: "Graphing Derivatives"
+permalink: "/vids/graphingderiv/"
 ---
 
 
@@ -35,10 +35,10 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("vid3");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set3";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set3";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set3";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set3";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/graphingderiv";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/graphingderiv";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/graphingderiv";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/graphingderiv";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
