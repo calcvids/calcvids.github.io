@@ -5,7 +5,7 @@ meta_title: "Sample Videos"
 permalink: "/sample/"
 ---
 
-Please select the video set you would like to watch
+These example videos are for researchers to see examples of our video sets.
 
 * [1: Constant Rate of Change](https://ximera.osu.edu/calcvids/sample/croc)
 * [2: Approximating Instantaneous Rates of Change](https://ximera.osu.edu/calcvids/sample/arociroc)
