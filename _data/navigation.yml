@@ -10,19 +10,17 @@
   - title: "The Team"
     url: "/team/"
 
-- title: "Student Videos"
-  url: "/vids/"
+- title: "Sample Videos"
+  url: "/sample/"
   side: left
 
-- title: "For Researchers"
+- title: "Make your Own Videos"
+  url: "/makeyourown/"
   side: left
-  dropdown:
-  - title: "Samples"
-    url: "/sample/"
-  - title: "Make your Own Videos"
-    url: "/makeyourown/"
-  - title: Slides
-    url: "/slides/"
+
+- title: Slides
+  url: "/slides/"
+  side: left
 
 - title: Research
   side: left

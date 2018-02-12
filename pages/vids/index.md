@@ -1,11 +1,4 @@
----
-layout: page-fullwidth
-title: "Videos"
-meta_title: "Videos"
-permalink: "/vids/"
----
-
-Please select the video set you would like to watch:
+# Please select the video set you would like to watch:
 
 * [1: Constant Rate of Change](croc)
 * [2: Approximating Instantaneous Rates of Change](arociroc)
