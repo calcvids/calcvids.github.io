@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Constant Rate of Change"
-meta_title: "set4"
-permalink: "/vids/set4/"
+title: "Basic Derivative Rules"
+meta_title: "Basic Derivative Rules"
+permalink: "/vids/derivrules/"
 ---
 
 <html>
@@ -33,27 +33,22 @@ function getCookie(cname) {
 }
 
 function checkCookie() {
-    var vidchoice=getCookie("vid4");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set4";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set4";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set4";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set4";}
+    var vidchoice=getCookie("derivrules");
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/derivrules";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/derivrules";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/c/derivrules";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.25 ){
-        setCookie("vid4", 1, 365);
+      if (forwardchoice <= 0.33 ){
+        setCookie("derivrules", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.5 ){
-        setCookie("vid4", 2, 365);
-        checkCookie();
-        }
-      else if (forwardchoice <= 0.75 ){
-        setCookie("vid4", 3, 365);
+      else if (forwardchoice <= 0.66 ){
+        setCookie("derivrules", 2, 365);
         checkCookie();
         }
       else {
-        setCookie("vid4", 4, 365);
+        setCookie("derivrules", 3, 365);
         checkCookie();
         }
       }
