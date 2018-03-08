@@ -12,7 +12,7 @@ permalink: "/team/"
 
 <p>&nbsp;</p>
 
-<p><img style="margin: 7px; float: right;" alt="Matt Thomas" width="140" src="/images/Thomas_Headshot.jpg" /><strong>Matt Thomas</strong>&nbsp; </p>
+<p><img style="margin: 7px; float: right;" alt="Matt Thomas" width="140" src="/images/Thomas_Headshot.jpg" /><strong>Matt Thomas</strong>&nbsp;recieved his PhD in Mathematics at the University of Arizona in 2013, and is currently an Assistant Professor in the Department of Mathemaics at Ithaca College. His research focuses on measuring students' understanding of concepts in calculus, as well as the roles of computation within mathematics and the learning og mathematics, and using computational tools to analyze free response questions in mathematics.</p>
 
 <p>&nbsp;</p>
 
