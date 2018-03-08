@@ -32,9 +32,9 @@ permalink: "/videos/"
   - [Video 1: Optimization: Maximizing Area](https://www.youtube.com/watch?v=U4xUxJgMeMg)
   - [Video 2: Optimization: Maximizing Profit](https://www.youtube.com/watch?v=flMzvtv3mXs)
 - Video Set 7: Integrals from Riemann Sums
-  - [Video 1: Mars Rover and Dust Accumulation](https://www.youtube.com/watch?v=Zsos8uqqZl8)
-  - [Video 2: Riemann Sums](https://www.youtube.com/watch?v=0DiuulP2p8c)
-  - [Video 3: Getting Better Estimates](https://www.youtube.com/watch?v=LCvSf1oO--8)
+  - [Video 1: Mars Rover and Dust Accumulation](https://www.youtube.com/watch?v=sRqf-o4k46w)
+  - [Video 2: Riemann Sums](https://www.youtube.com/watch?v=PjOWOuD28Ng)
+  - [Video 3: Getting Better Estimates and Definite Integrals](https://www.youtube.com/watch?v=bTKGP2md0iM)
 - Video Set 8: Antiderivatives
   - [Video 1: Antiderivatives](https://www.youtube.com/watch?v=VBALr2ggcR0)
   - [Vidoe 2: The General Antiderivative](https://www.youtube.com/watch?v=Up7dxYfTYVE)

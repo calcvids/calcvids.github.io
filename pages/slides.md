@@ -16,9 +16,22 @@ permalink: "/slides/"
     - [Video 2 Slides: Improving the Approximation of Instantaneous Speed](https://drive.google.com/open?id=1S5UgxpdPQwKQQoLS97UssbqrsyZomq4Y)
     - [Video 3 Slides: Approximating Instantaneous Fuel Efficiency](https://drive.google.com/open?id=1_WM9XT4Mp-FM24XHC2RUbme8CsMQ4jFy)
     - [Video 4 Slides: Improving the Approximation of Instantaneous Fuel Efficiency](https://drive.google.com/open?id=1u-KKd7YC7albuy2RiXQx9vne5Vcx8Yd8)
-  - Video Set 3: Graphing Derivatives
-  - Video Set 4: Basic Derivative Rules
-  - Video Set 5: The Chain Rule
-  - Video Set 6: Optimization
-  - Video Set 7: Integrals from Riemann Sums
-  - Video Set 8: Antiderivative
+  - Graphing Derivatives
+    - [Video 1 Slides: Graphing a Speeding-up Car](https://drive.google.com/open?id=0B7OjER7Z3zvDZzZrbUxXTWhVYWM)
+    - [Video 2 Slides: Graphing a Derivative](https://drive.google.com/open?id=0B7OjER7Z3zvDejlQUGlMV2UtcUU)
+    - [Video 3 Slides: Another Example of Graphing a Derivative](https://drive.google.com/open?id=0B7OjER7Z3zvDWmVGanNVUzEzVzg)
+  - Basic Derivative Rules
+    - [Video 1 Slides: The Power Rule](https://drive.google.com/open?id=0B7OjER7Z3zvDZzlZLS11Wm5vNkU)
+    - [Video 2 Slides: Exponential and Logarithmic Functions](https://drive.google.com/open?id=0B7OjER7Z3zvDeFRtX1c3S3Q3ZTg)
+    - [Video 3 Slides: Trigonometric Functions](https://drive.google.com/open?id=0B7OjER7Z3zvDWmpzMkN5VUNGV0E)
+  - The Chain Rule
+    - [Video 1 Slides: Conceptual Introduction to the Chain Rule]()
+  - Optimization
+    - [Video 1 Slides: Maximizing Area](https://drive.google.com/open?id=0B-KhUExUZP0kSjU1R00tM2dxbEE)
+    - [Video 2 Slides: Maximizing Profit](https://drive.google.com/open?id=0B-KhUExUZP0kNkZ3VzNETFNZNm8)
+  - Integrals from Riemann Sums
+    - [Video 1 Slides: Accumulation](https://drive.google.com/open?id=18n_U9Mukd4OBtHO2WbsBfLBkapuyiJqT)
+    - [Video 2 Slides: Riemann Sums](https://drive.google.com/open?id=15NmKE2RnlLuBw68lhaJJ8TKf7DjHYoFu)
+    - [Video 3 Slides: Definite Integrals](https://drive.google.com/open?id=1uq2IwEib-zHLUrst14mIU1415qUB3VoO)  
+  - Antiderivatives
+    - [Video 1 Slides: Introduction to Antiderivatives](https://drive.google.com/open?id=1juxW9RSxbH1wXskfOIYYWddocmtgxHZM)
