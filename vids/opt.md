@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Constant Rate of Change"
-meta_title: "set6"
-permalink: "/vids/set6/"
+title: "Optimization"
+meta_title: "Optimization"
+permalink: "/vids/opt/"
 ---
 
 
@@ -35,10 +35,10 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("vid6");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set6";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set6";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set6";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set6";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/opt";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/opt";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/opt";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/opt";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
