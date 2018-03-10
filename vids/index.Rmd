@@ -14,8 +14,13 @@ output:
 1. [Constant Rate of Change](./croc)
 2. [Approximating Instantaneous Rates of Change](./arociroc)
 3. [Graphing Derivatives](./graphderiv)
+<<<<<<< HEAD
 4. [Basic Derivative Rule](./derivrules)
+=======
+4. [Basic Derivative Rules](./derivrules)
+6: [Optimization](./opt)
+>>>>>>> 68cf0f4c917609a27eb427927533a7785d5df06a
 <!--* [5: The Chain Rule](5)-->
-<!--* [6: Optimization](6)-->
+6: [Optimization](./opt)
 <!--* [7: Integrals from Riemann Sums](7)-->
 <!--* [8: Antiderivatives](8)-->

@@ -29,9 +29,11 @@ permalink: "/videos/"
 - Video Set 5: The Chain Rule
   - [Video 1: The Chain Rule](https://www.youtube.com/watch?v=HBq68-ptX78)
 - Video Set 6: Optimization
+  - [Video 0: Finding the Largest Value of f(x)](https://youtu.be/9b4qpdA5nVY)
   - [Video 1: Optimization: Maximizing Area](https://www.youtube.com/watch?v=U4xUxJgMeMg)
   - [Video 2: Optimization: Maximizing Profit](https://www.youtube.com/watch?v=flMzvtv3mXs)
 - Video Set 7: Integrals from Riemann Sums
+  - [Video 0: Going on a Walk](https://youtu.be/bVlMLzEs6Uw)
   - [Video 1: Mars Rover and Dust Accumulation](https://www.youtube.com/watch?v=sRqf-o4k46w)
   - [Video 2: Riemann Sums](https://www.youtube.com/watch?v=PjOWOuD28Ng)
   - [Video 3: Getting Better Estimates and Definite Integrals](https://www.youtube.com/watch?v=bTKGP2md0iM)
