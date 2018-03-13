@@ -16,7 +16,8 @@ output:
 3. [Graphing Derivatives](./graphderiv)
 4. [Basic Derivative Rule](./derivrules)
 6. [Optimization](./opt)
+7. [Integrals from Riemann Sums](./rs)
 
 <!--* [5: The Chain Rule](5)-->
-<!--* [7: Integrals from Riemann Sums](7)-->
+
 <!--* [8: Antiderivatives](8)-->

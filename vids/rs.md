@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Constant Rate of Change"
-meta_title: "set7"
-permalink: "/vids/set7/"
+title: "Integrals From Riemann Sums"
+meta_title: "Riemann Sums"
+permalink: "/vids/rs/"
 ---
 
 <html>
@@ -33,27 +33,27 @@ function getCookie(cname) {
 }
 
 function checkCookie() {
-    var vidchoice=getCookie("vid7");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/set7";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/set7";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/set7";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/set7";}
+    var vidchoice=getCookie("rs");
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids/o/rs";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids/q/rs";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids/v/rs";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids/c/rs";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= 0.25 ){
-        setCookie("vid7", 1, 365);
+        setCookie("rs", 1, 365);
         checkCookie();
         }
       else if (forwardchoice <= 0.5 ){
-        setCookie("vid7", 2, 365);
+        setCookie("rs", 2, 365);
         checkCookie();
         }
       else if (forwardchoice <= 0.75 ){
-        setCookie("vid7", 3, 365);
+        setCookie("rs", 3, 365);
         checkCookie();
         }
       else {
-        setCookie("vid7", 4, 365);
+        setCookie("rs", 4, 365);
         checkCookie();
         }
       }
