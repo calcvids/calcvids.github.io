@@ -21,12 +21,12 @@
 - title: "Resources"
   side: left
   dropdown:
-  - title: "Make your Own Videos"
-    url: "/makeyourown/"
   - title: "Videos"
     url: "/videos/"
   - title: "Powerpoint Slides"
     url: "/slides"
+  - title: "Instructions for Making your Own Videos"
+    url: "/makeyourown/"
 
 - title: "Search"
   url: "/search/"
