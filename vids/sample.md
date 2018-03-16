@@ -18,7 +18,7 @@ We take all of these data and analyze them using quantitative and qualitative te
 * The Chain Rule (Under revision)
 * [Optimization](https://ximera.osu.edu/calcvids/sample/opt)
 * [Integrals from Riemann Sums](https://ximera.osu.edu/calcvids/sample/rs)
-* [8: Antiderivatives](https://ximera.osu.edu/calcvids/sample/antideriv)
+* [Antiderivatives](https://ximera.osu.edu/calcvids/sample/antideriv)
 
 
 <!--* [5: The Chain Rule](5)-->
