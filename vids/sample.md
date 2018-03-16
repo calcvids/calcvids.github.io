@@ -12,6 +12,6 @@ These example videos are for researchers to see examples of our video sets:
 * [3: Graphing Derivatives](https://ximera.osu.edu/calcvids/sample/graphderiv)
 * [4: Basic Derivative Rules](https://ximera.osu.edu/calcvids/sample/derivrules)
 <!--* [5: The Chain Rule](5)-->
-<!--* [6: Optimization](6)-->
+* [6: Optimization](https://ximera.osu.edu/calcvids/sample/opt)
 <!--* [7: Integrals from Riemann Sums](7)-->
 <!--* [8: Antiderivatives](8)-->
