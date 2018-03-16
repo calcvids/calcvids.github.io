@@ -18,4 +18,4 @@ output:
 5. The Chain Rule, under revision
 6. [Optimization](./opt)
 7. [Integrals from Riemann Sums](./rs)
-8: [Antiderivatives](./antideriv)
+8. [Antiderivatives](./antideriv)
