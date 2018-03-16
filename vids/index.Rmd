@@ -15,9 +15,7 @@ output:
 2. [Approximating Instantaneous Rates of Change](./arociroc)
 3. [Graphing Derivatives](./graphderiv)
 4. [Basic Derivative Rule](./derivrules)
+5. The Chain Rule, under revision
 6. [Optimization](./opt)
 7. [Integrals from Riemann Sums](./rs)
-
-<!--* [5: The Chain Rule](5)-->
-
-<!--* [8: Antiderivatives](8)-->
+8: [Antiderivatives](./antideriv)
