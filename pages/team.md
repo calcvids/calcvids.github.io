@@ -8,6 +8,8 @@ permalink: "/team/"
 
 <!--subheadline: "Who we are"-->
 
+For information about the project, [send us an email](mailto:info@calcvids.org?Subject=CalcVidsWebsite)
+
 <p><img style="margin: 7px; float: right;" alt="Aaron Weinberg" width="140" src="/images/Weinberg_Headshot.jpg" /><strong>Aaron Weinberg</strong>&nbsp;received his PhD in Mathematics at the University of Wisconsin in Madison in 2005 and is currently an Associate Professor in the Department of Mathematics at Ithaca College. His research focuses on the ways students learn from mathematical “texts” including textbooks, lectures, and instructional videos. His prior work on adapting ideas from literary criticism and organizational studies to learning mathematics shaped the design of the Calculus Videos Project.</p>
 
 <p>&nbsp;</p>
