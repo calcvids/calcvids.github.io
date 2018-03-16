@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Videos"
+title: "Materials and Data Collection"
 meta_title: "Examples"
 permalink: "/sample/"
 ---
