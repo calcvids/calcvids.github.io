@@ -14,21 +14,19 @@
   url: "/sample/"
   side: left
 
-- title: "Make your Own Videos"
-  url: "/makeyourown/"
+- title: "Publications"
+  url: "/publications/"
   side: left
 
-- title: Slides
-  url: "/slides/"
-  side: left
-
-- title: Research
+- title: "Resources"
   side: left
   dropdown:
+  - title: "Make your Own Videos"
+    url: "/makeyourown/"
   - title: "Videos"
     url: "/videos/"
-  - title: "Publications"
-    url: "/publications/"
+  - title: "Powerpoint Slides"
+    url: "/slides"
 
 - title: "Search"
   url: "/search/"
