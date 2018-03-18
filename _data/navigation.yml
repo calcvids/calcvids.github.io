@@ -21,6 +21,8 @@
 - title: "Resources"
   side: left
   dropdown:
+  - title: "Ximera Pages"
+    url: "/sample/"
   - title: "Videos"
     url: "/videos/"
   - title: "Powerpoint Slides"
