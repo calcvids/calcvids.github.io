@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Powerpoint Slides"
 meta_title: "PPT Slides"
 permalink: "/slides/"
 ---
 
+For each video topic, we have created Powerpoint slides (most of which include voice narration).
 
 ## Powerpoint Slides
   - Constant Rates of Change
@@ -24,11 +24,20 @@ permalink: "/slides/"
     - [Video 1 Slides: The Power Rule](https://drive.google.com/open?id=0B7OjER7Z3zvDZzlZLS11Wm5vNkU)
     - [Video 2 Slides: Exponential and Logarithmic Functions](https://drive.google.com/open?id=0B7OjER7Z3zvDeFRtX1c3S3Q3ZTg)
     - [Video 3 Slides: Trigonometric Functions](https://drive.google.com/open?id=0B7OjER7Z3zvDWmpzMkN5VUNGV0E)
+  - The Product Rule
+    - [Video 1 Slides: The Product Rule](https://drive.google.com/open?id=0B7OjER7Z3zvDeEduWl9yQlh5aXM)
   - The Chain Rule
     - [Video 1 Slides: Conceptual Introduction to the Chain Rule]()
-  - Optimization
+  - Optimization (Examples)
     - [Video 1 Slides: Maximizing Area](https://drive.google.com/open?id=0B-KhUExUZP0kSjU1R00tM2dxbEE)
     - [Video 2 Slides: Maximizing Profit](https://drive.google.com/open?id=0B-KhUExUZP0kNkZ3VzNETFNZNm8)
+  - Optimization (Theory)
+    - [Video 1: Introduction to Optimization](https://drive.google.com/open?id=0B7OjER7Z3zvDN01mRW9NdlE1VDQ)
+    - [Video 2: Optimizing Fuel Economy](https://drive.google.com/open?id=0B7OjER7Z3zvDTTBfYjdhSlFBX0U)
+  - Differential Equations
+    - [Video 1 Slides: Introduction to Differential Equations](https://drive.google.com/open?id=0B7OjER7Z3zvDODVwNkdYV2NISms)
+    - [Video 2 Slides: Working with Differential Equations](https://drive.google.com/open?id=0B7OjER7Z3zvDb2Z2MlZpTEZKNzA)
+    - [Video 3 Slides: Writing Differential Equations](https://drive.google.com/open?id=0B7OjER7Z3zvDTTFRMGNMQUxQTFk)
   - Integrals from Riemann Sums
     - [Video 1 Slides: Accumulation](https://drive.google.com/open?id=18n_U9Mukd4OBtHO2WbsBfLBkapuyiJqT)
     - [Video 2 Slides: Riemann Sums](https://drive.google.com/open?id=15NmKE2RnlLuBw68lhaJJ8TKf7DjHYoFu)
