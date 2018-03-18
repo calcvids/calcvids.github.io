@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 meta_title: "About the Project"
+title: "About the Project"
 permalink: "/info/"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: page
 meta_title: "PPT Slides"
+title: "Powerpoint Slides"
 permalink: "/slides/"
 ---
 
 For each video topic, we have created Powerpoint slides (most of which include voice narration).
 
-## Powerpoint Slides
   - Constant Rates of Change
     - [Video 1 Slides: Constant Speed](https://drive.google.com/open?id=1yZTdd409_NPfkpfx0-l4pel-cKWd7cz9)
     - [Video 2 Slides: Constant Fuel Economy](https://drive.google.com/open?id=1WHOds4V7408SX9UNp9kER02gX2yFhVHA)
@@ -41,6 +41,6 @@ For each video topic, we have created Powerpoint slides (most of which include v
   - Integrals from Riemann Sums
     - [Video 1 Slides: Accumulation](https://drive.google.com/open?id=18n_U9Mukd4OBtHO2WbsBfLBkapuyiJqT)
     - [Video 2 Slides: Riemann Sums](https://drive.google.com/open?id=15NmKE2RnlLuBw68lhaJJ8TKf7DjHYoFu)
-    - [Video 3 Slides: Definite Integrals](https://drive.google.com/open?id=1uq2IwEib-zHLUrst14mIU1415qUB3VoO)  
+    - [Video 3 Slides: Definite Integrals](https://drive.google.com/open?id=1uq2IwEib-zHLUrst14mIU1415qUB3VoO)
   - Antiderivatives
     - [Video 1 Slides: Introduction to Antiderivatives](https://drive.google.com/open?id=1juxW9RSxbH1wXskfOIYYWddocmtgxHZM)
