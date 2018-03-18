@@ -10,17 +10,19 @@
   - title: "The Team"
     url: "/team/"
 
-- title: "Sample Pages"
-  url: "/sample/"
+- title: "Research"
   side: left
-
-- title: "Publications"
-  url: "/publications/"
-  side: left
+  dropdown:
+  - title: "Research Methods"
+    url: "/sample/"
+  - title: "Publications"
+    url: "/publications/"
 
 - title: "Resources"
   side: left
   dropdown:
+  - title: "Ximera Pages"
+    url: "/vids/"
   - title: "Videos"
     url: "/videos/"
   - title: "Powerpoint Slides"
