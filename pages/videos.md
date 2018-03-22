@@ -51,5 +51,5 @@ All of the videos are hosted on YouTube:
   - [Video 3: Getting Better Estimates and Definite Integrals](https://www.youtube.com/watch?v=bTKGP2md0iM)
 - Antiderivatives
   - [Video 1: Antiderivatives](https://www.youtube.com/watch?v=VBALr2ggcR0)
-  - [Vidoe 2: The General Antiderivative](https://www.youtube.com/watch?v=Up7dxYfTYVE)
+  - [Video 2: The General Antiderivative](https://www.youtube.com/watch?v=Up7dxYfTYVE)
   - [Video 3: Evaluating Definite Integrals using Antiderivatives](https://www.youtube.com/watch?v=0amPPufnuok)
