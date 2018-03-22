@@ -28,22 +28,22 @@ All of the videos are hosted on YouTube:
 - Basic Derivative Rules
   - [Video 1: Power Rule](https://www.youtube.com/watch?v=ZVkWzLIk9cw)
   - [Video 2: Exponential and Logs](https://www.youtube.com/watch?v=ZeW4rltctg4)
-  - [Video 3: Trig Functions](https://www.youtube.com/edit?o=U&video_id=mPeRk6nXZcs)
+  - [Video 3: Trig Functions](https://youtu.be/mPeRk6nXZcs)
 - The Product Rule
-  - [Video 1: The Product Rule](https://www.youtube.com/edit?o=U&video_id=MQFGdX8PU2M)
+  - [Video 1: The Product Rule](https://youtu.be/MQFGdX8PU2M)
 - The Chain Rule
   - [Video 1: The Chain Rule](https://www.youtube.com/watch?v=HBq68-ptX78)
-- Optimization (Examples)
+- Optimization (Theory)
+  - [Video 1: Introduction to Optimization](https://youtu.be/Lfu8f1J-CIk)
+  - [Video 2: Optimizing Fuel Economy](https://youtu.be/vFKqnTff_Pw)
+- Optimization (Examples of Modeling)
   - [Video 0: Finding the Largest Value of f(x)](https://youtu.be/9b4qpdA5nVY)
   - [Video 1: Optimization: Maximizing Area](https://www.youtube.com/watch?v=U4xUxJgMeMg)
   - [Video 2: Optimization: Maximizing Profit](https://www.youtube.com/watch?v=flMzvtv3mXs)
-- Optimization (Theory)
-  - [Video 1: Introduction to Optimization](https://www.youtube.com/edit?o=U&video_id=Lfu8f1J-CIk)
-  - [Video 2: Optimizing Fuel Economy](https://www.youtube.com/edit?o=U&video_id=vFKqnTff_Pw)
 - Differential Equations
-  - [Video 1: Introduction to Differential Equations](https://www.youtube.com/edit?o=U&video_id=6Vg70_zocnw)
-  - [Video 2: Working with Differential Equations](https://www.youtube.com/edit?o=U&video_id=CRmqcgOhYfY)
-  - [Video 3: Writing Differential Equations](https://www.youtube.com/edit?o=U&video_id=ugXcOWievXA)
+  - [Video 1: Introduction to Differential Equations](https://youtu.be/6Vg70_zocnw)
+  - [Video 2: Working with Differential Equations](https://youtu.be/CRmqcgOhYfY)
+  - [Video 3: Writing Differential Equations](https://youtu.be/ugXcOWievXA)
 - Integrals from Riemann Sums
   - [Video 0: Going on a Walk](https://youtu.be/bVlMLzEs6Uw)
   - [Video 1: Mars Rover and Dust Accumulation](https://www.youtube.com/watch?v=sRqf-o4k46w)
