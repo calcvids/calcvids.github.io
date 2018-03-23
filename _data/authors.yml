@@ -7,7 +7,7 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 mthomas7: # replace this with your info
   name: "mthomas7"
-  siterole: "webmaster"
+  siterole: "webmaster, researcher"
   uri: http://mthomas7.github.io/
   email: mthomas7@ithaca.edu
 #  twitter: "@phlow"
