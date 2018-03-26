@@ -32,11 +32,11 @@
 
       <div id="subfooter">
 		<nav class="row">
-          <section id="subfooter-left" class="small-10 medium-4 columns credits">
+          <section id="subfooter-left" class="small-10 medium-10 large-10 columns credits">
             {{ site.credits }}
           </section>
           
-       	<section id="subfooter-left" class="small-1 medium-1 columns">
+       	<section id="subfooter-left" class="small-1 medium-1 large-1 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
@@ -44,7 +44,7 @@
             </ul>
           </section>
           
-          <section id="subfooter-right" class="small-1 medium-1 columns">
+          <section id="subfooter-right" class="small-1 medium-1 large-1 columns">
 			<a href="/sitemap.xml">sitemap</a>
           </section>
 		</nav>
