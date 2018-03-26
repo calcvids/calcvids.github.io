@@ -10,7 +10,7 @@ We have created videos for eleven topics in first-semester calculus (listed belo
 All of the videos are hosted on YouTube:
 
 * Constant Rates of Change
-  - [Video 0: Frozen Yogurt](https://youtu.be/JZ-t9EGKcuU)
+  - [Video 0: Frozen Yogurt](https://youtu.be/eB2euzDkpyE)
   - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
   - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
   - [Video 3: Constant Rate of Change (General)](https://youtu.be/sYFaTiio3rI)
