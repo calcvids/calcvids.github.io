@@ -7,7 +7,7 @@ header:
     image_fullwidth: "background_top.jpg"
 ---
 
-The Calculus Video Project is an NSF-funded project *Investigating Student Learning and Sense-Making from Instructional Calculus Videos* (awards DUE #1712312, DUE #1711837 and DUE #1710377). 
+The Calculus Video Project is an NSF-funded project *Investigating Student Learning and Sense-Making from Instructional Calculus Videos* (awards DUE [#1712312](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712312&HistoricalAwards=false), DUE [#1711837](https://nsf.gov/awardsearch/showAward?AWD_ID=1711837&HistoricalAwards=false) and DUE [#1710377](https://nsf.gov/awardsearch/showAward?AWD_ID=1710377&HistoricalAwards=false)). 
 
 The growing interest in progressive instructional formats such as “flipped” and “blended” classrooms has made video lessons an increasingly prominent component of post-secondary mathematics curricula. However, relatively little is known about how students watch and learn from instructional videos. 
 
