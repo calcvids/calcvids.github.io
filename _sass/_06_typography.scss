@@ -29,9 +29,9 @@ a:link {
     transition: all .4s;
 }
 
-a:visited {
+/*a:visited {
     border-bottom: $grey-2;
-}
+}*/
 
 a:hover {
     color: darken( $ci-1, 10% );
