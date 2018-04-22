@@ -28,12 +28,12 @@ For each video topic, we have created Powerpoint slides (most of which include v
     - [Video 1 Slides: The Product Rule](https://drive.google.com/open?id=0B7OjER7Z3zvDeEduWl9yQlh5aXM)
   - The Chain Rule
     - [Video 1 Slides: Conceptual Introduction to the Chain Rule]()
-  - Optimization (Examples)
-    - [Video 1 Slides: Maximizing Area](https://drive.google.com/open?id=0B-KhUExUZP0kSjU1R00tM2dxbEE)
-    - [Video 2 Slides: Maximizing Profit](https://drive.google.com/open?id=0B-KhUExUZP0kNkZ3VzNETFNZNm8)
-  - Optimization (Theory)
+  - Optimization (Introduction)
     - [Video 1: Introduction to Optimization](https://drive.google.com/open?id=0B7OjER7Z3zvDN01mRW9NdlE1VDQ)
     - [Video 2: Optimizing Fuel Economy](https://drive.google.com/open?id=0B7OjER7Z3zvDTTBfYjdhSlFBX0U)
+  - Optimization (Examples of Modeling)
+    - [Video 1 Slides: Maximizing Area](https://drive.google.com/open?id=0B-KhUExUZP0kSjU1R00tM2dxbEE)
+    - [Video 2 Slides: Maximizing Profit](https://drive.google.com/open?id=0B-KhUExUZP0kNkZ3VzNETFNZNm8)
   - Differential Equations
     - [Video 1 Slides: Introduction to Differential Equations](https://drive.google.com/open?id=0B7OjER7Z3zvDODVwNkdYV2NISms)
     - [Video 2 Slides: Working with Differential Equations](https://drive.google.com/open?id=0B7OjER7Z3zvDb2Z2MlZpTEZKNzA)

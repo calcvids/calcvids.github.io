@@ -7,13 +7,13 @@ permalink: "/videos/"
 
 We have created videos for eleven topics in first-semester calculus (listed below); for each topic we have created between 1 and 4 videos that describe the calculus ideas conceptually and provide examples. For some of these topics there is also a "Video 0" that is designed to highlight some of the conceptual challenges students might encounter and to prompt students to be on the lookout for these challenges as they watch the expository videos.
 
-All of the videos are hosted on YouTube:
+All of the videos are available on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
 
 * Constant Rates of Change
-  - [Video 0: Frozen Yogurt](https://youtu.be/eB2euzDkpyE)
-  - [Video 1: Constant Speed](https://youtu.be/ZMU9HkN2yQo)
-  - [Video 2: Constant Fuel Economy](https://youtu.be/UMlntmqvswU)
-  - [Video 3: Constant Rate of Change (General)](https://youtu.be/sYFaTiio3rI)
+  - [Video 0: Frozen Yogurt](https://youtu.be/toQp5d1457I)
+  - [Video 1: Constant Speed](https://youtu.be/8Reoa5yccZM)
+  - [Video 2: Constant Fuel Economy](https://youtu.be/7ZlZVftKVXQ)
+  - [Video 3: Constant Rate of Change (General)](https://youtu.be/WaYiEedXTMQ)
 - Approximating Instantaneous Rates of Change
   - [Video 0: Gravity](https://youtu.be/12PJ5gz-7sA)
   - [Video 1: Approximating Instantaneous Speed](https://youtu.be/sXEhePVRr34)
@@ -33,7 +33,7 @@ All of the videos are hosted on YouTube:
   - [Video 1: The Product Rule](https://youtu.be/MQFGdX8PU2M)
 - The Chain Rule
   - [Video 1: The Chain Rule](https://www.youtube.com/watch?v=HBq68-ptX78)
-- Optimization (Theory)
+- Optimization (Introduction)
   - [Video 1: Introduction to Optimization](https://youtu.be/Lfu8f1J-CIk)
   - [Video 2: Optimizing Fuel Economy](https://youtu.be/vFKqnTff_Pw)
 - Optimization (Examples of Modeling)
