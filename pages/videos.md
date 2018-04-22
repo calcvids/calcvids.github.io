@@ -15,11 +15,11 @@ All of the videos are available on the [YouTube Calcvids channel](https://www.yo
   - [Video 2: Constant Fuel Economy](https://youtu.be/7ZlZVftKVXQ)
   - [Video 3: Constant Rate of Change (General)](https://youtu.be/WaYiEedXTMQ)
 - Approximating Instantaneous Rates of Change
-  - [Video 0: Gravity](https://youtu.be/12PJ5gz-7sA)
-  - [Video 1: Approximating Instantaneous Speed](https://youtu.be/sXEhePVRr34)
-  - [Video 2: Improving the Approximation of Instantaneous Speed](https://youtu.be/jC9VKoaQ5HA)
-  - [Video 3: Approximating Instantaneous Fuel Efficiency](https://youtu.be/GbApYWJm_rk)
-  - [Video 4: Improving the Approximation of Instantaneous Fuel Efficiency](https://youtu.be/YLS0GSyHweU)
+  - [Video 0: Gravity](https://youtu.be/0F3i8gad6Fo)
+  - [Video 1: Approximating Instantaneous Speed](https://youtu.be/V8fL4MFYJJM)
+  - [Video 2: Improving the Approximation of Instantaneous Speed](https://youtu.be/AzAzVPx3Vjc)
+  - [Video 3: Approximating Instantaneous Fuel Efficiency](https://youtu.be/SsZLrCdchAA)
+  - [Video 4: Improving the Approximation of Instantaneous Fuel Efficiency](https://youtu.be/vzN3J5YSxxI)
 - Graphing Derivatives
   - [Video 0: Tangent Lines](https://youtu.be/SyJQ8ugpSkA)
   - [Video 1: Graphing a Speeding up Car](https://www.youtube.com/watch?v=uHY0B3iPHjU)
