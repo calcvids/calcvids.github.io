@@ -5,11 +5,346 @@ title: "Videos"
 permalink: "/videos/"
 ---
 
-We have created videos for eleven topics in first-semester calculus (listed below); for each topic we have created between 1 and 4 videos that describe the calculus ideas conceptually and provide examples. For some of these topics there is also a "Video 0" that is designed to highlight some of the conceptual challenges students might encounter and to prompt students to be on the lookout for these challenges as they watch the expository videos.
+We have created videos for many topics in first-semester calculus (listed below). For each topic there is a "Video 0" that features two students working on a problem that motivates the study of the topic and highlights difficulties that many students face. The subsequent videos show how to solve the problem and use this as a springboard to describe the mathematical concept.
 
-All of the videos are available on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
+Each collection of videos can be viewed on our Ximera platform, which allows students to try the motivating problem, watch all of the videos, and complete diagnostic questions prior to and after watching the videos.
 
-* Constant Rates of Change
+
+<table>
+	<tr>
+		<th>Topic</th>
+		<th>Ximera Page</th>
+		<th>Individual Videos</th>
+	</tr>
+	<tr>
+		<td>Constant Rates of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Pouring Water into a Cylinder</a>
+			<LI><a href="">Solving the Problem of Pouring Water</a>
+			<LI><a href="">Formal Definition of Constant Rate of Change</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Graphing Constant Rate of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Cannon Cow!</a>
+			<LI><a href="">Graphing Cannon Cow and Other Constant Rates of Change</a>
+			<LI><a href="">Formal Description of Graphing Constant Rates of Change</a>
+			</OL>
+		</td>
+	</tr>	
+	<tr>
+		<td>Increasing Rates of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Pouring Water into an Erlenmeyer Flask</a>
+			<LI><a href="">Solving the Problem of Pouring Water</a>
+			<LI><a href="">Formal Definition of Increasing Rate of Change</a>
+			</OL>
+		</td>
+	</tr>	
+	<tr>
+		<td>Graphing Increasing Rates of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: ???</a>
+			<LI><a href=""></a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Average Rates of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
+			<LI><a href="">Average Rates of Change as Constant Rates of Change</a>
+			</OL>
+		</td>
+	</tr>	
+	<tr>
+		<td>Approximating Instantaneous Rates of Change</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: The Stationary Baseball</a>
+			<LI><a href="">Using Average Rates of Change to Approximate Instantaneous Rates</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Limits</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>	
+	<tr>
+		<td>l'Hopital's Rule</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Continuity</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Differentiability and Local Linearity</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
+			<LI><a href="">Local Linearity</a>
+			<LI><a href="">The Microscope Equation</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Limit Definition of Derivative</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Rate of Absorbing Ibuprofen</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Slopes of Secant and Tangent Lines</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: The Imprecision of Tangents</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>		
+	<tr>
+		<td>Graphing Derivatives</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Graphing the Speed of a Baseball</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Basic Derivative Rules</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Trying to Use the Limit Definition</a>
+			<LI><a href="">The Power Rule</a>
+			<LI><a href="">Exponential and Logarithmic Functions</a>
+			<LI><a href="">Trigonometric Functions</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>The Product Rule</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Products of Polynomials</a>
+			<LI><a href="">Procedural Description of the Product Rule</a>
+			<LI><a href="">Conceptual Explanation of the Product Rule</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>The Quotient Rule</td>
+		<td>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>		
+	<tr>
+		<td>The Chain Rule</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: The Speed of a Ripple</a>
+			<LI><a href="">Procedural Description of the Product Rule</a>
+			<LI><a href="">Conceptual Explanation of the Product Rule</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Derivative Theorems</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			<LI>Rolle's Theorem
+			<LI>The Mean Value Theorem
+			<LI>The Extreme Value Theorem
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Linear Approximation</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Locating a Submarine</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Implicit Differentiation</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Landing on an Asteroid</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Related Rates</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Introduction to Optimization</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Maximizing Fuel Economy</a>
+			<LI><a href="">Using Derivatives to Maximize Fuel Economy</a>
+			<LI><a href="">Critical Points, Endpoints, and Optimization</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Optimization: Algebraic Modeling</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Maximizing an Animal Pen</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Introduction to Riemann Sums</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Dust Accumulation on the Mars Rover</a>
+			<LI><a href="">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
+			<LI><a href="">Left and Right Hand Riemann Sums</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Riemann Sum Notation</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Writing a Riemann Sum Two Ways</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Definite Integrals</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Mars Rover Using a Formula</a>
+			<LI><a href="">Definite Integrals as Limits of Riemann Sums</a>
+			<LI><a href="">Another Example of Definite Integrals</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>The Fundamental Theorem of Calculus, Part 1</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>The Fundamental Theorem of Calculus, Part 2</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>Antiderivatives</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>U-Substitution</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>An Introduction to (Linear) Differential Equations</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Interpreting Differential Equations</a>
+			<LI><a href="">Writing Differential Equations</a>
+			<LI><a href="">Computing with Differential Equations</a>
+			</OL>
+		</td>
+	</tr>
+	<tr>
+		<td>An Introduction to Euler's Method</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="">Video 0: Computing the Spread of an Infection</a>
+			<LI><a href=""></a>
+			</OL>
+		</td>
+	</tr>
+</table>
+
+
+
+All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
+
+
+
+<!--
+- Constant Rates of Change
   - [Video 0: Frozen Yogurt](https://youtu.be/eB2euzDkpyE)
   - [Video 1: Constant Speed](https://youtu.be/8Reoa5yccZM)
   - [Video 2: Constant Fuel Economy](https://youtu.be/7ZlZVftKVXQ)
@@ -53,3 +388,4 @@ All of the videos are available on the [YouTube Calcvids channel](https://www.yo
   - [Video 1: Antiderivatives](https://www.youtube.com/watch?v=VBALr2ggcR0)
   - [Video 2: The General Antiderivative](https://www.youtube.com/watch?v=Up7dxYfTYVE)
   - [Video 3: Evaluating Definite Integrals using Antiderivatives](https://www.youtube.com/watch?v=0amPPufnuok)
+  -->
