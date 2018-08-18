@@ -23,7 +23,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/U4EBJ3cDdck">Video 0: Pouring Water into a Cylinder</a>
+			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
 			<LI><a href="https://youtu.be/nkrT9mtT4tQ">Solving the Problem of Pouring Water</a>
 			<LI><a href="https://youtu.be/2sj_DicMlAw">Formal Definition of Constant Rate of Change</a>
 			
@@ -41,7 +41,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Pouring Water into an Erlenmeyer Flask</a>
+			<LI><a href="https://youtu.be/MXmejPLuenA">Video 0: Pouring Water into an Erlenmeyer Flask</a>
 			<LI><a href="https://youtu.be/4zDly9al2uw">Solving the Problem of Pouring Water</a>
 			<LI><a href="https://youtu.be/rVOVG6Qy_3k">Frozen Yogurt in a Cone</a>
 				
@@ -59,7 +59,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
+			<LI><a href="https://youtu.be/XUv2tvPBoT4">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
 			<LI><a href="">Average Rates of Change as Constant Rates of Change</a>
 				
 	<tr>
