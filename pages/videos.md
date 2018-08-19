@@ -32,7 +32,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Cannon Cow!</a>
+			<LI><a href="https://youtu.be/pUXH9QPep2g">Video 0: Cannon Cow!</a>
 			<LI><a href="https://youtu.be/9dS_h4DQaOw">Graphing Cannon Cow</a>
 			<LI><a href="">Graphing Other Constant Rates of Change</a>
 				
@@ -50,7 +50,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: ???</a>
+			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Boiling Flask</a>
 			<LI><a href=""></a>
 			<LI><a href=""></a>
 			
