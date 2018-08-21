@@ -11,6 +11,7 @@ Each collection of videos can be viewed on our Ximera platform, which allows stu
 
 All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
 
+TEST
 
 <table>
 	<tr>
