@@ -11,7 +11,6 @@ Each collection of videos can be viewed on our Ximera platform, which allows stu
 
 All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
 
-
 <table>
 	<tr>
 		<th>Topic</th>
@@ -273,7 +272,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="">Video 0: Computing the Spread of an Infection</a>
 			<LI><a href=""></a>
 			
-</table>
+<!--</table>-->
 
 
 
