@@ -19,7 +19,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 	</tr>
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td>Link</td>
+		<td><a href="">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
@@ -28,7 +28,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td>Link</td>
+		<td><a href="">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/pUXH9QPep2g">Video 0: Cannon Cow!</a>
