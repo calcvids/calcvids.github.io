@@ -13,6 +13,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 
 New Table
+
 | Topic                    | Ximera Page                          | Individual Videos                                                                                                                                                                                                                 |
 |--------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Constant Rates of Change | [Link](https://calcvids.org/videos/) | 1. [Video 0: Pouring Water into a Cylinder](https://youtu.be/zoiSL3XfpP8) 2. [Solving the Problem of Pouring Water](https://youtu.be/nkrT9mtT4tQ) 3. [Formal Definition of Constant Rate of Change](https://youtu.be/2sj_DicMlAw) |
