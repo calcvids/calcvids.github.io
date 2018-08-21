@@ -27,9 +27,6 @@ TEST
 			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
 			<LI><a href="https://youtu.be/nkrT9mtT4tQ">Solving the Problem of Pouring Water</a>
 			<LI><a href="https://youtu.be/2sj_DicMlAw">Formal Definition of Constant Rate of Change</a>
-			</OL>
-		</td>
-	</tr>
 			
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
@@ -39,7 +36,6 @@ TEST
 			<LI><a href="https://youtu.be/pUXH9QPep2g">Video 0: Cannon Cow!</a>
 			<LI><a href="https://youtu.be/9dS_h4DQaOw">Graphing Cannon Cow</a>
 			<LI><a href="">Graphing Other Constant Rates of Change</a>
-			</OL>
 				
 	<tr>
 		<td>Increasing Rates of Change</td>
@@ -278,7 +274,7 @@ TEST
 			<LI><a href="">Video 0: Computing the Spread of an Infection</a>
 			<LI><a href=""></a>
 			
-</table>
+<!--</table>-->
 
 
 
