@@ -23,8 +23,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
-			<LI><a href="https://youtu.be/nkrT9mtT4tQ">Solving the Problem of Pouring Water</a>
-			<LI><a href="https://youtu.be/2sj_DicMlAw">Formal Definition of Constant Rate of Change</a>
+			<LI><a href="https://youtu.be/R2vzyWqphXE">Solving the Problem of Pouring Water</a>
+			<LI><a href="https://youtu.be/0RZiy462KOw">Formal Definition of Constant Rate of Change</a>
 			
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
