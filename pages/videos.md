@@ -60,6 +60,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/XUv2tvPBoT4">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
 			<LI><a href="https://youtu.be/0TYOyj8XQt8">Average Rates of Change as Constant Rates of Change</a>
+			<LI><a href="https://youtu.be/Pm_Cwqx-6_0">A Precise Description of Average Rates of Change</a>
 				
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
