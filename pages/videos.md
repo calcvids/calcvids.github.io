@@ -270,8 +270,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Computing the Spread of an Infection</a>
-			<LI><a href=""></a>
+			<LI><a href="https://youtu.be/RO-9rdHPA_Y">Video 0: Computing the Spread of an Infection</a>
+			<LI><a href="https://youtu.be/s7VlFqxtXSk">Using Euler's Method to Model the Spread of an Infection</a>
 			
 <!--</table>-->
 
