@@ -45,12 +45,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/rVOVG6Qy_3k">Frozen Yogurt in a Cone</a>
 				
 	<tr>
-		<td>Graphing Increasing Rates of Change</td>
+		<td>Graphing Varying Rates of Change</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Boiling Flask</a>
-			<LI><a href=""></a>
+			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Spherical Flask</a>
+			<LI><a href="https://youtu.be/-1p2cvT4yH0">Making a Graph for Filling a Spherical Flask</a>
 			<LI><a href=""></a>
 			
 	<tr>
