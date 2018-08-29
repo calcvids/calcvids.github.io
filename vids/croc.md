@@ -35,7 +35,7 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("croc");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18cacvids/o/croc/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/croc/name";}
     else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/q/croc/name";}
     else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/croc/name";}
     else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/croc/name";}
