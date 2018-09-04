@@ -67,7 +67,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: The Stationary Baseball</a>
+			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
 			<LI><a href="">Using Average Rates of Change to Approximate Instantaneous Rates</a>
 			
 	<tr>
@@ -110,7 +110,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: The Imprecision of Tangents</a>
+			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
 			<LI><a href=""></a>
 					
 	<tr>
