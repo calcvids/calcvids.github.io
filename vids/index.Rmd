@@ -12,8 +12,10 @@ output:
 <!-- note: do not edit this html file directly -->
 
 1. [Ximera introduction](https://ximera.osu.edu/fall18calcvids/intro/intro/intro/name1)
-2. [Constant Rate of Change](./croc)
-3. [Average Rate of Change](./aroc)
+1. [Constant Rate of Change](./croc)
+1. [Graphing Constant Rate of Change](./graphingcroc)
+1. [Average Rate of Change](./aroc)
+
 
 <!-- old pages
 1. [Constant Rate of Change](./croc)
