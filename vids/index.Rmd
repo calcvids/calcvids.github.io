@@ -15,7 +15,7 @@ output:
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
 1. [Average Rate of Change](./aroc)
-
+2. [Increasing Rate of Change](./incroc)
 
 <!-- old pages
 1. [Constant Rate of Change](./croc)
