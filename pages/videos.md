@@ -69,7 +69,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
 			<LI><a href="https://youtu.be/5_Bahm373aA">Approximating the Speed of a Baseball</a>
-			<LI><a href="https://youtu.be/j5K8tTuFiQ4">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
+			<LI><a href="https://youtu.be/3su5kH5PW9Y">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 			
 	<tr>
 		<td>Limits</td>
