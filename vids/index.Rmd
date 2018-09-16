@@ -14,8 +14,9 @@ output:
 1. [Ximera introduction](https://ximera.osu.edu/fall18calcvids/intro/intro/intro/name1)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
-2. [Increasing Rate of Change](./incroc)
+1. [Increasing Rate of Change](./incroc)
 1. [Average Rate of Change](./aroc)
+1. [Approximating Instantaneous Rates of Change](./approxiroc)
 
 
 <!-- old pages
