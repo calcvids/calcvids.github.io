@@ -68,7 +68,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
-			<LI><a href="">Using Average Rates of Change to Approximate Instantaneous Rates</a>
+			<LI><a href="https://youtu.be/5_Bahm373aA">Approximating the Speed of a Baseball</a>
+			<LI><a href="https://youtu.be/3su5kH5PW9Y">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 			
 	<tr>
 		<td>Limits</td>
@@ -90,7 +91,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href="">Link</a></td>
+		<td><a href="">Coming in 2019</a></td>
 		<td>
 			<OL>
 			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
@@ -102,7 +103,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Rate of Absorbing Ibuprofen</a>
+			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
 			<LI><a href=""></a>
 			
 	<tr>
