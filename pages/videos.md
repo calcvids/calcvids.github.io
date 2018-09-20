@@ -112,6 +112,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
+			<LI><a href="https://youtu.be/Stb1NDYz-Uk">Video 1: Graphing the speed of a baseball</a>		
 			<LI><a href=""></a>
 					
 	<tr>
