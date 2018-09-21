@@ -17,6 +17,7 @@ output:
 1. [Increasing Rate of Change](./incroc)
 1. [Average Rate of Change](./aroc)
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
+1. [Secant Lines and Tangent Lines](./secanttangent)
 
 
 <!-- old pages
