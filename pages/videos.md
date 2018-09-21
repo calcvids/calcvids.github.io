@@ -112,7 +112,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
-			<LI><a href="https://youtu.be/Stb1NDYz-Uk">Video 1: Graphing the speed of a baseball</a>		
+			<LI><a href="https://youtu.be/j5SvtRvDutA">Video 1: Finding the speed of a baseball at a moment in time graphically</a>
+			<LI><a href="https://youtu.be/sWQoDQY8q3Y">Video 2: Graphing the rate of change of metabolizing ibuprofen</a>
 			<LI><a href=""></a>
 					
 	<tr>
@@ -120,7 +121,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Graphing the Speed of a Baseball</a>
+			<LI><a href="https://youtu.be/ne1wzBThVvQ">Video 0: Graphing the Speed of a Baseball</a>
 			<LI><a href=""></a>
 			
 	<tr>
