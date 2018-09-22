@@ -15,6 +15,7 @@ output:
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
 1. [Increasing Rate of Change](./incroc)
+1. [Graphing Varying Rates of Change](./graphingincroc)
 1. [Average Rate of Change](./aroc)
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
 1. [Secant Lines and Tangent Lines](./secanttangent)
