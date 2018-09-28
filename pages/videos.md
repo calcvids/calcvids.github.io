@@ -122,7 +122,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/ne1wzBThVvQ">Video 0: Graphing the Speed of a Baseball</a>
-			<LI><a href=""></a>
+			<LI><a href="https://youtu.be/KUKR8ZFZNQc">Video 1: Graphing the Derivative Function</a>
 			
 	<tr>
 		<td>Basic Derivative Rules</td>
