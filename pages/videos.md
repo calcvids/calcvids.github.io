@@ -129,10 +129,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Trying to Use the Limit Definition</a>
-			<LI><a href="">The Power Rule</a>
-			<LI><a href="">Exponential and Logarithmic Functions</a>
-			<LI><a href="">Trigonometric Functions</a>
+			<LI><a href="https://youtu.be/7eJHI8QfxeA">Video 0: Trying to Use the Limit Definition</a>
+			<LI><a href="https://youtu.be/mZxQnF1iYBA">The Power Rule</a>
+			<LI><a href="https://youtu.be/KWwbNSFkY8w">Exponential and Logarithmic Functions</a>
+			<LI><a href="https://youtu.be/k28KSIsbiso">Trigonometric Functions</a>
 			
 	<tr>
 		<td>The Product Rule</td>
