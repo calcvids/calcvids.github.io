@@ -104,7 +104,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
-			<LI><a href=""></a>
+			<LI><a href="https://youtu.be/V-rijY4byOY">Video 1: Defining the derivative</a>
 			
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
