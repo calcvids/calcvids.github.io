@@ -154,7 +154,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: The Speed of a Ripple</a>
+			<LI><a href="https://youtu.be/sdktw1QHekQ">Video 0: A Ripple in a Pond</a>
 			<LI><a href="">Procedural Description of the Product Rule</a>
 			<LI><a href="">Conceptual Explanation of the Product Rule</a>
 			
