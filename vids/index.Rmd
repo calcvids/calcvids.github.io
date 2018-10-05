@@ -20,6 +20,7 @@ output:
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
 1. [Secant Lines and Tangent Lines](./secanttangent)
 1. [Graphing Derivatives](./graphingderiv)
+1. [Basic Derivative Rules](./basicderivrules)
 
 
 <!-- old pages
