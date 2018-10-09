@@ -103,7 +103,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
-			<LI><a href="https://youtu.be/V-rijY4byOY">Video 1: Defining the derivative</a>
+			<LI><a href="https://youtu.be/V-rijY4byOY">Defining the derivative</a>
 			
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
@@ -111,8 +111,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
-			<LI><a href="https://youtu.be/j5SvtRvDutA">Video 1: Finding the speed of a baseball at a moment in time graphically</a>
-			<LI><a href="https://youtu.be/sWQoDQY8q3Y">Video 2: Graphing the rate of change of metabolizing ibuprofen</a>
+			<LI><a href="https://youtu.be/j5SvtRvDutA">Finding the speed of a baseball at a moment in time graphically</a>
+			<LI><a href="https://youtu.be/sWQoDQY8q3Y">Graphing the rate of change of metabolizing ibuprofen</a>
 					
 	<tr>
 		<td>Graphing Derivatives</td>
@@ -120,7 +120,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/ne1wzBThVvQ">Video 0: Graphing the Speed of a Baseball</a>
-			<LI><a href="https://youtu.be/KUKR8ZFZNQc">Video 1: Graphing the Derivative Function</a>
+			<LI><a href="https://youtu.be/KUKR8ZFZNQc">Graphing the Derivative Function</a>
 			
 	<tr>
 		<td>Basic Derivative Rules</td>
