@@ -51,7 +51,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Spherical Flask</a>
 			<LI><a href="https://youtu.be/-1p2cvT4yH0">Making a Graph for Filling a Spherical Flask</a>
-			<LI><a href=""></a>
 			
 	<tr>
 		<td>Average Rates of Change</td>
@@ -114,7 +113,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
 			<LI><a href="https://youtu.be/j5SvtRvDutA">Video 1: Finding the speed of a baseball at a moment in time graphically</a>
 			<LI><a href="https://youtu.be/sWQoDQY8q3Y">Video 2: Graphing the rate of change of metabolizing ibuprofen</a>
-			<LI><a href=""></a>
 					
 	<tr>
 		<td>Graphing Derivatives</td>
@@ -173,16 +171,18 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Locating a Submarine</a>
+<!--			<LI><a href="">Video 0: Locating a Submarine</a>
 			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>Implicit Differentiation</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Landing on an Asteroid</a>
+<!--			<LI><a href="">Video 0: Landing on an Asteroid</a>
 			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>Related Rates</td>
@@ -195,58 +195,65 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Maximizing Fuel Economy</a>
+<!--			<LI><a href="">Video 0: Maximizing Fuel Economy</a>
 			<LI><a href="">Using Derivatives to Maximize Fuel Economy</a>
 			<LI><a href="">Critical Points, Endpoints, and Optimization</a>
+-->
 			
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Maximizing an Animal Pen</a>
+<!--			<LI><a href="">Video 0: Maximizing an Animal Pen</a>
 			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>Introduction to Riemann Sums</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Dust Accumulation on the Mars Rover</a>
+<!--			<LI><a href="">Video 0: Dust Accumulation on the Mars Rover</a>
 			<LI><a href="">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
 			<LI><a href="">Left and Right Hand Riemann Sums</a>
+-->
 			
 	<tr>
 		<td>Riemann Sum Notation</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Writing a Riemann Sum Two Ways</a>
+<!--			<LI><a href="">Video 0: Writing a Riemann Sum Two Ways</a>
 			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>Definite Integrals</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Mars Rover Using a Formula</a>
+<!--			<LI><a href="">Video 0: Mars Rover Using a Formula</a>
 			<LI><a href="">Definite Integrals as Limits of Riemann Sums</a>
 			<LI><a href="">Another Example of Definite Integrals</a>
+-->
 			
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href=""></a>
+<!--			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
+<!--			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
 			<LI><a href=""></a>
+-->
 			
 	<tr>
 		<td>Antiderivatives</td>
@@ -265,9 +272,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Interpreting Differential Equations</a>
+<!--			<LI><a href="">Interpreting Differential Equations</a>
 			<LI><a href="">Writing Differential Equations</a>
 			<LI><a href="">Computing with Differential Equations</a>
+-->
 			
 	<tr>
 		<td>An Introduction to Euler's Method</td>
