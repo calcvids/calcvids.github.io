@@ -18,6 +18,7 @@ output:
 1. [Graphing Varying Rates of Change](./graphingincroc)
 1. [Average Rate of Change](./aroc)
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
+1. [Limit Definition of Derivative](./limitdef)
 1. [Secant Lines and Tangent Lines](./secanttangent)
 1. [Graphing Derivatives](./graphingderiv)
 1. [Basic Derivative Rules](./basicderivrules)
