@@ -180,10 +180,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Landing on an Asteroid</a>
-			<LI><a href=""></a>
--->
-			
+			<LI><a href="https://youtu.be/8rzPToCfPbU">Video 0: A Complicated Tangent Line</a>
+			<LI><a href="https://youtu.be/vcIkAiA1pmg"></a>Introduction to Implicit Differentiation</a>
+			<LI><a href="https://youtu.be/qID7KaYyiVU"></a>Tangent Lines for a Cardioid</a>	
+	
 	<tr>
 		<td>Related Rates</td>
 		<td><a href=""></a>Coming in 2019</td>
