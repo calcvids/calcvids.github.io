@@ -14,12 +14,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 <table>
 	<tr>
 		<th>Topic</th>
-		<th>Ximera Page</th>
+		<th>Ximera Page (Video 0 Version)</th>
 		<th>Individual Videos</th>
 	</tr>
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/croc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
@@ -28,7 +28,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingcroc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/pUXH9QPep2g">Video 0: Cannon Cow!</a>
@@ -37,7 +37,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 				
 	<tr>
 		<td>Increasing Rates of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/incroc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/MXmejPLuenA">Video 0: Pouring Water into an Erlenmeyer Flask</a>
@@ -46,7 +46,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 				
 	<tr>
 		<td>Graphing Varying Rates of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingincroc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Spherical Flask</a>
@@ -54,7 +54,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Average Rates of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/aroc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/XUv2tvPBoT4">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
@@ -63,7 +63,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 				
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/approxiroc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
@@ -93,13 +93,14 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Coming in 2019</a></td>
 		<td>
 			<OL>
-			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
+<!--			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
 			<LI><a href="">Local Linearity</a>
 			<LI><a href="">The Microscope Equation</a>
+-->
 			
 	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/limitdef/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
@@ -107,7 +108,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/secanttangent/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
@@ -116,7 +117,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 					
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingderiv/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/ne1wzBThVvQ">Video 0: Graphing the Speed of a Baseball</a>
@@ -124,7 +125,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/basicderivrules/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/7eJHI8QfxeA">Video 0: Trying to Use the Limit Definition</a>
@@ -134,7 +135,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>The Product Rule</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/product/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/lNtUxFrPiV0">Video 0: Products of Polynomials</a>
@@ -149,7 +150,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 					
 	<tr>
 		<td>The Chain Rule</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/chain/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/sdktw1QHekQ">Video 0: A Ripple in a Pond</a>
@@ -168,7 +169,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Linear Approximation</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name">Coming in 2019</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Locating a Submarine</a>
@@ -177,7 +178,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/implicit/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/8rzPToCfPbU">Video 0: A Complicated Tangent Line</a>
@@ -192,7 +193,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/optintro/name">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/wzfngtq-YnU">Video 0: Maximizing Fuel Economy</a>
@@ -202,7 +203,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/optmodel/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Maximizing an Animal Pen</a>
@@ -211,7 +212,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsintro/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Dust Accumulation on the Mars Rover</a>
@@ -221,7 +222,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsnotation/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Writing a Riemann Sum Two Ways</a>
@@ -230,7 +231,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Definite Integrals</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/defint/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Mars Rover Using a Formula</a>
@@ -240,7 +241,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/ftoc1/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href=""></a>
@@ -248,7 +249,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/ftoc2/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
@@ -257,7 +258,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Antiderivatives</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/antideriv/name"></a>Coming in 2019</td>
 		<td>
 			<OL>
 			
@@ -279,7 +280,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>An Introduction to Euler's Method</td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/euler/euler">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/RO-9rdHPA_Y">Video 0: Computing the Spread of an Infection</a>
