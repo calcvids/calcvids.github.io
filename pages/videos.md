@@ -195,10 +195,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Maximizing Fuel Economy</a>
-			<LI><a href="">Using Derivatives to Maximize Fuel Economy</a>
-			<LI><a href="">Critical Points, Endpoints, and Optimization</a>
--->
+			<LI><a href="https://youtu.be/wzfngtq-YnU">Video 0: Maximizing Fuel Economy</a>
+			<LI><a href="https://youtu.be/bBpOQwKbpro">Using Derivatives to Maximize Fuel Economy</a>
+			<LI><a href="https://youtu.be/rkvvudpi2gA">An Example of Optimization</a>
+
 			
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
