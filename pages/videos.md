@@ -90,7 +90,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href="">Coming in 2019</a></td>
+		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
@@ -162,14 +162,15 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>Derivative Theorems</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
-			<OL>
+<!--			<OL>
 			<LI>Rolle's Theorem
 			<LI>The Mean Value Theorem
 			<LI>The Extreme Value Theorem
+-->
 			
 	<tr>
 		<td>Linear Approximation</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name">Coming in 2019</a></td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name"></a>Coming in 2019</td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Locating a Submarine</a>
@@ -182,8 +183,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/8rzPToCfPbU">Video 0: A Complicated Tangent Line</a>
-			<LI><a href="https://youtu.be/vcIkAiA1pmg"></a>Introduction to Implicit Differentiation</a>
-			<LI><a href="https://youtu.be/qID7KaYyiVU"></a>Tangent Lines for a Cardioid</a>	
+			<LI><a href="https://youtu.be/vcIkAiA1pmg">Introduction to Implicit Differentiation</a>
+			<LI><a href="https://youtu.be/qID7KaYyiVU">Tangent Lines for a Cardioid</a>	
 	
 	<tr>
 		<td>Related Rates</td>
