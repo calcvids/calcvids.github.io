@@ -215,10 +215,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsintro/name">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Dust Accumulation on the Mars Rover</a>
-			<LI><a href="">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
-			<LI><a href="">Left and Right Hand Riemann Sums</a>
--->
+			<LI><a href="https://youtu.be/peIV1NJHs3Q">Video 0: Dust Accumulation on the Mars Rover</a>
+			<LI><a href="https://youtu.be/c87nft6Rpmg">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
+			<LI><a href="https://youtu.be/rfwqZFq64Hc">A Riemann Sum for an Oil Spill</a>
 			
 	<tr>
 		<td>Riemann Sum Notation</td>
