@@ -224,9 +224,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsnotation/name">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Writing a Riemann Sum Two Ways</a>
-			<LI><a href=""></a>
--->
+			<LI><a href="https://youtu.be/oqdJUzX_YLY">Video 0: Writing a Riemann Sum Two Ways</a>
+			<LI><a href="https://youtu.be/JnYo3K6_HRE">Writing Riemann Sums using Sigma Notation</a>
+
 			
 	<tr>
 		<td>Definite Integrals</td>
