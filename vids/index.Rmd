@@ -27,7 +27,7 @@ output:
 1. [Implicit Differentiation](./implicit)
 1. [Optimization Intro](./optintro)
 1. [Optimization Modeling](./optmodel)
-
+1. [Riemann Sums Introduction](./rsintro)
 
 <!-- old pages
 1. [Constant Rate of Change](./croc)
