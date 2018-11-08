@@ -233,10 +233,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/fall18calcvids/v/defint/name">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Mars Rover Using a Formula</a>
-			<LI><a href="">Definite Integrals as Limits of Riemann Sums</a>
-			<LI><a href="">Another Example of Definite Integrals</a>
--->
+			<LI><a href="https://youtu.be/YhX-bv8IDVw">Video 0: Mars Rover Using a Formula</a>
+			<LI><a href="https://youtu.be/k2kypPsNeN0">Definite Integrals as Limits of Riemann Sums</a>
+			<LI><a href="https://youtu.be/c_h38wysuxQ">A Definite Integral for an Oil Spill</a>
+
 			
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
