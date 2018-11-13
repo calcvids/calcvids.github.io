@@ -29,6 +29,7 @@ output:
 1. [Optimization Modeling](./optmodel)
 1. [Riemann Sums Introduction](./rsintro)
 1. [Riemann Sums Notation](./rsnotation)
+1. [Definite Integrals](./defint)
 
 <!-- old pages
 1. [Constant Rate of Change](./croc)
