@@ -28,6 +28,7 @@ output:
 1. [Optimization Intro](./optintro)
 1. [Optimization Modeling](./optmodel)
 1. [Riemann Sums Introduction](./rsintro)
+1. [Riemann Sums Notation](./rsnotation)
 
 <!-- old pages
 1. [Constant Rate of Change](./croc)
