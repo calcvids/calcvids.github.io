@@ -4,8 +4,9 @@ meta_title: "PPT Slides"
 title: "Powerpoint Slides"
 permalink: "/slides/"
 ---
+We have Powerpoint slides with narration for each of our videos. These slides will be made available after we have published final drafts of the videos.
 
-For each video topic, we have created Powerpoint slides (most of which include voice narration).
+<!--For each video topic, we have created Powerpoint slides (most of which include voice narration).
 
   - Constant Rates of Change
     - [Video 1 Slides: Constant Speed](https://drive.google.com/open?id=1yZTdd409_NPfkpfx0-l4pel-cKWd7cz9)
@@ -44,3 +45,4 @@ For each video topic, we have created Powerpoint slides (most of which include v
     - [Video 3 Slides: Definite Integrals](https://drive.google.com/open?id=1uq2IwEib-zHLUrst14mIU1415qUB3VoO)
   - Antiderivatives
     - [Video 1 Slides: Introduction to Antiderivatives](https://drive.google.com/open?id=1juxW9RSxbH1wXskfOIYYWddocmtgxHZM)
+-->

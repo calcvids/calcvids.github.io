@@ -5,7 +5,11 @@ title: "Videos"
 permalink: "/videos/"
 ---
 
-We have created videos for many topics in first-semester calculus (listed below). For each topic there is a "Video 0" that features two students working on a problem that motivates the study of the topic and highlights difficulties that many students face. The subsequent videos show how to solve the problem and use this as a springboard to describe the mathematical concept.
+We have created videos for many topics in first-semester calculus (listed below). 
+
+The videos are currently rough drafts---there are visual, audio, and (occasionally) mathematical aspects of the videos that we are in the process of identifying and correcting. 
+
+For each topic there is a "Video 0" that features two students working on a problem that motivates the study of the topic and highlights difficulties that many students face. The subsequent videos show how to solve the problem and use this as a springboard to describe the mathematical concept.
 
 Each collection of videos can be viewed on our Ximera platform, which allows students to try the motivating problem, watch all of the videos, and complete diagnostic questions prior to and after watching the videos.
 
