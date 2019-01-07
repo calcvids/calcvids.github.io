@@ -7,7 +7,7 @@ header:
     image_fullwidth: "background_top.jpg"
 ---
 
-<span font-size:4em;">
+<span style="font-size:4em;">
 We are recruiting instructors to use our resources in 2019-2020.  <span style="color:red">Visit our [participation](/ay2019study) page to learn more.
 </span>
 </span>
