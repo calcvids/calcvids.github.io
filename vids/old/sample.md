@@ -13,6 +13,8 @@ Each collection of videos, questions, and interventions is hosted on the Ximera 
 
 We take all of these data and analyze them using quantitative and qualitative techniques to paint a picture of how students use and interact with the videos, what they learn from watching the videos, and how their usage is related to their learning.
 
+The materials below are still rough drafts; final versions of all of the materials will be posted for the Fall, 2019 semester.
+
 | Topic                                  | Video 0 Version                                              | Outline Version                                              | Post-Video Questions Version                                | Control Version                                               |
 |----------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------|
 | Intro                                  |                                                              |                                                              |                                                             | [Link](https://ximera.osu.edu/fall18calcvids/intro/intro/intro/name1) |
