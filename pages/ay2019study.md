@@ -9,16 +9,18 @@ Are you interested in using high-quality instructional videos in an introductory
 
 We are recruiting college-level instructors of first-semester calculus classes to use our videos during the fall, 2019, and spring, 2020 semesters.
 
-Participants would have access to all of our video, assessment, and data-collection materials, support from the research team, and would receive financial compensation for participation.
+Participants would have access to all of our video and assessment materials, support and professional development opportunities from the research team, and would receive financial compensation for participation.
 
 Participants would be required to:
-  - Participate in a 90-minute webinar to learn about the materials and how they have been designed
-  - Have their students complete a short (5-minute) tutorial to learn how to use the Ximera platform
+  - Participate in an online professional development session prior to the beginning of the Fall, 2019 semester to learn about the materials and how they have been designed
+  - Provide a description of their use of the videos in their classes
+  - Describe the study to their students
+  - Have their students complete a short (5-minute) tutorial to learn how to use the Ximera platform at the beginning of the semester
   - Require their students to watch one or more sets of videos using the Ximera platform. In addition to watching the videos, the students would complete pre- and post-video questions to assess their understanding of the concepts
   - Have their students complete a short (5-minute) demographic survey near the end of the semester
   
 Benefits to participants:
-  - Participants will receive $50 for completing the webinar
+  - Participants will receive $15 per hour for participating in the professional development workshop
   - Participants will receive $15 for each video set that is assigned to their students
   - Participants will have access to high-quality instructional videos and will learn about the ideas that have been used to design the videos
   - Participants will receive support for the videos from the research team
