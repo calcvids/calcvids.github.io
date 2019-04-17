@@ -6,9 +6,12 @@ permalink: "/publications/"
 ---
 
 ## Conference Papers
+- Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., \& Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. To appear in *22nd Annual Conference of the Special Interest Group of the Mathematical Association of America on Research in Undergraduate Mathematics Education*, St. Louis, MO: The University of Missouri  
+  - [Paper](https://drive.google.com/open?id=18FKFkdPt_Q7cM3yxdWHDEnmoOZ4vq3HN)
 - Waters, K., Martsching, W., Martin, J. (2019). What are in looking at? Shape thinking and eye-tracking.  To appear in *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education*, Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
 - Failing to Rewind: Students' Learning from Instructional Videos. (2018) *Paper presented at the 40th Annual Conference of the International Group for the Psychology of Mathematics Education - North America*.
   - [Paper](https://drive.google.com/open?id=1rLSoQAZXvzM9O2wLb5BEyA-8tsuAsJCS)
+  
 
 ## Posters
 - Investigating Student Learning and Sense-Making from Instructional Calculus Videos. (2018) Poster presented at the *21st Annual Conference of the Special Interest Group of the Mathematical Association of America on Research in Undergraduate Mathematics Education*.
