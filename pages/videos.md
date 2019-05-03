@@ -282,10 +282,10 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Interpreting Differential Equations</a>
-			<LI><a href="">Writing Differential Equations</a>
-			<LI><a href="">Computing with Differential Equations</a>
--->
+			<LI><a href="https://www.youtube.com/watch?v=mYFPzqAuZVQ">Interpreting Differential Equations</a>
+			<LI><a href="https://www.youtube.com/watch?v=THWdwa4zAsE">Writing Differential Equations</a>
+			<LI><a href="https://www.youtube.com/watch?v=NJbaQIoVejw">Computing with Differential Equations</a>
+
 			
 	<tr>
 		<td>An Introduction to Euler's Method</td>
