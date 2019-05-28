@@ -169,7 +169,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/waQ_Dfd7KZI">Why the Chain Rule Works</a>
 			
 	<tr>
-		<td>Derivative Theorems</td>
+		<td>Mean Value Theorem</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 <!--			<OL>
@@ -179,7 +179,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 -->
 			
 	<tr>
-		<td>Linear Approximation</td>
+		<td>Extreme Value Theorem</td>
 		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name"></a>Coming in 2019</td>
 		<td>
 			<OL>
