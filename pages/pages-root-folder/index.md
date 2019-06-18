@@ -4,7 +4,7 @@ permalink: "/index.html"
 homepage: true
 meta_title: "Calculus Videos Home"
 header:
-    image_fullwidth: "background_top.jpg"
+    image_fullwidth: "http://calcvids.org/images/background_top.jpg"
 ---
 
 
