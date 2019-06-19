@@ -73,12 +73,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
 			<LI><a href="https://youtu.be/5_Bahm373aA">Approximating the Speed of a Baseball</a>
 			<LI><a href="https://youtu.be/3su5kH5PW9Y">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
-			
-	<tr>
-		<td>Limits</td>
-		<td><a href=""></a>Coming in 2019</td>
-		<td>
-			<OL>
+
 				
 	<tr>
 		<td>l'Hopital's Rule</td>
@@ -109,6 +104,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
 			<LI><a href="https://youtu.be/V-rijY4byOY">Defining the derivative</a>
+
+	<tr>
+		<td>Using the Limit Definition of Derivative</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+			<OL>
 
 	<tr>
 		<td>Interpreting Derivatives</td>
@@ -180,7 +181,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			
 	<tr>
 		<td>Extreme Value Theorem</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name"></a>Coming in 2019</td>
+		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name"></a>Coming in 2020</td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Locating a Submarine</a>
