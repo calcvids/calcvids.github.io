@@ -2,7 +2,7 @@
 layout: page-fullwidth
 meta_title: "Videos"
 title: "Videos"
-permalink: "/videos/"
+permalink: "/videos2/"
 ---
 
 We have created videos for many topics in first-semester calculus (listed below).
