@@ -62,9 +62,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/aroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
-			<LI>Average Rates of Change as Constant Rates of Change</a>
-			<LI>A Precise Description of Average Rates of Change</a>
+			<LI><a href="https://youtu.be/_cJkKymTJ7s">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
+			<LI><a href="https://youtu.be/8ZiZVJMn2RA">Average Rates of Change as Constant Rates of Change</a>
+			<LI><a href="https://youtu.be/OQe_PTXaRNI">A Precise Description of Average Rates of Change</a>
 
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
