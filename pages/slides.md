@@ -10,6 +10,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/open?id=1MHqIcgSzaceL0EKfiNjEBPNO3hR-cc9h)
   - [Video 2 Slides: Formal Definition of Constant Rate of Change](https://drive.google.com/open?id=1FIx-MtWaDdgmgjnYmQcGF1wkvbvXydZ4)
 - Graphing Constant Rate of Change
+  - [Video 1 Slides: Graphing Cannon Cow](https://drive.google.com/open?id=1-Mi_gPH1A8aqy3QttTKdAp-MN0nQPwTF)
+  - [Video 2 Slides: Graphing Pouring Water](https://drive.google.com/open?id=1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1)
 - Increasing Rates of Change
 - Graphing Varying Rates of Change
 - Average Rates of Change

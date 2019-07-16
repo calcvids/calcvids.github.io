@@ -165,7 +165,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/sdktw1QHekQ">Video 0: A Ripple in a Pond</a>
-			<LI><a href="https://youtu.be/if6n7_0kg6Q">Computing the Average Rate of Change of a Composition of Functions</a>			
+			<LI><a href="https://youtu.be/if6n7_0kg6Q">Computing the Average Rate of Change of a Composition of Functions</a>
 			<LI><a href="https://youtu.be/oWAo05MiPr8">How to Use the Chain Rule</a>
 			<LI><a href="https://youtu.be/waQ_Dfd7KZI">Why the Chain Rule Works</a>
 
