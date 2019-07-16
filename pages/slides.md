@@ -14,6 +14,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 2 Slides: Graphing Pouring Water](https://drive.google.com/open?id=1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1)
 - Increasing Rates of Change
 - Graphing Varying Rates of Change
+  - [Video 1 Slides Making a Graph for Filling a Spherical Flask](https://drive.google.com/open?id=1x1MkI9aR1ip6PzA0z6ldQOZhXUaX64i-)
 - Average Rates of Change
   - [Video 1 Slides: Average Rates of Change as Constant Rates of Change](https://drive.google.com/file/d/1trzHja9PorvX7nDpV3wTEMINpqoJ2T42/view?usp=sharing)
   - [Video 2 Slides: A Precise Description of Average Rates of Change](https://drive.google.com/file/d/1TQsJpCalr2fNK_QijW5BcyzndO_7NJTP/view?usp=sharing)

@@ -49,13 +49,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI>Solving the Problem of Pouring Water</a>
 			<LI>Frozen Yogurt in a Cone</a>
 
-	<tr>
+  <tr>
 		<td>Graphing Varying Rates of Change</td>
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingincroc">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Filling a Spherical Flask</a>
-			<LI>Making a Graph for Filling a Spherical Flask</a>
+			<LI><a href="https://youtu.be/vSgn5FFnJRg">Video 0: Filling a Spherical Flask</a>
+			<LI><a href="https://youtu.be/-1p2cvT4yH0">Making a Graph for Filling a Spherical Flask</a>
 
 	<tr>
 		<td>Average Rates of Change</td>
