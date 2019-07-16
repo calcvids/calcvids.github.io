@@ -7,6 +7,8 @@ permalink: "/slides/"
 We have Powerpoint slides with narration for each of our videos. These slides will be made available after we have published final drafts of the videos.
 
 - Constant Rates of Change
+  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/open?id=1MHqIcgSzaceL0EKfiNjEBPNO3hR-cc9h)
+  - [Video 2 Slides: Formal Definition of Constant Rate of Change](https://drive.google.com/open?id=1FIx-MtWaDdgmgjnYmQcGF1wkvbvXydZ4)
 - Graphing Constant Rate of Change
 - Increasing Rates of Change
 - Graphing Varying Rates of Change

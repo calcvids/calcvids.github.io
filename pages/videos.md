@@ -27,9 +27,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/croc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Pouring Water into a Cylinder
-			<LI>Solving the Problem of Pouring Water
-			<LI>Formal Definition of Constant Rate of Change
+			<LI><a href="https://youtu.be/o4tcg1QljpA">Video 0: Pouring Water into a Cylinder</a>
+			<LI><a href="https://youtu.be/DiunrIO0buo">Solving the Problem of Pouring Water</a>
+			<LI><a href="https://youtu.be/ZSe2bhVzLh0">Formal Definition of Constant Rate of Change</a>
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
