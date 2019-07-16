@@ -6,10 +6,43 @@ permalink: "/slides/"
 ---
 We have Powerpoint slides with narration for each of our videos. These slides will be made available after we have published final drafts of the videos.
 
+- Constant Rates of Change
+- Graphing Constant Rate of Change
+- Increasing Rates of Change
+- Graphing Varying Rates of Change
+- Average Rates of Change
+- Approximating Instantaneous Rates of Change
+- l'Hopital's Rule
+- Continuity
+- Differentiability and Local Linearity
+- Limit Definition of Derivative
+- Using the Limit Definition of Derivative
+- Interpreting Derivatives
+- Slopes of Secant and Tangent Lines
+- Graphing Derivatives
+- Basic Derivative Rules
+- The Product Rule
+- The Quotient Rule
+- The Chain Rule
+- Mean Value Theorem
+- Extreme Value Theorem
+- Implicit Differentiation
+- Related Rates
+- Introduction to Optimization
+- Optimization: Algebraic Modeling
+- Introduction to Riemann Sums
+- Riemann Sum Notation
+- Definite Integrals
+- The Fundamental Theorem of Calculus, Part 1
+- The Fundamental Theorem of Calculus, Part 2
 - Antiderivatives
   - [Video 1 Slides: Antiderivatives](https://drive.google.com/file/d/1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV/view?usp=sharing)
   - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/file/d/1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE/view?usp=sharing)
   - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/file/d/1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn/view?usp=sharing)
+- U-Substitution
+- An Introduction to (Linear) Differential Equations
+- An Introduction to Euler's Method
+
 
 <!--For each video topic, we have created Powerpoint slides (most of which include voice narration).
 

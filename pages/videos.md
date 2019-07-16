@@ -31,8 +31,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI>Solving the Problem of Pouring Water
 			<LI>Formal Definition of Constant Rate of Change
 
-</table>
-
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingcroc/name">Link</a></td>
