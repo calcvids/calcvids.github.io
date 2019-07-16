@@ -38,9 +38,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingcroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Cannon Cow!</a>
-			<LI>Graphing Cannon Cow</a>
-			<LI>Graphing Pouring Water</a>
+			<LI>Video 0: Cannon Cow!
+			<LI>Graphing Cannon Cow
+			<LI>Graphing Pouring Water
 
 	<tr>
 		<td>Increasing Rates of Change</td>
@@ -275,7 +275,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/HkdXWOiwV0U">Video 0: Antiderivatives</a>
-			<LI><a href="https://youtu.be/IkKdTWIYf-g"></a>
+			<LI><a href="https://youtu.be/IkKdTWIYf-g">Antiderivatves</a>
+			<LI><a href="https://youtu.be/siz6SmfbyHQ">Antiderivatvies, Part 2</a>
+			<LI><a href="https://youtu.be/jKrkBpOuxuw">Using Antiderivative Rules</a>
 
 	<tr>
 		<td>U-Substitution</td>
