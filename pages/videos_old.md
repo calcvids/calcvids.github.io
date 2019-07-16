@@ -2,7 +2,7 @@
 layout: page-fullwidth
 meta_title: "Videos"
 title: "Videos"
-permalink: "/videos2/"
+permalink: "/videos_old/"
 ---
 
 We have created videos for many topics in first-semester calculus (listed below).
@@ -14,13 +14,6 @@ For each topic there is a "Video 0" that features two students working on a prob
 Each collection of videos can be viewed on our Ximera platform, which allows students to try the motivating problem, watch all of the videos, and complete diagnostic questions prior to and after watching the videos.
 
 All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
-
-
-| Topic | Ximera Page | Videos           |
-|-------|-------------|------------------|
-| Stuff | Stuff 2     |  Stuff3 <br> New line |
-|       |             |                  |
-
 
 <table>
 	<tr>
@@ -172,7 +165,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/sdktw1QHekQ">Video 0: A Ripple in a Pond</a>
-			<LI><a href="https://youtu.be/if6n7_0kg6Q">Computing the Average Rate of Change of a Composition of Functions</a>
+			<LI><a href="https://youtu.be/if6n7_0kg6Q">Computing the Average Rate of Change of a Composition of Functions</a>			
 			<LI><a href="https://youtu.be/oWAo05MiPr8">How to Use the Chain Rule</a>
 			<LI><a href="https://youtu.be/waQ_Dfd7KZI">Why the Chain Rule Works</a>
 

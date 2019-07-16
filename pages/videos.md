@@ -5,9 +5,9 @@ title: "Videos"
 permalink: "/videos/"
 ---
 
-We have created videos for many topics in first-semester calculus (listed below). 
+We have created videos for many topics in first-semester calculus (listed below).
 
-The videos are currently rough drafts---there are visual, audio, and (occasionally) mathematical aspects of the videos that we are in the process of identifying and correcting. 
+The videos are currently rough drafts---there are visual, audio, and (occasionally) mathematical aspects of the videos that we are in the process of identifying and correcting.
 
 For each topic there is a "Video 0" that features two students working on a problem that motivates the study of the topic and highlights difficulties that many students face. The subsequent videos show how to solve the problem and use this as a springboard to describe the mathematical concept.
 
@@ -23,70 +23,70 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 	</tr>
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/croc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/croc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/zoiSL3XfpP8">Video 0: Pouring Water into a Cylinder</a>
-			<LI><a href="https://youtu.be/R2vzyWqphXE">Solving the Problem of Pouring Water</a>
-			<LI><a href="https://youtu.be/0RZiy462KOw">Formal Definition of Constant Rate of Change</a>
-			
+			<LI>Video 0: Pouring Water into a Cylinder
+			<LI>Solving the Problem of Pouring Water
+			<LI>Formal Definition of Constant Rate of Change
+
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingcroc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingcroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/pUXH9QPep2g">Video 0: Cannon Cow!</a>
-			<LI><a href="https://youtu.be/9dS_h4DQaOw">Graphing Cannon Cow</a>
-			<LI><a href="https://youtu.be/EtJhDFJd3kE">Graphing Pouring Water</a>
-				
+			<LI>Video 0: Cannon Cow!</a>
+			<LI>Graphing Cannon Cow</a>
+			<LI>Graphing Pouring Water</a>
+
 	<tr>
 		<td>Increasing Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/incroc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/incroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/MXmejPLuenA">Video 0: Pouring Water into an Erlenmeyer Flask</a>
-			<LI><a href="https://youtu.be/4zDly9al2uw">Solving the Problem of Pouring Water</a>
-			<LI><a href="https://youtu.be/rVOVG6Qy_3k">Frozen Yogurt in a Cone</a>
-				
+			<LI>Video 0: Pouring Water into an Erlenmeyer Flask</a>
+			<LI>Solving the Problem of Pouring Water</a>
+			<LI>Frozen Yogurt in a Cone</a>
+
 	<tr>
 		<td>Graphing Varying Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingincroc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingincroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/OpsAlC9bMhM">Video 0: Filling a Spherical Flask</a>
-			<LI><a href="https://youtu.be/-1p2cvT4yH0">Making a Graph for Filling a Spherical Flask</a>
-			
+			<LI>Video 0: Filling a Spherical Flask</a>
+			<LI>Making a Graph for Filling a Spherical Flask</a>
+
 	<tr>
 		<td>Average Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/aroc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/aroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/XUv2tvPBoT4">Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
-			<LI><a href="https://youtu.be/0TYOyj8XQt8">Average Rates of Change as Constant Rates of Change</a>
-			<LI><a href="https://youtu.be/Pm_Cwqx-6_0">A Precise Description of Average Rates of Change</a>
-				
+			<LI>Video 0: Two Race Cars, Constant Rates, and Average Rates</a>
+			<LI>Average Rates of Change as Constant Rates of Change</a>
+			<LI>A Precise Description of Average Rates of Change</a>
+
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/approxiroc/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/approxiroc/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
-			<LI><a href="https://youtu.be/5_Bahm373aA">Approximating the Speed of a Baseball</a>
-			<LI><a href="https://youtu.be/3su5kH5PW9Y">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
+			<LI>Video 0: The Stationary Baseball</a>
+			<LI>Approximating the Speed of a Baseball</a>
+			<LI>Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 
-				
+
 	<tr>
 		<td>l'Hopital's Rule</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>Continuity</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>Differentiability and Local Linearity</td>
 		<td><a href=""></a>Coming in 2019</td>
@@ -96,14 +96,14 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="">Local Linearity</a>
 			<LI><a href="">The Microscope Equation</a>
 -->
-			
+
 	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/limitdef/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/limitdef/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/IrWq2_hPe2k">Video 0: Rate of Absorbing Ibuprofen</a>
-			<LI><a href="https://youtu.be/V-rijY4byOY">Defining the derivative</a>
+			<LI>Video 0: Rate of Absorbing Ibuprofen</a>
+			<LI>Defining the derivative</a>
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
@@ -116,59 +116,59 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/secanttangent/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/secanttangent/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/zwyt2us4RWs">Video 0: The Imprecision of Tangents</a>
-			<LI><a href="https://youtu.be/j5SvtRvDutA">Finding the speed of a baseball at a moment in time graphically</a>
-			<LI><a href="https://youtu.be/sWQoDQY8q3Y">Graphing the rate of change of metabolizing ibuprofen</a>
-					
+			<LI>Video 0: The Imprecision of Tangents</a>
+			<LI>Finding the speed of a baseball at a moment in time graphically</a>
+			<LI>Graphing the rate of change of metabolizing ibuprofen</a>
+
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/graphingderiv/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/graphingderiv/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/ne1wzBThVvQ">Video 0: Graphing the Speed of a Baseball</a>
-			<LI><a href="https://youtu.be/KUKR8ZFZNQc">Graphing the Derivative Function</a>
-			
+			<LI>Video 0: Graphing the Speed of a Baseball</a>
+			<LI>Graphing the Derivative Function</a>
+
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/basicderivrules/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/basicderivrules/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/7eJHI8QfxeA">Video 0: Trying to Use the Limit Definition</a>
-			<LI><a href="https://youtu.be/mZxQnF1iYBA">The Power Rule</a>
-			<LI><a href="https://youtu.be/KWwbNSFkY8w">Exponential and Logarithmic Functions</a>
-			<LI><a href="https://youtu.be/k28KSIsbiso">Trigonometric Functions</a>
-			
+			<LI>Video 0: Trying to Use the Limit Definition</a>
+			<LI>The Power Rule</a>
+			<LI>Exponential and Logarithmic Functions</a>
+			<LI>Trigonometric Functions</a>
+
 	<tr>
 		<td>The Product Rule</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/product/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/product/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/lNtUxFrPiV0">Video 0: Products of Polynomials</a>
-			<LI><a href="https://youtu.be/4XbiO40V5Nw">Procedural Description of the Product Rule</a>
-			<LI><a href="https://youtu.be/bDPiZJu0iD4">Conceptual Explanation of the Product Rule</a>
-						
+			<LI>Video 0: Products of Polynomials</a>
+			<LI>Procedural Description of the Product Rule</a>
+			<LI>Conceptual Explanation of the Product Rule</a>
+
 	<tr>
 		<td>The Quotient Rule</td>
 		<td>Coming in 2019</td>
 		<td>
 			<OL>
-					
+
 	<tr>
 		<td>The Chain Rule</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/chain/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/chain/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/sdktw1QHekQ">Video 0: A Ripple in a Pond</a>
-			<LI><a href="https://youtu.be/if6n7_0kg6Q">Computing the Average Rate of Change of a Composition of Functions</a>			
-			<LI><a href="https://youtu.be/oWAo05MiPr8">How to Use the Chain Rule</a>
-			<LI><a href="https://youtu.be/waQ_Dfd7KZI">Why the Chain Rule Works</a>
-			
+			<LI>Video 0: A Ripple in a Pond</a>
+			<LI>Computing the Average Rate of Change of a Composition of Functions</a>			
+			<LI>How to Use the Chain Rule</a>
+			<LI>Why the Chain Rule Works</a>
+
 	<tr>
 		<td>Mean Value Theorem</td>
 		<td><a href=""></a>Coming in 2019</td>
@@ -178,124 +178,124 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI>The Mean Value Theorem
 			<LI>The Extreme Value Theorem
 -->
-			
+
 	<tr>
 		<td>Extreme Value Theorem</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/linapprox/name"></a>Coming in 2020</td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/linapprox/name"></a>Coming in 2020</td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Locating a Submarine</a>
 			<LI><a href=""></a>
 -->
-			
+
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/implicit/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/implicit/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/8rzPToCfPbU">Video 0: A Complicated Tangent Line</a>
-			<LI><a href="https://youtu.be/vcIkAiA1pmg">Introduction to Implicit Differentiation</a>
-			<LI><a href="https://youtu.be/qID7KaYyiVU">Tangent Lines for a Cardioid</a>	
-	
+			<LI>Video 0: A Complicated Tangent Line</a>
+			<LI>Introduction to Implicit Differentiation</a>
+			<LI>Tangent Lines for a Cardioid</a>
+
 	<tr>
 		<td>Related Rates</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/optintro/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/optintro/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/wzfngtq-YnU">Video 0: Maximizing Fuel Economy</a>
-			<LI><a href="https://youtu.be/bBpOQwKbpro">Using Derivatives to Maximize Fuel Economy</a>
-			<LI><a href="https://youtu.be/rkvvudpi2gA">An Example of Optimization</a>
+			<LI>Video 0: Maximizing Fuel Economy</a>
+			<LI>Using Derivatives to Maximize Fuel Economy</a>
+			<LI>An Example of Optimization</a>
 
-			
+
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/optmodel/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/optmodel/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/vNJFrwPjO5M">Video 0: Maximizing an Animal Pen</a>
-			<LI><a href="https://youtu.be/HOvmi4MXt68">How to Maximize the Area of a Rectangular Pen</a>
-			
+			<LI>Video 0: Maximizing an Animal Pen</a>
+			<LI>How to Maximize the Area of a Rectangular Pen</a>
+
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsintro/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/rsintro/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/peIV1NJHs3Q">Video 0: Dust Accumulation on the Mars Rover</a>
-			<LI><a href="https://youtu.be/c87nft6Rpmg">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
-			<LI><a href="https://youtu.be/rfwqZFq64Hc">A Riemann Sum for an Oil Spill</a>
-			
+			<LI>Video 0: Dust Accumulation on the Mars Rover</a>
+			<LI>Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
+			<LI>A Riemann Sum for an Oil Spill</a>
+
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/rsnotation/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/rsnotation/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/oqdJUzX_YLY">Video 0: Writing a Riemann Sum Two Ways</a>
-			<LI><a href="https://youtu.be/JnYo3K6_HRE">Writing Riemann Sums using Sigma Notation</a>
+			<LI>Video 0: Writing a Riemann Sum Two Ways</a>
+			<LI>Writing Riemann Sums using Sigma Notation</a>
 
-			
+
 	<tr>
 		<td>Definite Integrals</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/defint/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/defint/name">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/YhX-bv8IDVw">Video 0: Mars Rover Using a Formula</a>
-			<LI><a href="https://youtu.be/k2kypPsNeN0">Definite Integrals as Limits of Riemann Sums</a>
-			<LI><a href="https://youtu.be/c_h38wysuxQ">A Definite Integral for an Oil Spill</a>
+			<LI>Video 0: Mars Rover Using a Formula</a>
+			<LI>Definite Integrals as Limits of Riemann Sums</a>
+			<LI>A Definite Integral for an Oil Spill</a>
 
-			
+
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/ftoc1/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/ftoc1/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href=""></a>
 -->
-			
+
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/ftoc2/name">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/ftoc2/name">Link</a></td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
 			<LI><a href=""></a>
 -->
-			
+
 	<tr>
 		<td>Antiderivatives</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/v/antideriv/name"></a>Coming in 2019</td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/antideriv/name"></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>U-Substitution</td>
 		<td><a href=""></a>Coming in 2019</td>
 		<td>
 			<OL>
-			
+
 	<tr>
 		<td>An Introduction to (Linear) Differential Equations</td>
 		<td><a href="">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://www.youtube.com/watch?v=mYFPzqAuZVQ">Interpreting Differential Equations</a>
-			<LI><a href="https://www.youtube.com/watch?v=THWdwa4zAsE">Writing Differential Equations</a>
-			<LI><a href="https://www.youtube.com/watch?v=NJbaQIoVejw">Computing with Differential Equations</a>
+			<LI>Interpreting Differential Equations</a>
+			<LI>Writing Differential Equations</a>
+			<LI>Computing with Differential Equations</a>
 
-			
+
 	<tr>
 		<td>An Introduction to Euler's Method</td>
-		<td><a href="https://ximera.osu.edu/fall18calcvids/euler/euler">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/euler/euler">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/RO-9rdHPA_Y">Video 0: Computing the Spread of an Infection</a>
-			<LI><a href="https://youtu.be/s7VlFqxtXSk">Using Euler's Method to Model the Spread of an Infection</a>
-			
+			<LI>Video 0: Computing the Spread of an Infection</a>
+			<LI>Using Euler's Method to Model the Spread of an Infection</a>
+
 <!--</table>-->
 
 
