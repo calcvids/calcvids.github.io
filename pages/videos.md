@@ -20,15 +20,18 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<th>Topic</th>
 		<th>Ximera Page (Video 0 Version)</th>
 		<th>Individual Videos</th>
-	</tr>
+		</tr>
+
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/croc/name">Link</a></td>
+		<td>[Link](https://ximera.osu.edu/calcvidstest/in/v/croc/name)</td>
 		<td>
 			<OL>
 			<LI>Video 0: Pouring Water into a Cylinder
 			<LI>Solving the Problem of Pouring Water
 			<LI>Formal Definition of Constant Rate of Change
+
+</table>
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
@@ -165,7 +168,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI>Video 0: A Ripple in a Pond</a>
-			<LI>Computing the Average Rate of Change of a Composition of Functions</a>			
+			<LI>Computing the Average Rate of Change of a Composition of Functions</a>
 			<LI>How to Use the Chain Rule</a>
 			<LI>Why the Chain Rule Works</a>
 
@@ -271,6 +274,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/antideriv/name"></a>Coming in 2019</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/HkdXWOiwV0U">Video 0: Antiderivatives</a>
+			<LI><a href="https://youtu.be/IkKdTWIYf-g"></a>
 
 	<tr>
 		<td>U-Substitution</td>
@@ -296,9 +301,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI>Video 0: Computing the Spread of an Infection</a>
 			<LI>Using Euler's Method to Model the Spread of an Infection</a>
 
-<!--</table>-->
-
-
+</table>
 
 
 
