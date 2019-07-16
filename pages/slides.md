@@ -6,6 +6,11 @@ permalink: "/slides/"
 ---
 We have Powerpoint slides with narration for each of our videos. These slides will be made available after we have published final drafts of the videos.
 
+- Antiderivatives
+  - [Video 1 Slides: Antiderivatives](https://drive.google.com/file/d/1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV/view?usp=sharing)
+  - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/file/d/1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE/view?usp=sharing)
+  - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/file/d/1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn/view?usp=sharing)
+
 <!--For each video topic, we have created Powerpoint slides (most of which include voice narration).
 
   - Constant Rates of Change
