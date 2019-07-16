@@ -24,7 +24,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td>[Link](https://ximera.osu.edu/calcvidstest/in/v/croc/name)</td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/croc/name">Link</a></td>
 		<td>
 			<OL>
 			<LI>Video 0: Pouring Water into a Cylinder
