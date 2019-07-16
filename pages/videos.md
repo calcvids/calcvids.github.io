@@ -41,13 +41,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/EtJhDFJd3kE">Graphing Pouring Water</a>
 
 	<tr>
-		<td>Increasing Rates of Change</td>
+		<td>Varying Rates of Change</td>
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/incroc">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Pouring Water into an Erlenmeyer Flask</a>
-			<LI>Solving the Problem of Pouring Water</a>
-			<LI>Frozen Yogurt in a Cone</a>
+			<LI><a href="https://youtu.be/Ti-K65U4-6g">Video 0: Pouring Water into an Erlenmeyer Flask</a>
+			<LI><a href="https://youtu.be/TvnG_aVyV8Y">Solving the Problem of Pouring Water</a>
+			<LI><a href="https://youtu.be/d0gCWnYPTdU">Frozen Yogurt in a Cone</a>
 
   <tr>
 		<td>Graphing Varying Rates of Change</td>
@@ -74,7 +74,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI>Video 0: The Stationary Baseball</a>
 			<LI>Approximating the Speed of a Baseball</a>
 			<LI>Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
-
 
 	<tr>
 		<td>l'Hopital's Rule</td>

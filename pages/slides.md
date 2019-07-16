@@ -12,7 +12,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Graphing Constant Rate of Change
   - [Video 1 Slides: Graphing Cannon Cow](https://drive.google.com/open?id=1-Mi_gPH1A8aqy3QttTKdAp-MN0nQPwTF)
   - [Video 2 Slides: Graphing Pouring Water](https://drive.google.com/open?id=1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1)
-- Increasing Rates of Change
+- Varying Rates of Change
+  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/open?id=1wOQoEUbIL_12H_ybdQfQfYYYSvFv7SsR)
+  - [Video 2 Slides: Frozen Yogurt in a Cone](https://drive.google.com/open?id=1rlqoi1Rlt8hlwjwTNMpFuAiCUU18rub1)
 - Graphing Varying Rates of Change
   - [Video 1 Slides Making a Graph for Filling a Spherical Flask](https://drive.google.com/open?id=1x1MkI9aR1ip6PzA0z6ldQOZhXUaX64i-)
 - Average Rates of Change
