@@ -71,9 +71,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/approxiroc">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: The Stationary Baseball</a>
-			<LI>Approximating the Speed of a Baseball</a>
-			<LI>Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
+			<LI><a href=" https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
+			<LI><a href="https://youtu.be/U8Wo0Q1BlQM">Approximating the Speed of a Baseball</a>
+			<LI><a href="https://youtu.be/r6cUg-9yhWs">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 
 	<tr>
 		<td>l'Hopital's Rule</td>
