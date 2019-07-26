@@ -29,6 +29,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Differentiability and Local Linearity
   - [Video 1 Slides: Local Linearity](https://drive.google.com/open?id=12efMcgWkBje1ebd5VfyOlZbjLnFccX7O)
 - Limit Definition of Derivative
+  - [Video 1 Slides: Defining the derivative](https://drive.google.com/open?id=13VccK9tcF9GGs3McZAl73rK55h_6Nqxg)
 - Using the Limit Definition of Derivative
 - Interpreting Derivatives
 - Slopes of Secant and Tangent Lines
