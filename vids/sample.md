@@ -5,6 +5,10 @@ meta_title: "Examples"
 permalink: "/sample/"
 ---
 
+{% capture var %}test test test{% endcapture %}
+
+{{ var }} -- that prints the content of the variable
+
 If you would like to have your students use our materials, please <a href="mailto:info@calcvids.org">contact us</a>.
 
 For each calculus topic, we create 1-4 short videos to explain the topic and provide examples. Then, we create questions for students to answer before and after watching the videos, and (depending on the details of the experimental design) also include various resources for the students to use prior to watching the videos.
