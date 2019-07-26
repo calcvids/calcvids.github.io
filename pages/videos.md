@@ -102,8 +102,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/limitdef">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Rate of Absorbing Ibuprofen</a>
-			<LI>Defining the derivative</a>
+			<LI><a href="https://youtu.be/t5D_CfweJNM">Video 0: Rate of Absorbing Ibuprofen</a>
+			<LI><a href="https://youtu.be/VGceNaXIlwI">Defining the derivative</a>
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
