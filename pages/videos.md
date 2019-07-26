@@ -91,13 +91,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/locallin"></a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Finding Non-Differentiable Points</a>
-			<LI><a href="">Local Linearity</a>
-			<LI><a href="">The Microscope Equation</a>
--->
+			<LI><a href="https://youtu.be/uT7HvNeS9o0">Video 0: Growth of a Rabbit Population</a>
+			<LI><a href="https://youtu.be/YJnarJIbPuw">Local Linearity</a>
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
