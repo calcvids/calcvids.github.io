@@ -5,6 +5,11 @@ meta_title: "Examples"
 permalink: "/sample/"
 ---
 
+{% capture gen %}https://ximera.osu.edu/calcvidstest/{% endcapture%}
+{% capture c %}https://ximera.osu.edu/calcvidstest/in/c/{% endcapture %}
+{% capture o %}https://ximera.osu.edu/calcvidstest/in/o/{% endcapture %}
+{% capture v %}https://ximera.osu.edu/calcvidstest/in/v/{% endcapture %}
+
 If you would like to have your students use our materials, please <a href="mailto:info@calcvids.org">contact us</a>.
 
 For each calculus topic, we create 1-4 short videos to explain the topic and provide examples. Then, we create questions for students to answer before and after watching the videos, and (depending on the details of the experimental design) also include various resources for the students to use prior to watching the videos.
@@ -15,33 +20,33 @@ We take all of these data and analyze them using quantitative and qualitative te
 
 The materials below are still rough drafts; final versions of all of the materials will be posted for the Fall, 2019 semester.
 
-| Topic                                  | Video 0 Version                                                       | Outline Version                                                       | Control Version                                                      |                                                                       |
-| -------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Intro                                  |                                                                       |                                                                       |                                                                      | [Link](https://ximera.osu.edu/fall18calcvids/intro/intro/intro/name1) |
-| CROC                                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/croc/name)            | [Link](https://ximera.osu.edu/calcvidstest/in/o/croc/name)            | [Link](https://ximera.osu.edu/calcvidstest/in/c/croc/name)           |                                                                       |
-| Graphing CROC                          | [Link](https://ximera.osu.edu/calcvidstest/in/v/graphingcroc/name)    | [Link](https://ximera.osu.edu/calcvidstest/in/o/graphingcroc/name)    | [Link](https://ximera.osu.edu/calcvidstest/in/c/graphingcroc/name)   |                                                                       |
-| IncROC                                 | [Link](https://ximera.osu.edu/calcvidstest/in/v/incroc/name)          | [Link](https://ximera.osu.edu/calcvidstest/in/o/incroc/name)          | [Link](https://ximera.osu.edu/calcvidstest/in/c/incroc/name)         |                                                                       |
-| Graphing IncROC                        | [Link](https://ximera.osu.edu/calcvidstest/in/v/graphingincroc/name)  | [Link](https://ximera.osu.edu/calcvidstest/in/o/graphingincroc/name)  | [Link](https://ximera.osu.edu/calcvidstest/in/c/graphingincroc/name) |                                                                       |
-| AROC                                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/aroc/name)            | [Link](https://ximera.osu.edu/calcvidstest/in/o/aroc/name)            | [Link](https://ximera.osu.edu/calcvidstest/in/c/aroc/name)           |                                                                       |
-| Approximating InstROC                  | [Link](https://ximera.osu.edu/calcvidstest/in/v/approxiroc/name)      | [Link](https://ximera.osu.edu/calcvidstest/in/o/approxiroc/name)      | [Link](https://ximera.osu.edu/calcvidstest/in/c/approxiroc/name)     |                                                                       |
-| Limit Def of Derivative                | [Link](https://ximera.osu.edu/calcvidstest/in/v/limitdef/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/o/limitdef/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/c/limitdef/name)       |                                                                       |
-| Slopes of Secants and Tangents         | [Link](https://ximera.osu.edu/calcvidstest/in/v/secanttangent/name)   | [Link](https://ximera.osu.edu/calcvidstest/in/o/secanttangent/name)   | [Link](https://ximera.osu.edu/calcvidstest/in/c/secanttangent/name)  |                                                                       |
-| Graphing Derivatives                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/graphingderiv/name)   | [Link](https://ximera.osu.edu/calcvidstest/in/o/graphingderiv/name)   | [Link](https://ximera.osu.edu/calcvidstest/in/c/graphingderiv/name)  |                                                                       |
-| Basic Derivative Rules                 | [Link](https://ximera.osu.edu/calcvidstest/in/v/basicderivrules/name) | [Link](https://ximera.osu.edu/calcvidstest/in/o/basicderivrules/name) | NA                                                                   | [Link](https://ximera.osu.edu/calcvidstest/in/c/basicderivrules/name) |
-| Product Rule                           | [Link](https://ximera.osu.edu/calcvidstest/in/v/product/name)         | [Link](https://ximera.osu.edu/calcvidstest/in/o/product/name)         | NA                                                                   | [Link](https://ximera.osu.edu/calcvidstest/in/c/product/name)         |
-| Quotient Rule                          | [Link](https://ximera.osu.edu/calcvidstest/in/v/quotient/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/o/quotient/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/c/quotient/name)       |                                                                       |
-| Chain Rule                             | [Link](https://ximera.osu.edu/calcvidstest/in/v/chain/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/o/chain/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/c/chain/name)          |                                                                       |
-| Linear Approximation                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/linapprox/name)       | [Link](https://ximera.osu.edu/calcvidstest/in/o/linapprox/name)       | [Link](https://ximera.osu.edu/calcvidstest/in/c/linapprox/name)      |                                                                       |
-| Implicit Differentiation               | [Link](https://ximera.osu.edu/calcvidstest/in/v/implicit/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/o/implicit/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/c/implicit/name)       |                                                                       |
-| Optimization (Intro)                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/optintro/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/o/optintro/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/c/optintro/name)       |                                                                       |
-| Optimization (Modeling)                | [Link](https://ximera.osu.edu/calcvidstest/in/v/optmodel/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/o/optmodel/name)        | [Link](https://ximera.osu.edu/calcvidstest/in/c/optmodel/name)       |                                                                       |
-| Riemann Sums Intro                     | [Link](https://ximera.osu.edu/calcvidstest/in/v/rsintro/name)         | [Link](https://ximera.osu.edu/calcvidstest/in/o/rsintro/name)         | [Link](https://ximera.osu.edu/calcvidstest/in/c/rsintro/name)        |                                                                       |
-| Riemann Sum Notation                   | [Link](https://ximera.osu.edu/calcvidstest/in/v/rsnotation/name)      | [Link](https://ximera.osu.edu/calcvidstest/in/o/rsnotation/name)      | [Link](https://ximera.osu.edu/calcvidstest/in/c/rsnotation/name)     |                                                                       |
-| Definite Integrals                     | [Link](https://ximera.osu.edu/calcvidstest/in/v/defint/name)          | [Link](https://ximera.osu.edu/calcvidstest/in/o/defint/name)          | [Link](https://ximera.osu.edu/calcvidstest/in/c/defint/name)         |                                                                       |
-| Antiderivatives                        | [Link](https://ximera.osu.edu/calcvidstest/in/v/antideriv/name)       | [Link](https://ximera.osu.edu/calcvidstest/in/o/antideriv/name)       | [Link](https://ximera.osu.edu/calcvidstest/in/c/antideriv/name)      |                                                                       |
-| FTOC 1 - Integrals are Antiderivatives | [Link](https://ximera.osu.edu/calcvidstest/in/v/ftoc1/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/o/ftoc1/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/c/ftoc1/name)          |                                                                       |
-| FTOC 2 - variable in bounds            | [Link](https://ximera.osu.edu/calcvidstest/in/v/ftoc2/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/o/ftoc2/name)           | [Link](https://ximera.osu.edu/calcvidstest/in/c/ftoc2/name)          |                                                                       |
-| Euler's Method                         | [Link](https://ximera.osu.edu/fall18calcvids/euler/euler)             |                                                                       |                                                                      |                                                                       |
+| Topic                                  | Video 0 Version              | Outline Version              | Control Version              |
+| -------------------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| [Intro page]({{gen}}intro/intro)       |                              |                              |                              |
+| CROC                                   | [Link]({{v}}croc)            | [Link]({{o}}croc)            | [Link]({{c}}croc)            |
+| Graphing CROC                          | [Link]({{v}}graphingcroc)    | [Link]({{o}}graphingcroc)    | [Link]({{c}}graphingcroc)    |
+| IncROC                                 | [Link]({{v}}incroc)          | [Link]({{o}}incroc)          | [Link]({{c}}incroc)          |
+| Graphing IncROC                        | [Link]({{v}}graphingincroc)  | [Link]({{o}}graphingincroc)  | [Link]({{c}}graphingincroc)  |
+| AROC                                   | [Link]({{v}}aroc)            | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
+| Approximating InstROC                  | [Link]({{v}}approxiroc)      | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
+| Limit Def of Derivative                | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
+| Slopes of Secants and Tangents         | [Link]({{v}}secanttangent)   | [Link]({{o}}secanttangent)   | [Link]({{c}}secanttangent)   |
+| Graphing Derivatives                   | [Link]({{v}}graphingderiv)   | [Link]({{o}}graphingderiv)   | [Link]({{c}}graphingderiv)   |
+| Basic Derivative Rules                 | [Link]({{v}}basicderivrules) | [Link]({{o}}basicderivrules) | [Link]({{c}}basicderivrules) |
+| Product Rule                           | [Link]({{v}}product)         | [Link]({{o}}product)         | [Link]({{c}}product)         |
+| Quotient Rule                          | [Link]({{v}}quotient)        | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
+| Chain Rule                             | [Link]({{v}}chain)           | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
+| Linear Approximation                   | [Link]({{v}}linapprox)       | [Link]({{o}}linapprox)       | [Link]({{c}}linapprox)       |
+| Implicit Differentiation               | [Link]({{v}}implicit)        | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
+| Optimization (Intro)                   | [Link]({{v}}optintro)        | [Link]({{o}}optintro)        | [Link]({{c}}optintro)        |
+| Optimization (Modeling)                | [Link]({{v}}optmodel)        | [Link]({{o}}optmodel)        | [Link]({{c}}optmodel)        |
+| Riemann Sums Intro                     | [Link]({{v}}rsintro)         | [Link]({{o}}rsintro)         | [Link]({{c}}rsintro)         |
+| Riemann Sum Notation                   | [Link]({{v}}rsnotation)      | [Link]({{o}}rsnotation)      | [Link]({{c}}rsnotation)      |
+| Definite Integrals                     | [Link]({{v}}defint)          | [Link]({{o}}defint)          | [Link]({{c}}defint)          |
+| Antiderivatives                        | [Link]({{v}}antideriv)       | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
+| FTOC 1 - Integrals are Antiderivatives | [Link]({{v}}ftoc1)           | [Link]({{o}}ftoc1)           | [Link]({{c}}ftoc1)           |
+| FTOC 2 - variable in bounds            | [Link]({{v}}ftoc2)           | [Link]({{o}}ftoc2)           | [Link]({{c}}ftoc2)           |
+| Euler's Method                         | [Link]({{gen}}euler/euler)   |                              |                              |
 
 <!--* [Constant Rate of Change](https://ximera.osu.edu/calcvids/sample/croc)-->
 <!--* [Approximating Instantaneous Rates of Change](https://ximera.osu.edu/calcvids/sample/arociroc)-->
