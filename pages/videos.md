@@ -124,9 +124,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}secanttangent">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: The Imprecision of Tangents</a>
-			<LI>Finding the speed of a baseball at a moment in time graphically</a>
-			<LI>Graphing the rate of change of metabolizing ibuprofen</a>
+			<LI><a href="https://youtu.be/zE3XYFhhyvg">Video 0: The Imprecision of Tangents</a>
+			<LI><a href="https://youtu.be/FY7Ms5XHstI">Finding the speed of a baseball at a moment in time graphically</a>
+			<LI><a href="https://youtu.be/sH6EZzM3eJw">Graphing the rate of change of metabolizing ibuprofen</a>
 
 	<tr>
 		<td>Graphing Derivatives</td>
