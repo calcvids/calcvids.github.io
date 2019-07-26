@@ -21,7 +21,10 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1 Slides: Average Rates of Change as Constant Rates of Change](https://drive.google.com/file/d/1trzHja9PorvX7nDpV3wTEMINpqoJ2T42/view?usp=sharing)
   - [Video 2 Slides: A Precise Description of Average Rates of Change](https://drive.google.com/file/d/1TQsJpCalr2fNK_QijW5BcyzndO_7NJTP/view?usp=sharing)
 - Approximating Instantaneous Rates of Change
+  - [Video 1 Slides: Approximating the Speed of a Baseball](https://drive.google.com/open?id=1W1jWlN2Wjo3wIwxIXnYxvXd1HnYHIEht)
+  - [Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change](https://drive.google.com/open?id=13gDAqOOWhzQJznQnUSrEf8JcmYFRnqk2)
 - l'Hopital's Rule
+  - [Video 1 Slides: Limits of Quotients](https://drive.google.com/open?id=1Iqb3pMj7bxp4S5WV9RbjPcvzoSVFs1ut)
 - Continuity
 - Differentiability and Local Linearity
 - Limit Definition of Derivative
