@@ -9,6 +9,8 @@ permalink: "/sample/"
 {% capture o %}https://ximera.osu.edu/calcvidstest/in/o/{% endcapture %}
 {% capture v %}https://ximera.osu.edu/calcvidstest/in/v/{% endcapture %}
 
+OK
+
 If you would like to have your students use our materials, please <a href="mailto:info@calcvids.org">contact us</a>.
 
 For each calculus topic, we create 1-4 short videos to explain the topic and provide examples. Then, we create questions for students to answer before and after watching the videos, and (depending on the details of the experimental design) also include various resources for the students to use prior to watching the videos.
