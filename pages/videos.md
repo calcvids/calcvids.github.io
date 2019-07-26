@@ -77,9 +77,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="https://ximera.osu.edu/calcvidstest/in/v/lhopital"></a>Link</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/aadoTjD1tR8">Video 0: Evaluating Indeterminate Limits</a>
+			<LI><a href="https://youtu.be/K854_0xuWLU">Limits of Quotients</a>
 
 	<tr>
 		<td>Continuity</td>
