@@ -40,6 +40,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - The Product Rule
 - The Quotient Rule
 - The Chain Rule
+  - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/open?id=1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1)
+  - [Video 2: How to Use the Chain Rule](https://drive.google.com/open?id=1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU)
+  - [Video 3: Why the Chain Rule Works](https://drive.google.com/open?id=1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6)
 - Mean Value Theorem
 - Extreme Value Theorem
 - Implicit Differentiation
