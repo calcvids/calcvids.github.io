@@ -29,9 +29,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}croc">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/o4tcg1QljpA">Video 0: Pouring Water into a Cylinder</a>
-			<LI><a href="https://youtu.be/DiunrIO0buo">Solving the Problem of Pouring Water</a>
-			<LI><a href="https://youtu.be/ZSe2bhVzLh0">Formal Definition of Constant Rate of Change</a>
+			<LI><a href="https://youtu.be/mGTNop-rN2I">Video 0: Pouring Water into a Cylinder</a>
+			<LI><a href="https://youtu.be/p8mA9OFKgIQ">Solving the Problem of Pouring Water</a>
+			<LI><a href="https://youtu.be/JUqoQMbl6kc">Formal Definition of Constant Rate of Change</a>
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
