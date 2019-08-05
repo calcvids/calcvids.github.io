@@ -228,9 +228,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}rsintro">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Dust Accumulation on the Mars Rover</a>
-			<LI>Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
-			<LI>A Riemann Sum for an Oil Spill</a>
+			<LI><a href="https://youtu.be/S1kO1_aQlPk">Video 0: Dust Accumulation on the Mars Rover</a>
+			<LI><a href="https://youtu.be/hBGkqad138Y">Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
+			<LI><a href="https://youtu.be/5OrnU__axH0">A Riemann Sum for an Oil Spill</a>
 
 	<tr>
 		<td>Riemann Sum Notation</td>

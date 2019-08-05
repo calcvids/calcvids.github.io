@@ -50,6 +50,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Introduction to Optimization
 - Optimization: Algebraic Modeling
 - Introduction to Riemann Sums
+  - [Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust](https://drive.google.com/open?id=1jTPP3hcXCC656IrTmkOrMEz801vINaKS)
+  - [Video 2: A Riemann Sum for an Oil Spill](https://drive.google.com/open?id=1CfqSdto26XuZg5YsFLn-clzsDEFtFgTB)
 - Riemann Sum Notation
 - Definite Integrals
 - The Fundamental Theorem of Calculus, Part 1
