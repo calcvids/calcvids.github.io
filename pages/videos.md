@@ -237,8 +237,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}rsnotation">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Writing a Riemann Sum Two Ways</a>
-			<LI>Writing Riemann Sums using Sigma Notation</a>
+			<LI><a href="https://youtu.be/Ozyd8hvrc9M">Video 0: Writing a Riemann Sum Two Ways</a>
+			<LI><a href="https://youtu.be/_U27dzxd-NI">Writing Riemann Sums using Sigma Notation</a>
 
 
 	<tr>

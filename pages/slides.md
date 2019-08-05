@@ -53,6 +53,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust](https://drive.google.com/open?id=1jTPP3hcXCC656IrTmkOrMEz801vINaKS)
   - [Video 2: A Riemann Sum for an Oil Spill](https://drive.google.com/open?id=1CfqSdto26XuZg5YsFLn-clzsDEFtFgTB)
 - Riemann Sum Notation
+  - [Video 1: Writing Riemann Sums using Sigma Notation](https://drive.google.com/open?id=1I-tm7M2mFuLrneB2e9gN0Zy4pMFiQQJ_)
 - Definite Integrals
 - The Fundamental Theorem of Calculus, Part 1
 - The Fundamental Theorem of Calculus, Part 2
