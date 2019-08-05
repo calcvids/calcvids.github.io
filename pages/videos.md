@@ -270,13 +270,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Antiderivatives</td>
-		<td><a href="{{v}}antideriv"></a>Coming in 2019</td>
+		<td><a href="{{v}}antideriv">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/HkdXWOiwV0U">Video 0: Antiderivatives</a>
-			<LI><a href="https://youtu.be/IkKdTWIYf-g">Antiderivatves</a>
-			<LI><a href="https://youtu.be/siz6SmfbyHQ">Antiderivatvies, Part 2</a>
-			<LI><a href="https://youtu.be/jKrkBpOuxuw">Using Antiderivative Rules</a>
+			<LI><a href="https://youtu.be/Rk3vvB0-IEc">Video 0: Antiderivatives</a>
+			<LI><a href="https://youtu.be/3ga2t49x9hk">Antiderivatves</a>
+			<LI><a href="https://youtu.be/J3s0N1sz2wU">Antiderivatvies, Part 2</a>
+			<LI><a href="https://youtu.be/VKAdG_hZ2qs">Using Antiderivative Rules</a>
 
 	<tr>
 		<td>U-Substitution</td>

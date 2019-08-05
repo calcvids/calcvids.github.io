@@ -58,9 +58,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - The Fundamental Theorem of Calculus, Part 1
 - The Fundamental Theorem of Calculus, Part 2
 - Antiderivatives
-  - [Video 1 Slides: Antiderivatives](https://drive.google.com/file/d/1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV/view?usp=sharing)
-  - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/file/d/1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE/view?usp=sharing)
-  - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/file/d/1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn/view?usp=sharing)
+  - [Video 1 Slides: Antiderivatives](https://drive.google.com/open?id=1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV)
+  - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/open?id=1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE)
+  - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/open?id=1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn)
 - U-Substitution
 - An Introduction to (Linear) Differential Equations
 - An Introduction to Euler's Method
