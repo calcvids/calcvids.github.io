@@ -38,6 +38,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Graphing Derivatives
 - Basic Derivative Rules
 - The Product Rule
+  - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/open?id=1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS)
+  - [Video 2: Conceptual Explanation of the Product Rule](https://drive.google.com/open?id=1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ)
 - The Quotient Rule
 - The Chain Rule
   - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/open?id=1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1)

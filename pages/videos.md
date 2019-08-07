@@ -151,9 +151,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}product">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Products of Polynomials</a>
-			<LI>Procedural Description of the Product Rule</a>
-			<LI>Conceptual Explanation of the Product Rule</a>
+			<LI><a href="https://youtu.be/I6HBEdYgFRc">Video 0: Products of Polynomials</a>
+			<LI><a href="https://youtu.be/bugvShM2iEY">Procedural Description of the Product Rule</a>
+			<LI><a href="https://youtu.be/tYUk_L89tn4">Conceptual Explanation of the Product Rule</a>
 
 	<tr>
 		<td>The Quotient Rule</td>
