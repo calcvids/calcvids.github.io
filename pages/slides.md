@@ -55,6 +55,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Riemann Sum Notation
   - [Video 1: Writing Riemann Sums using Sigma Notation](https://drive.google.com/open?id=1I-tm7M2mFuLrneB2e9gN0Zy4pMFiQQJ_)
 - Definite Integrals
+  - [Video 1: Definite Integrals as Limits of Riemann Sums](https://drive.google.com/open?id=1o4QatlzEJEdXbAErAESfBdDfCWiJdYn5)
+  - [Video 2: A Definite Integral for an Oil Spill](https://drive.google.com/open?id=1zlxuwQX_Da1oUqbLWTl_LJ1i8r3ydV9p)
 - The Fundamental Theorem of Calculus, Part 1
 - The Fundamental Theorem of Calculus, Part 2
 - Antiderivatives

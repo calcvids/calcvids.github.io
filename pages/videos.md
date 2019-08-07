@@ -246,9 +246,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}defint">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Mars Rover Using a Formula</a>
-			<LI>Definite Integrals as Limits of Riemann Sums</a>
-			<LI>A Definite Integral for an Oil Spill</a>
+			<LI><a href="https://youtu.be/DWIGVRaoIHs">Video 0: Mars Rover Using a Formula</a>
+			<LI><a href="https://youtu.be/Cf9d-coYmjw">Definite Integrals as Limits of Riemann Sums</a>
+			<LI><a href="https://youtu.be/LFTxQ30kaag">A Definite Integral for an Oil Spill</a>
 
 
 	<tr>
