@@ -264,9 +264,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{[v]}ftoc2">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Cumulative Probability from a Normal Distribution</a>
-			<LI><a href=""></a>
--->
+			<LI><a href="https://youtu.be/FIK_HecrH0I">Video 0: Cumulative Probability from a Normal Distribution</a>
+			<LI><a href="https://youtu.be/ccM2SfK8R2s">Accumulation Functions</a>
+			<LI><a href="https://youtu.be/2ok3DhmBBx8">Antiderivatives and Accumulation Functions</a>
 
 	<tr>
 		<td>Antiderivatives</td>
