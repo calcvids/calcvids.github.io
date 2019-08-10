@@ -29,6 +29,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | Graphing IncROC                        | [Link]({{v}}graphingincroc)  | [Link]({{o}}graphingincroc)  | [Link]({{c}}graphingincroc)  |
 | AROC                                   | [Link]({{v}}aroc)            | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
 | Approximating InstROC                  | [Link]({{v}}approxiroc)      | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
+| L'Hopital's Rule                       | [Link]({{v}}lhopital)        | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
 | Limit Def of Derivative                | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
 | Slopes of Secants and Tangents         | [Link]({{v}}secanttangent)   | [Link]({{o}}secanttangent)   | [Link]({{c}}secanttangent)   |
 | Graphing Derivatives                   | [Link]({{v}}graphingderiv)   | [Link]({{o}}graphingderiv)   | [Link]({{c}}graphingderiv)   |
