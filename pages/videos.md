@@ -171,6 +171,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/BIA5JBI-VVo">How to Use the Chain Rule</a>
 			<LI><a href="https://youtu.be/9olW1h1kVro">Why the Chain Rule Works</a>
 
+<!--
+	<tr>
+		<td>Linear Approximation</td>
+		<td><a href=""></a>Coming in 2019</td>
+		<td>
+-->
+
 	<tr>
 		<td>Mean Value Theorem</td>
 		<td><a href=""></a>Coming in 2019</td>
