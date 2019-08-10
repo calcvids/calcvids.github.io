@@ -29,8 +29,8 @@
     url: "/videos/"
   - title: "Powerpoint Slides"
     url: "/slides"
-  - title: "Instructions for Making your Own Videos"
-    url: "/makeyourown/"
+  - title: "Information and Resources for Instructors"
+    url: "/instructorinfo/"
 
 - title: "Search"
   url: "/search/"
