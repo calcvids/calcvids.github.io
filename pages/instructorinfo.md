@@ -7,27 +7,35 @@ permalink: "/instructorinfo/"
 
 What you'll need to do
 -----------------------
-  - Participate in an online professional development workshop
-  - Provide a description of their use of the videos in their classes (we will send a survey at the end of the semester)
-  - Describe the study to your students at the beginning of the semester
-  - Assign one or more Ximera sets for your students to complete as part of their regular class activities
-  - Assign the [Ximera Introduction](https://ximera.osu.edu/calcvidstest/intro/intro) (on Ximera) to your students
-  - Assign the [end-of-semester survey](https://ximera.osu.edu/calcvidstest/survey/survey/survey) (on Ximera) to your students
+- Participate in an online professional development workshop
+- Provide a description of their use of the videos in their classes (we will send a survey at the end of the semester)
+- Describe the study to your students at the beginning of the semester
+- Assign one or more Ximera sets for your students to complete as part of their regular class activities
+- Assign the [Ximera Introduction](https://ximera.osu.edu/calcvidstest/intro/intro) (on Ximera) to your students
+- Assign the [end-of-semester survey](https://ximera.osu.edu/calcvidstest/survey/survey/survey) (on Ximera) to your students
 
 How to assign videos using Ximera
 ----------------------------------
-  - All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) and clicking on the title of the assigned video set
+All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) and clicking on the title of the assigned video set
+
+Ximera accounts
+---------------
+We will post information about how to create and access Ximera accounts (both for students and instructors) as soon as it is available
 
 Human subjects information
 --------------------------
-  - Instructors will need to complete a [consent form](Instructor_Informed_Consent-Fillable.pdf)
-  - Students will give consent (or not) to participate as part of the "Ximera Introduction". Please emphasize to your students that they will be watching the videos and completing the tasks as part of their regular class activities; giving consent lets the researchers use their data to help students learn calculus
-  - Students who are younger than 18 years old will need to get parental consent to participate. 
+- Instructors will need to complete a [consent form](Instructor_Informed_Consent-Fillable.pdf)
+- Students will give consent (or not) to participate as part of the "Ximera Introduction". Please emphasize to your students that they will be watching the videos and completing the tasks as part of their regular class activities; giving consent lets the researchers use their data to help students learn calculus
+- Students who are younger than 18 years old will need to get parental consent to participate. We will provide a consent form soon
 
 Resources
 ---------
-  - [Professional Development Workshop Slides](Professional_Development.pptx)
-  - [Intellectual Need Tasks](Intellectual_Need_Tasks.docx)
+- [Professional Development Workshop Slides](Professional_Development.pptx)
+- [Intellectual Need Tasks](Intellectual_Need_Tasks.docx)
+- Additional homework problems will be posted as soon as they are available
+- Information about quantitative reasoning:
+  - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning 
+  - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 
 Support
 -------
