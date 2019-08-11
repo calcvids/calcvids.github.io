@@ -30,7 +30,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | AROC                                     | [Link]({{v}}aroc)            | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
 | Approximating InstROC                    | [Link]({{v}}approxiroc)      | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
 | L'Hopital's Rule                         | [Link]({{v}}lhopital)        | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
-| Continuity                               |                              |                              |                              |
+| Continuity                               | [Link]({{v}}continuity)      | [Link]({{o}}continuity)      | [Link]({{c}}continuity)      |
 | Differentiability and Local Linearity    | [Link]({{v}}locallin)        | [Link]({{o}}locallin)        | [Link]({{c}}locallin)        |
 | Limit Def of Derivative                  | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
 | Using the Limit Definition of Derivative |                              |                              |                              |

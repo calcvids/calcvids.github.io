@@ -87,9 +87,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Continuity</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="{{v}}continuity"></a>Link</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/MSXT-C2_MlY">Video 0: Continuity</a>
+			<LI><a href="https://youtu.be/EVgc0qq7A8k">Video 1: Continuity</a>
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>

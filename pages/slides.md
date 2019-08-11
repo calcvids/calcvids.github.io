@@ -26,6 +26,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - l'Hopital's Rule
   - [Video 1 Slides: Limits of Quotients](https://drive.google.com/open?id=1Iqb3pMj7bxp4S5WV9RbjPcvzoSVFs1ut)
 - Continuity
+  - [Video 1 Slides: Continuity](https://drive.google.com/open?id=16jMDdrPKLhAi2gCq_YdgLmjXRaPRTLj4)
 - Differentiability and Local Linearity
   - [Video 1 Slides: Local Linearity](https://drive.google.com/open?id=12efMcgWkBje1ebd5VfyOlZbjLnFccX7O)
 - Limit Definition of Derivative
