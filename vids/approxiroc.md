@@ -35,30 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("approxiroc");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/approxiroc/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/q/approxiroc/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/approxiroc/name";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/approxiroc/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/approxiroc";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/approxiroc";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/approxiroc";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/approxiroc";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/approxiroc";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/approxiroc";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.25 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("approxiroc", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.5 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("approxiroc", 2, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.75 ){
+      else if (forwardchoice <= (3/6) ){
         setCookie("approxiroc", 3, 365);
         checkCookie();
         }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("approxiroc", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("approxiroc", 5, 365);
+            checkCookie();
+            }
       else {
-        setCookie("approxiroc", 4, 365);
+        setCookie("approxiroc", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

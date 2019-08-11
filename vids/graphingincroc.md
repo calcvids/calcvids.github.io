@@ -35,30 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("graphingincroc");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/graphingincroc/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/q/graphingincroc/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/graphingincroc/name";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/graphingincroc/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/graphingincroc";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/graphingincroc";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/graphingincroc";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/graphingincroc";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/graphingincroc";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/graphingincroc";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.25 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("graphingincroc", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.5 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("graphingincroc", 2, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.75 ){
+      else if (forwardchoice <= (3/6) ){
         setCookie("graphingincroc", 3, 365);
         checkCookie();
         }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("graphingincroc", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("graphingincroc", 5, 365);
+            checkCookie();
+            }
       else {
-        setCookie("graphingincroc", 4, 365);
+        setCookie("graphingincroc", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

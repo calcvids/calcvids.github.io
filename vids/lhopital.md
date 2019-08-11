@@ -35,25 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("lhopital");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/lhopital/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/lhopital/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/lhopital/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/lhopital";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/lhopital";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/lhopital";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/lhopital";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/lhopital";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/lhopital";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.33 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("lhopital", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.66 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("lhopital", 2, 365);
         checkCookie();
         }
-      else {
+      else if (forwardchoice <= (3/6) ){
         setCookie("lhopital", 3, 365);
+        checkCookie();
+        }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("lhopital", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("lhopital", 5, 365);
+            checkCookie();
+            }
+      else {
+        setCookie("lhopital", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

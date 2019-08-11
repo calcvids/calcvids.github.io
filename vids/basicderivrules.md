@@ -35,25 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("basicderivrules");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/basicderivrules/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/basicderivrules/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/basicderivrules/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/basicderivrules";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/basicderivrules";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/basicderivrules";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/basicderivrules";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/basicderivrules";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/basicderivrules";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.33 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("basicderivrules", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.66 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("basicderivrules", 2, 365);
         checkCookie();
         }
-      else {
+      else if (forwardchoice <= (3/6) ){
         setCookie("basicderivrules", 3, 365);
+        checkCookie();
+        }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("basicderivrules", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("basicderivrules", 5, 365);
+            checkCookie();
+            }
+      else {
+        setCookie("basicderivrules", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

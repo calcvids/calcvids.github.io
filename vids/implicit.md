@@ -35,30 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("implicit");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/implicit/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/q/implicit/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/implicit/name";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/implicit/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/implicit";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/implicit";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/implicit";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/implicit";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/implicit";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/implicit";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.25 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("implicit", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.5 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("implicit", 2, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.75 ){
+      else if (forwardchoice <= (3/6) ){
         setCookie("implicit", 3, 365);
         checkCookie();
         }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("implicit", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("implicit", 5, 365);
+            checkCookie();
+            }
       else {
-        setCookie("implicit", 4, 365);
+        setCookie("implicit", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

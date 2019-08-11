@@ -35,25 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("chain");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/chain/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/chain/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/chain/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/chain";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/chain";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/chain";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/chain";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/chain";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/chain";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.33 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("chain", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.66 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("chain", 2, 365);
         checkCookie();
         }
-      else {
+      else if (forwardchoice <= (3/6) ){
         setCookie("chain", 3, 365);
+        checkCookie();
+        }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("chain", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("chain", 5, 365);
+            checkCookie();
+            }
+      else {
+        setCookie("chain", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>

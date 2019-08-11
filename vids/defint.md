@@ -35,30 +35,41 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("defint");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/fall18calcvids/o/defint/name";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/fall18calcvids/q/defint/name";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/fall18calcvids/v/defint/name";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/fall18calcvids/c/defint/name";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/defint";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/defint";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/defint";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/defint";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/defint";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/defint";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= 0.25 ){
+      if (forwardchoice <= (1/6) ){
         setCookie("defint", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.5 ){
+      else if (forwardchoice <= (2/6) ){
         setCookie("defint", 2, 365);
         checkCookie();
         }
-      else if (forwardchoice <= 0.75 ){
+      else if (forwardchoice <= (3/6) ){
         setCookie("defint", 3, 365);
         checkCookie();
         }
+        else if (forwardchoice <= (4/6) ){
+          setCookie("defint", 4, 365);
+          checkCookie();
+          }
+          else if (forwardchoice <= (5/6) ){
+            setCookie("defint", 5, 365);
+            checkCookie();
+            }
       else {
-        setCookie("defint", 4, 365);
+        setCookie("defint", 6, 365);
         checkCookie();
         }
       }
 }
+
 
 
 </script>
