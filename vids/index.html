@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content />
@@ -318,9 +319,7 @@ border: 1px solid #357FAA;
 }
 </style>
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -345,22 +344,80 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -378,36 +435,39 @@ $(document).ready(function () {
 <h1>Please select the video set you would like to watch:</h1>
 <!-- note: do not edit this html file directly -->
 <ol style="list-style-type: decimal">
-<li><a href="https://ximera.osu.edu/fall18calcvids/intro/intro/intro/name1">Ximera introduction</a></li>
+<li><a href="https://ximera.osu.edu/fall18calcvids/intro/intro">Ximera introduction</a></li>
 <li><a href="./croc">Constant Rate of Change</a></li>
 <li><a href="./graphingcroc">Graphing Constant Rate of Change</a></li>
 <li><a href="./incroc">Increasing Rate of Change</a></li>
 <li><a href="./graphingincroc">Graphing Varying Rates of Change</a></li>
 <li><a href="./aroc">Average Rate of Change</a></li>
 <li><a href="./approxiroc">Approximating Instantaneous Rates of Change</a></li>
+<li><a href="./lhopital">L’Hopital’s Rule</a></li>
+<li>Continuity - Coming soon</li>
+<li><a href="./locallin">Differentiability and Local Linearity</a></li>
 <li><a href="./limitdef">Limit Definition of Derivative</a></li>
+<li>Using the Limit Definition of Derivative - Coming soon</li>
+<li>Interpreting Derivatives - Coming soon</li>
 <li><a href="./secanttangent">Secant Lines and Tangent Lines</a></li>
-<li><a href="./graphingderiv">Graphing Derivatives</a></li>
+<li>Graphing Derivatives - Coming soon <!-- [Graphing Derivatives](./graphingderiv) --></li>
 <li><a href="./basicderivrules">Basic Derivative Rules</a></li>
 <li><a href="./product">Product Rule</a></li>
+<li>Quotient Rule - Coming soon</li>
 <li><a href="./chain">Chain Rule</a></li>
+<li>Mean Value Theorem - Coming soon</li>
+<li>Extreme Value Theorem - Coming soon</li>
 <li><a href="./implicit">Implicit Differentiation</a></li>
 <li><a href="./optintro">Optimization Intro</a></li>
 <li><a href="./optmodel">Optimization Modeling</a></li>
 <li><a href="./rsintro">Riemann Sums Introduction</a></li>
 <li><a href="./rsnotation">Riemann Sums Notation</a></li>
 <li><a href="./defint">Definite Integrals</a></li>
+<li>Antiderivatives - Coming soon</li>
+<li>FTOC 1 - Integrals are Antiderivatives - Coming soon</li>
+<li>FTOC 2 - variable in bounds - Coming soon</li>
+<li>Euler’s Method - Coming soon</li>
+<li><a href="https://ximera.osu.edu/calcvidstest/survey/survey">End of semester survey</a></li>
 </ol>
-<!-- old pages
-1. [Constant Rate of Change](./croc)
-2. [Approximating Instantaneous Rates of Change](./arociroc)
-3. [Graphing Derivatives](./graphderiv)
-4. [Basic Derivative Rule](./derivrules)
-5. The Chain Rule, under revision
-6. [Optimization](./opt)
-7. [Integrals from Riemann Sums](./rs)
-8. [Antiderivatives](./antideriv)
--->
 </div>
 
 
@@ -427,6 +487,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
