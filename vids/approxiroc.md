@@ -35,12 +35,12 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("approxiroc");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvidstest/in/c/approxiroc";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvidstest/in/o/approxiroc";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvidstest/in/v/approxiroc";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/c/approxiroc";}
-    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/o/approxiroc";}
-    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvidstest/nin/v/approxiroc";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids2019/in/c/approxiroc";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids2019/in/o/approxiroc";}
+    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids2019/in/v/approxiroc";}
+    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/c/approxiroc";}
+    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/o/approxiroc";}
+    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/v/approxiroc";}
     else {
       var forwardchoice=Math.random();
       if (forwardchoice <= (1/6) ){

@@ -15,7 +15,7 @@ Each collection of videos can be viewed on our Ximera platform, which allows stu
 
 All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
 
-{% capture v %}https://ximera.osu.edu/calcvidstest/in/v/{% endcapture %}
+{% capture v %}https://ximera.osu.edu/calcvids2019/in/v/{% endcapture %}
 
 <table>
 	<tr>
@@ -305,7 +305,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>An Introduction to Euler's Method</td>
-		<td><a href="https://ximera.osu.edu/calcvidstest/euler/euler">Link</a></td>
+		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler">Link</a></td>
 		<td>
 			<OL>
 			<LI>Video 0: Computing the Spread of an Infection</a>

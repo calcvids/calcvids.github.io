@@ -11,7 +11,7 @@ output:
 
 <!-- note: do not edit this html file directly -->
 
-1. [Ximera introduction](https://ximera.osu.edu/calcvidstest/intro/intro)
+1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
 1. [Increasing Rate of Change](./incroc)
@@ -42,4 +42,4 @@ output:
 1. FTOC 1 - Integrals are Antiderivatives - Coming soon
 1. FTOC 2 - variable in bounds - Coming soon
 1. Euler’s Method - Coming soon
-1. [End of semester survey](https://ximera.osu.edu/calcvidstest/survey/survey)
+1. [End of semester survey](https://ximera.osu.edu/calcvids2019/survey/survey)

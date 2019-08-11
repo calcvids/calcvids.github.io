@@ -11,8 +11,8 @@ What you'll need to do
 - Provide a description of their use of the videos in their classes (we will send a survey at the end of the semester)
 - Describe the study to your students at the beginning of the semester
 - Assign one or more Ximera sets for your students to complete as part of their regular class activities
-- Assign the [Ximera Introduction](https://ximera.osu.edu/calcvidstest/intro/intro) (on Ximera) to your students
-- Assign the [end-of-semester survey](https://ximera.osu.edu/calcvidstest/survey/survey/survey) (on Ximera) to your students
+- Assign the [Ximera Introduction](https://ximera.osu.edu/calcvids2019/intro/intro) (on Ximera) to your students
+- Assign the [end-of-semester survey](https://ximera.osu.edu/calcvids2019/survey/survey) (on Ximera) to your students
 
 How to assign videos using Ximera
 ----------------------------------
@@ -34,7 +34,7 @@ Resources
 - [Intellectual Need Tasks](Intellectual_Need_Tasks.docx)
 - Additional homework problems will be posted as soon as they are available
 - Information about quantitative reasoning:
-  - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning 
+  - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 
 Support

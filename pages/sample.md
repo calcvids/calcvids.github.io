@@ -5,10 +5,10 @@ meta_title: "Examples"
 permalink: "/sample/"
 ---
 
-{% capture gen %}https://ximera.osu.edu/calcvidstest/{% endcapture%}
-{% capture c %}https://ximera.osu.edu/calcvidstest/in/c/{% endcapture %}
-{% capture o %}https://ximera.osu.edu/calcvidstest/in/o/{% endcapture %}
-{% capture v %}https://ximera.osu.edu/calcvidstest/in/v/{% endcapture %}
+{% capture gen %}https://ximera.osu.edu/calcvids2019/{% endcapture%}
+{% capture c %}https://ximera.osu.edu/calcvids2019/in/c/{% endcapture %}
+{% capture o %}https://ximera.osu.edu/calcvids2019/in/o/{% endcapture %}
+{% capture v %}https://ximera.osu.edu/calcvids2019/in/v/{% endcapture %}
 
 If you would like to have your students use our materials, please <a href="mailto:info@calcvids.org">contact us</a>.
 
