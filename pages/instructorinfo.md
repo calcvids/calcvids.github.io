@@ -27,7 +27,7 @@ Using Ximera
  - Students:
   - Each student will receive a user name and password from their instructor to log in to Ximera.
   - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in.
-  - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.docx)
+  - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf)
 
 
 Human subjects information
