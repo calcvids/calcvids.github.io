@@ -18,9 +18,17 @@ How to assign videos using Ximera
 ----------------------------------
 All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) and clicking on the title of the assigned video set
 
-Ximera accounts
+Using Ximera
 ---------------
-We will post information about how to create and access Ximera accounts (both for students and instructors) as soon as it is available
+ - Instructors:
+   - Send us a class roster; we will return the roster with a user name and password for each student
+   - Students are able to print a certificate after completing each Ximera set that shows which videos they have watched and their score on the post-video questions. Instructors can ask students to submit this certificate to verify completion of the assignment
+   - The research team will create a folder on Google Drive for each instructor; this folder will contain a spreadsheet for each Ximera set that students complete that shows the date/time the students watched the videos and their score on the post-video questions. This folder will be updated daily at 9:30 AM (Eastern US time). To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>)
+ - Students:
+  - Each student will receive a user name and password from their instructor to log in to Ximera.
+  - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in.
+  - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.docx)
+
 
 Human subjects information
 --------------------------
@@ -32,8 +40,11 @@ Resources
 ---------
 - [Professional Development Workshop Slides](Professional_Development.pptx)
 - [Intellectual Need Tasks](Intellectual_Need_Tasks.docx)
-- Additional homework problems will be posted as soon as they are available
+- Additional homework problems:
+  - A [student workbook](Pathways_Calculus_Student.pdf) from Pathways through Calculus by Michael Tallman, Marilyn Carlson, and James Hart
+  - [Instructor notes](Pathways_Calculus_Instructor.pdf) from Pathways through Calculus
 - Information about quantitative reasoning:
+  - A [description of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 
