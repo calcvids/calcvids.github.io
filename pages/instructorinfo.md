@@ -20,11 +20,11 @@ All Ximera sets should be assigned by having students visit [https://calcvids.or
 
 Using Ximera
 ---------------
- - Instructors
+ - **Instructors**
    - Send us a class roster; we will return the roster with a user name and password for each student.
    - Students will be able to print a certificate after completing each Ximera set that shows their progress through the set. Instructors can ask students to submit this certificate to verify completion of the assignment.
-   - The research team will create a folder on Google Drive for each instructor; this folder will contain a spreadsheet for each Ximera set that students complete that shows the date/time the students watched the videos and their score on the post-video questions. This folder will be updated daily at 9:30 AM (Eastern US time). To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>).
- - Students
+   - The research team will create a folder on Google Drive for each instructor. This folder will contain a spreadsheet for each Ximera set students complete showing the date/time each student watched the videos and their score on the post-video questions. This folder will be updated daily at 9:30 AM (Eastern US time). To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>).
+ - **Students**
    - To log in to Ximera, each student will receive a user name and password from their instructor.
    - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in.
    - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
