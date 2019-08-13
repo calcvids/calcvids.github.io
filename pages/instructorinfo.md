@@ -8,7 +8,7 @@ permalink: "/instructorinfo/"
 What you'll need to do
 -----------------------
 - Participate in an online professional development workshop
-- Provide a description of their use of the videos in their classes (we will send a survey at the end of the semester)
+- Provide a description of your use of the videos in their classes (we will send a survey at the end of the semester)
 - Describe the study to your students at the beginning of the semester
 - Assign one or more Ximera sets for your students to complete as part of their regular class activities
 - Assign the [Ximera Introduction](https://ximera.osu.edu/calcvids2019/intro/intro) (on Ximera) to your students
