@@ -20,21 +20,21 @@ All Ximera sets should be assigned by having students visit [https://calcvids.or
 
 Using Ximera
 ---------------
- - Instructors:
-   - Send us a class roster; we will return the roster with a user name and password for each student
-   - Students are able to print a certificate after completing each Ximera set that shows which videos they have watched and their score on the post-video questions. Instructors can ask students to submit this certificate to verify completion of the assignment
-   - The research team will create a folder on Google Drive for each instructor; this folder will contain a spreadsheet for each Ximera set that students complete that shows the date/time the students watched the videos and their score on the post-video questions. This folder will be updated daily at 9:30 AM (Eastern US time). To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>)
- - Students:
-  - Each student will receive a user name and password from their instructor to log in to Ximera.
-  - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in.
-  - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf)
+ - Instructors
+   - Send us a class roster; we will return the roster with a user name and password for each student.
+   - Students will be able to print a certificate after completing each Ximera set that shows their progress through the set. Instructors can ask students to submit this certificate to verify completion of the assignment.
+   - The research team will create a folder on Google Drive for each instructor; this folder will contain a spreadsheet for each Ximera set that students complete that shows the date/time the students watched the videos and their score on the post-video questions. This folder will be updated daily at 9:30 AM (Eastern US time). To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>).
+ - Students
+   - To log in to Ximera, each student will receive a user name and password from their instructor.
+   - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in.
+   - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
 
 
 Human subjects information
 --------------------------
-- Instructors will need to complete a [consent form](Instructor_Informed_Consent-Fillable.pdf)
-- Students will give consent (or not) to participate as part of the "Ximera Introduction". Please emphasize to your students that they will be watching the videos and completing the tasks as part of their regular class activities; giving consent lets the researchers use their data to help students learn calculus
-- Students who are younger than 18 years old will need to get parental consent to participate. We will provide a consent form soon
+- Instructors will need to complete a [consent form](Instructor_Informed_Consent-Fillable.pdf).
+- Students will give consent (or not) to participate as part of the "Ximera Introduction." Please emphasize to your students that they will be watching the videos and completing the tasks as part of their regular class activities; giving consent lets the researchers use their data to help students learn calculus.
+- Students who are younger than 18 years old will need to get parental consent to participate. We will provide a consent form soon.
 
 Resources
 ---------
