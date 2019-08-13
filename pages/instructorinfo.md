@@ -16,7 +16,7 @@ What you'll need to do
 
 How to assign videos using Ximera
 ----------------------------------
-All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) (*NOT* calcvids.org/videos/) and clicking on the title of the assigned video set
+All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) (**_NOT_** calcvids.org/videos/) and clicking on the title of the assigned video set
 
 Using Ximera
 ---------------
