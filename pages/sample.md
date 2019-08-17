@@ -34,7 +34,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | Differentiability and Local Linearity    | [Link]({{v}}locallin)        | [Link]({{o}}locallin)        | [Link]({{c}}locallin)        |
 | Limit Def of Derivative                  | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
 | Using the Limit Definition of Derivative | [Link]({{v}}usinglimit)      | [Link]({{o}}usinglimit)      | [Link]({{c}}usinglimit)      |
-| Interpreting Derivatives                 |                              |                              |                              |
+| Interpreting Derivatives                 | [Link]({{v}}interpretderiv)  | [Link]({{o}}interpretderiv)  | [Link]({{c}}interpretderiv)  |
 | Slopes of Secants and Tangents           | [Link]({{v}}secanttangent)   | [Link]({{o}}secanttangent)   | [Link]({{c}}secanttangent)   |
 | Graphing Derivatives                     | [Link]({{v}}graphingderiv)   | [Link]({{o}}graphingderiv)   | [Link]({{c}}graphingderiv)   |
 | Basic Derivative Rules                   | [Link]({{v}}basicderivrules) | [Link]({{o}}basicderivrules) | [Link]({{c}}basicderivrules) |

@@ -119,9 +119,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="{{v}}interpretderiv"></a>Link</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/7937-UEwg8s">Video 0: Interpreting Derivatives</a>
+			<LI><a href="https://youtu.be/XhsRs1LgED4">Interpreting the Derivative</a>
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>

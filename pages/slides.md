@@ -34,6 +34,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Using the Limit Definition of Derivative
   - [Video 1 Slides: Using Limits to Compute Instantaneous Rates of Change](https://drive.google.com/open?id=1O5njIkwBRkJsDeAfYYzcjs6-D2QeVc8I)
 - Interpreting Derivatives
+  - [Video 1 Slides: Interpreting the Derivative](https://drive.google.com/open?id=1keKznyrZYMZ13pTuJZFWK7nJqZZ1fmTe)
 - Slopes of Secant and Tangent Lines
   - [Video 1 Slides: Finding the speed of a baseball at a moment in time graphically](https://drive.google.com/open?id=1JfAmsbgMFpQu7FqifMYpji5eBwwQtpVc)
   - [Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen](https://drive.google.com/open?id=1xDxkMNqFLhdBhO50bRokSQ06BGGxf-o9)
