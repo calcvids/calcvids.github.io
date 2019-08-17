@@ -111,9 +111,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="{{v}}usinglimit"></a>Link</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/IDDYOcODRpM">Video 0: Using Limits to Compute Derivatives</a>
+			<LI><a href="https://youtu.be/rdkw4TFJoT8">Using Limits to Compute Instantaneous Rates of Change</a>
 
 	<tr>
 		<td>Interpreting Derivatives</td>
