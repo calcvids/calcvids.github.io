@@ -99,7 +99,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/uT7HvNeS9o0">Video 0: Growth of a Rabbit Population</a>
-			<LI><a href="https://youtu.be/YJnarJIbPuw">Local Linearity</a>
+			<LI><a href="https://youtu.be/Jnh7aL_ss9M">Local Linearity</a>
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
