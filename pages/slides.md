@@ -41,6 +41,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Graphing Derivatives
   - [Video 1 Slides: Graphing the Derivative Function](https://drive.google.com/open?id=1IwwWbL_R2SEGgOfUBHvpP4UgeoLyFQnm)
 - Basic Derivative Rules
+  - [Video 1: The Power Rule](https://drive.google.com/open?id=1MDKe6F4GsJQ2kprJ50JoEGfbReHvPZX4)
+  - [Video 2: Exponential and Logarithmic Functions](https://drive.google.com/open?id=114DlwosuSiWP3uzmk-4QRntsELKx9v3-)
+  - [Video 3: Trigonometric Functions](https://drive.google.com/open?id=1C7FaTItRhRCrvj47tuZ9YWWsCWEEWSQk)
 - The Product Rule
   - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/open?id=1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS)
   - [Video 2: Conceptual Explanation of the Product Rule](https://drive.google.com/open?id=1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ)
