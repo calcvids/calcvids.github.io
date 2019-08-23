@@ -28,7 +28,7 @@ output:
 1. [Graphing Derivatives](./graphingderiv)
 1. [Basic Derivative Rules](./basicderivrules)
 1. [Product Rule](./product)
-1. Quotient Rule - Coming soon
+1. [Quotient Rule](./quotient)
 1. [Chain Rule](./chain)
 1. Mean Value Theorem - Coming soon
 1. Extreme Value Theorem - Coming soon

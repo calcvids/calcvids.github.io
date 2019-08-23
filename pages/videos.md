@@ -163,9 +163,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Quotient Rule</td>
-		<td>Coming in 2019</td>
+		<td><a href="{{v}}quotient">Link</a></td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/w4v04rU3Cjk">Video 0: Derivatives of Quotients</a>
+			<LI><a href="https://youtu.be/IA_11bHq_qw">The Quotient Rule</a>
+			<LI><a href="https://youtu.be/j74U8Awcb1s">Why the Quotient Rule Works</a>
 
 	<tr>
 		<td>The Chain Rule</td>

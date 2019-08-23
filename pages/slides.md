@@ -48,6 +48,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/open?id=1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS)
   - [Video 2: Conceptual Explanation of the Product Rule](https://drive.google.com/open?id=1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ)
 - The Quotient Rule
+  - [Video 1: The Quotient Rule](https://drive.google.com/open?id=1OIkgBPnG5BtRjlDJCpeZL0Uh_EJVds31)
+  - [Video 2: Why the Quotient Rule Works](https://drive.google.com/open?id=1AMvv9QQtkal4tECIiIc8P4zSpPby8LzU)
 - The Chain Rule
   - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/open?id=1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1)
   - [Video 2: How to Use the Chain Rule](https://drive.google.com/open?id=1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU)
