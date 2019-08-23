@@ -7,7 +7,9 @@ output:
     css: ./vid.css
 ---
 
-# Please select the video set you would like to watch:
+Please select the video set you would like to watch.
+
+**Make sure to log in once you have clicked on the video set.**
 
 <!-- note: do not edit this html file directly -->
 
