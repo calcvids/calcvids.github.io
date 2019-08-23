@@ -25,7 +25,7 @@ output:
 1. [Using the Limit Definition of Derivative](./usinglimit)
 1. [Interpreting Derivatives](./interpretderiv)
 1. [Secant Lines and Tangent Lines](./secanttangent)
-1. Graphing Derivatives - Coming soon <!-- [Graphing Derivatives](./graphingderiv) -->
+1. [Graphing Derivatives](./graphingderiv)
 1. [Basic Derivative Rules](./basicderivrules)
 1. [Product Rule](./product)
 1. Quotient Rule - Coming soon

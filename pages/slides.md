@@ -39,6 +39,7 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1 Slides: Finding the speed of a baseball at a moment in time graphically](https://drive.google.com/open?id=1JfAmsbgMFpQu7FqifMYpji5eBwwQtpVc)
   - [Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen](https://drive.google.com/open?id=1xDxkMNqFLhdBhO50bRokSQ06BGGxf-o9)
 - Graphing Derivatives
+  - [Video 1 Slides: Graphing the Derivative Function](https://drive.google.com/open?id=1IwwWbL_R2SEGgOfUBHvpP4UgeoLyFQnm)
 - Basic Derivative Rules
 - The Product Rule
   - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/open?id=1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS)
