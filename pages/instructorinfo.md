@@ -27,6 +27,7 @@ Using Ximera
  - **Students**
    - To log in to Ximera, each student will receive a user name and password from their instructor.
    - Students need to log in to Ximera each time they start an assignment. [This screenshot](Logging_in_to_Ximera.png) shows how to log in. After logging in, you can click the back button (usually a left-facing arrow) in your web browser to return to the assignment page.
+   - After completing the work on a page--including watching a video--either click the blue "Save" at the top of the screen or wait for the button to switch to "Saved!"
    - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
 
 
