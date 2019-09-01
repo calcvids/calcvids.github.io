@@ -75,7 +75,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href=" https://youtu.be/TjB9sfy6cf4">Video 0: The Stationary Baseball</a>
 			<LI><a href="https://youtu.be/U8Wo0Q1BlQM">Approximating the Speed of a Baseball</a>
-			<LI><a href="https://youtu.be/r6cUg-9yhWs">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
+			<LI><a href="https://youtu.be/jxxuYtNMQdw">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 
 	<tr>
 		<td>l'Hopital's Rule</td>
@@ -83,7 +83,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/aadoTjD1tR8">Video 0: Evaluating Indeterminate Limits</a>
-			<LI><a href="https://youtu.be/K854_0xuWLU">Limits of Quotients</a>
+			<LI><a href="https://youtu.be/9iqVXU2tefA">Limits of Quotients</a>
 
 	<tr>
 		<td>Continuity</td>
