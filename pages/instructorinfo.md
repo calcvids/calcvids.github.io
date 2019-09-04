@@ -49,6 +49,14 @@ Resources
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 
+Reading ximera spreadsheet files
+--------------------
+The spreadsheets provide you with some information about your students' progress in watching the videos.
+- "time_watched" is a timestamp from when they started watching the videos
+- "Video # Watched" is the percent of the entire video watched. You will see a number of "NA" values. For students who did not receive the "video 0" treatment, there will be an NA instead of a percentage. For shorter sets, you will see NA if that video does not exist (e.g. video 3 in a set with only 2 videos).
+- The percent of post-video questions answered correctly is being worked on currently.
+
+
 Support
 -------
 - You can contact any member of the research team at any time:
