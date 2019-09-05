@@ -52,7 +52,8 @@ Resources
 Reading ximera spreadsheet files
 --------------------
 The spreadsheets provide you with some information about your students' progress in watching the videos.
-- "time_watched" is a timestamp from when they started watching the videos
+- "date_watched" is the date when the student started watching the videos
+- "time_watched" is the time (in zulu time zone) when the student started watching the videos
 - "Video # Watched" is the percent of the entire video watched. You will see a number of "NA" values. For students who did not receive the "video 0" treatment, there will be an NA instead of a percentage. For shorter sets, you will see NA if that video does not exist (e.g. video 3 in a set with only 2 videos).
 - "post.video.questions.correct" is the number of post-video questions answered correctly
 - "percent.correct" is the percentage of post-video questions answered correctly
