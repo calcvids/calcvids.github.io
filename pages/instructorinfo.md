@@ -33,16 +33,19 @@ Using Ximera
    - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
 
 
-Reading ximera spreadsheet files
+Reading Ximera spreadsheet files
 --------------------
-If you have sent us your Google-connected email address, you have access to a Google Drive folder with a collection of spreadsheets--one for each Ximera set that at least one of your students has completed. Each spreadsheet has 10 columns:
+If you have sent us your Google-connected email address, you have access to a Google Drive folder with a collection of spreadsheets--one for each Ximera set that at least one of your students has completed. Each spreadsheet has 14 columns:
  - The first three columns show the student's username, first name, and last name
 - "date_watched" is the date when the student started watching the videos
-- "time_watched" is the time (in zulu time zone) when the student started watching the videos
- - "Video 0 Watched" shows the percent of Video 0 that the student watched. Only 1/3 of students in a class see the Video 0, so all of the other students will have a "NA" in this column
+- "time_watched" is the time (in Zulu time zone) when the student started watching the videos
+ - "Video 0 Watched" shows the percent of Video 0 that the student watched. Only about 1/3 of students in a class see the Video 0, so all of the other students will have a "NA" in this column
  - The next three columns show the percent of each video that the student has watched. There are some Ximera sets that only have 1 or 2 videos; when Video 2 or 3 doesn't exist for a particular set, there will be a "NA" in the column
 - "post.video.questions.correct" is the number of post-video questions answered correctly
 - "percent.correct" is the percentage of post-video questions answered correctly
+- "What was confusing" is the student's response to the first question on the reflection page about what they found confusing in the video.
+- "Clip 1 Response" is the students' response to what was occurring in video clip 1
+- "Clip 2 Response" is the students' response to what was occurring in video clip 2
 
 
 Human subjects information
