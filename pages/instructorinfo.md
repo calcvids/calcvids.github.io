@@ -14,9 +14,11 @@ What you'll need to do
 - Assign the [Ximera Introduction](https://ximera.osu.edu/calcvids2019/intro/intro) (on Ximera) to your students
 - Assign the [end-of-semester survey](https://ximera.osu.edu/calcvids2019/survey/survey) (on Ximera) to your students
 
+
 How to assign videos using Ximera
 ----------------------------------
 All Ximera sets should be assigned by having students visit [https://calcvids.org/vids/](https://calcvids.org/vids/) (**_NOT_** calcvids.org/videos/) and clicking on the title of the assigned video set
+
 
 Using Ximera
 ---------------
@@ -31,11 +33,23 @@ Using Ximera
    - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
 
 
+Reading ximera spreadsheet files
+--------------------
+If you have sent us your Google-connected email address, you have access to a Google Drive folder with a collection of spreadsheets--one for each Ximera set that at least one of your students has completed. Each spreadsheet has 10 columns:
+ - The first three columns show the student's username, first name, and last name
+ - The "time_watched" is a timestamp that shows the date and time the student started watching the first video
+ - "Video 0 Watched" shows the percent of Video 0 that the student watched. Only 1/3 of students in a class see the Video 0, so all of the other students will have a "NA" in this column
+ - The next three columns show the percent of each video that the student has watched. There are some Ximera sets that only have 1 or 2 videos; when Video 2 or 3 doesn't exist for a particular set, there will be a "NA" in the column
+- "post.video.questions.correct" is the number of post-video questions answered correctly
+- "percent.correct" is the percentage of post-video questions answered correctly
+
+
 Human subjects information
 --------------------------
 - Instructors will need to complete a [consent form](Instructor_Informed_Consent-Fillable.pdf).
 - Students will give consent (or not) to participate as part of the "Ximera Introduction." Please emphasize to your students that they will be watching the videos and completing the tasks as part of their regular class activities; giving consent lets the researchers use their data to help students learn calculus.
 - Students who are younger than 18 years old will need to get parental consent to participate. We will provide a consent form soon.
+
 
 Resources
 ---------
@@ -49,6 +63,7 @@ Resources
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 
+<<<<<<< HEAD
 Reading ximera spreadsheet files
 --------------------
 The spreadsheets provide you with some information about your students' progress in watching the videos.
@@ -58,6 +73,8 @@ The spreadsheets provide you with some information about your students' progress
 - "post.video.questions.correct" is the number of post-video questions answered correctly
 - "percent.correct" is the percentage of post-video questions answered correctly
 
+=======
+>>>>>>> 72d4d185902fc9f6267f4b5e9181d42052df415d
 
 Support
 -------
