@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Increasing Rate of Change"
+title: "Varyings Rate of Change"
 meta_title: "incroc"
 permalink: "/vids/incroc/"
 ---

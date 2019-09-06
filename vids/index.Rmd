@@ -16,7 +16,7 @@ Please select the video set you would like to watch.
 1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
-1. [Increasing Rate of Change](./incroc)
+1. [Varying Rate of Change](./incroc)
 1. [Graphing Varying Rates of Change](./graphingincroc)
 1. [Average Rate of Change](./aroc)
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
