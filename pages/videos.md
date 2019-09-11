@@ -211,9 +211,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}implicit">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: A Complicated Tangent Line</a>
-			<LI>Introduction to Implicit Differentiation</a>
-			<LI>Tangent Lines for a Cardioid</a>
+			<LI><a href="https://youtu.be/fR_vrUUW2qc">Video 0: A Complicated Tangent Line</a>
+			<LI><a href="https://youtu.be/0uEWgIA6lJk">Introduction to Implicit Differentiation</a>
+			<LI><a href="https://youtu.be/tQv90CYYL4U">Tangent Lines for a Cardioid</a>
 
 	<tr>
 		<td>Related Rates</td>

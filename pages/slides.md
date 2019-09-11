@@ -57,6 +57,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Mean Value Theorem
 - Extreme Value Theorem
 - Implicit Differentiation
+  - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/open?id=1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb)
+  - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/open?id=1nlo71SrAnDK3XtDIul383HciaWv7znTQ)
 - Related Rates
 - Introduction to Optimization
 - Optimization: Algebraic Modeling
