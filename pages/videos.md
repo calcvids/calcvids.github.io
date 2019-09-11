@@ -123,7 +123,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/7937-UEwg8s">Video 0: Interpreting Derivatives</a>
-			<LI><a href="https://youtu.be/XhsRs1LgED4">Interpreting the Derivative</a>
+			<LI><a href="https://youtu.be/dotuaaGT71A">Interpreting the Derivative</a>
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
