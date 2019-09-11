@@ -236,8 +236,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}optmodel">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Maximizing an Animal Pen</a>
-			<LI>How to Maximize the Area of a Rectangular Pen</a>
+			<LI><a href="https://youtu.be/hs1519HhtCQ">Video 0: Maximizing an Animal Pen</a>
+			<LI><a href="https://youtu.be/QCFObvt7YOg">How to Maximize the Area of a Rectangular Pen</a>
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
