@@ -61,6 +61,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/open?id=1nlo71SrAnDK3XtDIul383HciaWv7znTQ)
 - Related Rates
 - Introduction to Optimization
+  - [Video 1: Using Derivatives to Maximize Fuel Economy](https://drive.google.com/open?id=13dD6sZDMe2lfevCkIpmaj7Y8J9yjSVRv)
+  - [Video 2: An Example of Optimization](https://drive.google.com/open?id=1dIW_I_ru0A0LEOrFytQkws7ZQw5hFP5H)
 - Optimization: Algebraic Modeling
 - Introduction to Riemann Sums
   - [Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust](https://drive.google.com/open?id=1jTPP3hcXCC656IrTmkOrMEz801vINaKS)

@@ -226,9 +226,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}optintro">Link</a></td>
 		<td>
 			<OL>
-			<LI>Video 0: Maximizing Fuel Economy</a>
-			<LI>Using Derivatives to Maximize Fuel Economy</a>
-			<LI>An Example of Optimization</a>
+			<LI><a href="https://youtu.be/TWZulr6XpFE">Video 0: Maximizing Fuel Economy</a>
+			<LI><a href="https://youtu.be/HTigyyB11Ns">Using Derivatives to Maximize Fuel Economy</a>
+			<LI><a href="https://youtu.be/gZFJ2vgRcZg">An Example of Optimization</a>
 
 
 	<tr>
