@@ -41,7 +41,7 @@ If you have sent us your Google-connected email address, you have access to a Go
 - "Time Started" is the time (in Zulu time zone) when the student started watching the videos
  - "Video 0 Watched" shows the percent of Video 0 that the student watched. Only about 1/3 of students in a class see the Video 0, so all of the other students will have a "NA" in this column
  - The next three columns show the percent of each video that the student has watched. There are some Ximera sets that only have 1 or 2 videos; when Video 2 or 3 doesn't exist for a particular set, there will be a "NA" in the column
-- The next column is an average of the percent complete of the video which were watched. (Note that if a student skips a video entirely, this column will not recognize that.)
+- The next column is an average of the percent complete of the video which were watched. This averages the video percentages among the videos which are available to the student. If they had a video 0 available to them, this will be averaged. If not, it will only average the videos available.
 - "Number Post Video Questions Correct" is the number of post-video questions answered correctly
 - "Percent Post Video Questions Correct" is the percentage of post-video questions answered correctly
 - "What was confusing" is the student's response to the first question on the reflection page about what they found confusing in the video.
