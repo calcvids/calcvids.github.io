@@ -149,7 +149,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/7kgJIP-XSz8">Video 0: Trying to Use the Limit Definition</a>
 			<LI><a href="https://youtu.be/SFQcxEGkLIU">The Power Rule</a>
-			<LI><a href="https://youtu.be/VWwfnbSZuVU">Exponential and Logarithmic Functions</a>
+			<LI><a href="https://youtu.be/VEbkJ-N7NGs">Exponential and Logarithmic Functions</a>
 			<LI><a href="https://youtu.be/ku1BiE2qH60">Trigonometric Functions</a>
 
 	<tr>
