@@ -189,17 +189,17 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td><a href="{{v}}mvt"></a>Link</td>
 		<td>
-<!--			<OL>
-			<LI>Rolle's Theorem
-			<LI>The Mean Value Theorem
-			<LI>The Extreme Value Theorem
--->
+			<OL>
+			<LI><a href="https://youtu.be/aLKOlzyE9QM">Video 0</a>
+			<LI><a href="https://youtu.be/ioPI4qbO1ic">Video 1: Mean Value Theorem</a>
+			<LI><a href="https://youtu.be/IG-Av2V3AMc">Video 2: Mean Value Theorem, Why it Works</a>
+			<LI><a href="https://youtu.be/0uBPEiJu5XU">Video 2 Extended: Mean Value Theorem, Why it Works</a>
 
 	<tr>
 		<td>Extreme Value Theorem</td>
-		<td><a href="{{v}}linapprox"></a>Coming in 2020</td>
+		<td>Coming in 2020</td>
 		<td>
 			<OL>
 <!--			<LI><a href="">Video 0: Locating a Submarine</a>
@@ -217,7 +217,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Related Rates</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td>Coming in 2019</td>
 		<td>
 			<OL>
 
@@ -296,7 +296,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td>Coming in 2019</td>
 		<td>
 			<OL>
 

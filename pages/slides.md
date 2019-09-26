@@ -55,6 +55,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 2: How to Use the Chain Rule](https://drive.google.com/open?id=1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU)
   - [Video 3: Why the Chain Rule Works](https://drive.google.com/open?id=1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6)
 - Mean Value Theorem
+- [Video 1: Mean Value Theorem](https://drive.google.com/open?id=1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN)
+- [Video 2: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG)
+- [Video 2 Extended: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1IXjdhZasaYFn2zbAkWkcLxHuHEKsgnRh)
 - Extreme Value Theorem
 - Implicit Differentiation
   - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/open?id=1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb)
