@@ -32,7 +32,7 @@ Please select the video set you would like to watch.
 1. [Product Rule](./product)
 1. [Quotient Rule](./quotient)
 1. [Chain Rule](./chain)
-1. Mean Value Theorem - Coming soon
+1. [Mean Value Theorem](./mvt)
 1. Extreme Value Theorem - Coming soon
 1. [Implicit Differentiation](./implicit)
 1. [Optimization Intro](./optintro)
