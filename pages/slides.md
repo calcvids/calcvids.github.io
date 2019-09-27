@@ -58,7 +58,9 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - [Video 1: Mean Value Theorem](https://drive.google.com/open?id=1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN)
 - [Video 2: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG)
 - [Video 2 Extended: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1IXjdhZasaYFn2zbAkWkcLxHuHEKsgnRh)
+<!--
 - Extreme Value Theorem
+-->
 - Implicit Differentiation
   - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/open?id=1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb)
   - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/open?id=1nlo71SrAnDK3XtDIul383HciaWv7znTQ)
@@ -85,8 +87,10 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/open?id=1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE)
   - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/open?id=1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn)
 - U-Substitution
+<!-- 
 - An Introduction to (Linear) Differential Equations
 - An Introduction to Euler's Method
+-->
 
 
 <!--For each video topic, we have created Powerpoint slides (most of which include voice narration).

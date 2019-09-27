@@ -42,7 +42,6 @@ The materials below are still rough drafts; final versions of all of the materia
 | Quotient Rule                            | [Link]({{v}}quotient)        | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
 | Chain Rule                               | [Link]({{v}}chain)           | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
 | Mean Value Theorem                       |                              |                              |                              |
-| Extreme Value Theorem                    |                              |                              |                              |
 | Implicit Differentiation                 | [Link]({{v}}implicit)        | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
 | Optimization (Intro)                     | [Link]({{v}}optintro)        | [Link]({{o}}optintro)        | [Link]({{c}}optintro)        |
 | Optimization (Modeling)                  | [Link]({{v}}optmodel)        | [Link]({{o}}optmodel)        | [Link]({{c}}optmodel)        |
@@ -52,8 +51,11 @@ The materials below are still rough drafts; final versions of all of the materia
 | Antiderivatives                          | [Link]({{v}}antideriv)       | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
 | FTOC 1 - Integrals are Antiderivatives   |                              |                              |                              |
 | FTOC 2 - variable in bounds              |                              |                              |                              |
-| Euler's Method                           | [Link]({{gen}}euler/euler)   |                              |                              |
 | [Survey page]({{gen}}survey/survey)      |                              |                              |                              |
+
+
+<!--| Euler's Method                           | [Link]({{gen}}euler/euler)   |                              |                              |-->
+
 
 <!--* [Constant Rate of Change](https://ximera.osu.edu/calcvids/sample/croc)-->
 <!--* [Approximating Instantaneous Rates of Change](https://ximera.osu.edu/calcvids/sample/arociroc)-->

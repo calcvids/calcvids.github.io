@@ -197,12 +197,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/IG-Av2V3AMc">Video 2: Mean Value Theorem, Why it Works</a>
 			<LI><a href="https://youtu.be/0uBPEiJu5XU">Video 2 Extended: Mean Value Theorem, Why it Works</a>
 
+<!--
 	<tr>
 		<td>Extreme Value Theorem</td>
 		<td>Coming in 2020</td>
 		<td>
 			<OL>
-<!--			<LI><a href="">Video 0: Locating a Submarine</a>
+			<LI><a href="">Video 0: Locating a Submarine</a>
 			<LI><a href=""></a>
 -->
 
@@ -300,6 +301,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 
+<!--
 	<tr>
 		<td>An Introduction to (Linear) Differential Equations</td>
 		<td><a href="">Link</a></td>
@@ -317,6 +319,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI>Video 0: Computing the Spread of an Infection</a>
 			<LI>Using Euler's Method to Model the Spread of an Infection</a>
+-->
 
 </table>
 
