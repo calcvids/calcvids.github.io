@@ -197,6 +197,15 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/IG-Av2V3AMc">Video 2: Mean Value Theorem, Why it Works</a>
 			<LI><a href="https://youtu.be/0uBPEiJu5XU">Video 2 Extended: Mean Value Theorem, Why it Works</a>
 
+			<tr>
+				<td>Related Rates</td>
+				<td><a href="{{v}}rrates"></a>Link</td>
+				<td>
+					<OL>
+					<LI><a href="https://youtu.be/7zquHFUDkL0">Video 0</a>
+					<LI><a href="https://youtu.be/4fOWKNmFqp4">Video 1: Defining a Related Rate Formula</a>
+					<LI><a href="https://youtu.be/A-uVUQteTrQ">Video 2: Solving A Related Rates Problem</a>
+
 <!--
 	<tr>
 		<td>Extreme Value Theorem</td>
