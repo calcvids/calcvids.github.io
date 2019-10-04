@@ -33,7 +33,7 @@ Please select the video set you would like to watch.
 1. [Quotient Rule](./quotient)
 1. [Chain Rule](./chain)
 1. [Mean Value Theorem](./mvt)
-1. Related rates - coming soon
+1. [Related rates](./rrates)
 1. [Implicit Differentiation](./implicit)
 1. [Optimization Intro](./optintro)
 1. [Optimization Modeling](./optmodel)
