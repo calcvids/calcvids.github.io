@@ -199,7 +199,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 			<tr>
 				<td>Related Rates</td>
-				<td><a href="{{v}}rrates"></a>Link</td>
+				<td><a href="{{v}}relrates"></a>Link</td>
 				<td>
 					<OL>
 					<LI><a href="https://youtu.be/7zquHFUDkL0">Video 0</a>
