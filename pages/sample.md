@@ -41,7 +41,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | Product Rule                             | [Link]({{v}}product)         | [Link]({{o}}product)         | [Link]({{c}}product)         |
 | Quotient Rule                            | [Link]({{v}}quotient)        | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
 | Chain Rule                               | [Link]({{v}}chain)           | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
-| Mean Value Theorem                       |                              |                              |                              |
+| Mean Value Theorem                       | [Link]({{v}}mvt)             | [Link]({{o}}mvt)             | [Link]({{c}}mvt)             |
 | Related Rates                            | [Link]({{v}}relrates)        | [Link]({{o}}relrates)        | [Link]({{c}}relrates)        |
 | Implicit Differentiation                 | [Link]({{v}}implicit)        | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
 | Optimization (Intro)                     | [Link]({{v}}optintro)        | [Link]({{o}}optintro)        | [Link]({{c}}optintro)        |
