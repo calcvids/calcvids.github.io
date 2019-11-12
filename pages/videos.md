@@ -189,7 +189,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td><a href="{{v}}mvt"></a>Link</td>
+		<td><a href="{{v}}mvt">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/aLKOlzyE9QM">Video 0</a>
@@ -199,7 +199,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 	  <td>Related Rates</td>
-		<td><a href="{{v}}relrates"></a>Link</td>
+		<td><a href="{{v}}relrates">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/7zquHFUDkL0">Video 0</a>
