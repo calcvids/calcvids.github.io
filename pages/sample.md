@@ -51,7 +51,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | Definite Integrals                       | [Link]({{v}}defint)          | [Link]({{o}}defint)          | [Link]({{c}}defint)          |
 | Antiderivatives                          | [Link]({{v}}antideriv)       | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
 | FTOC 1 - Integrals are Antiderivatives   |                              |                              |                              |
-| FTOC 2 - variable in bounds              |                              |                              |                              |
+| FTOC 2 - Variable in Bounds              | [Link](){{v}}ftoc2)          | [Link](){{o}}ftoc2)          | [Link](){{c}}ftoc2)          |
 | [Survey page]({{gen}}survey/survey)      |                              |                              |                              |
 
 

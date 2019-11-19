@@ -80,12 +80,12 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 2: A Definite Integral for an Oil Spill](https://drive.google.com/open?id=1zlxuwQX_Da1oUqbLWTl_LJ1i8r3ydV9p)
 - The Fundamental Theorem of Calculus, Part 1
 - The Fundamental Theorem of Calculus, Part 2
-  - [Accumulation Functions](https://drive.google.com/open?id=1PVy8UfvU0E8xbLer18xIMoKGoeCViS4z)
-  - [Antiderivatives and Accumulation Functions](https://drive.google.com/open?id=1Fahf8p_vn_hNgHkU3nFf1onWlK_-Sl0C)
+  - [Video 1: Accumulation Functions](https://drive.google.com/open?id=1oBoiYQpojfh-TS4UhYs9autIWa5AcbsN)
+  - [Video 2: Antiderivatives and Accumulation Functions](https://drive.google.com/open?id=1vXIt3djg3pxagfEsPexdCrcU-AJhPPGQ)
 - Antiderivatives
-  - [Video 1 Slides: Antiderivatives](https://drive.google.com/open?id=1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV)
-  - [Video 2 Slides: Antiderivatives, Part 2](https://drive.google.com/open?id=1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE)
-  - [Video 3 Slides: Using Antiderivative Rules](https://drive.google.com/open?id=1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn)
+  - [Video 1: Antiderivatives](https://drive.google.com/open?id=1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV)
+  - [Video 2: Antiderivatives, Part 2](https://drive.google.com/open?id=1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE)
+  - [Video 3: Using Antiderivative Rules](https://drive.google.com/open?id=1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn)
 - U-Substitution
 <!--
 An Introduction to (Linear) Differential Equations
