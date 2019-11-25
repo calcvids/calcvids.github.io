@@ -41,8 +41,7 @@ Please select the video set you would like to watch.
 1. [Riemann Sums Notation](./rsnotation)
 1. [Definite Integrals](./defint)
 1. [Antiderivatives](./antideriv)
-1. FTOC 1 - Integrals are Antiderivatives - Coming soon
-1. FTOC 2 - variable in bounds - Coming soon
-<!-- 1. Euler’s Method - Coming soon -->
+1. [FTOC 1 - Integrals are Antiderivatives](./ftoc1)
+1. [FTOC 2 - variable in bounds](./ftoc2)
 1. [End of semester survey](https://ximera.osu.edu/calcvids2019/survey/survey)
 1. [Second account linking page](https://ximera.osu.edu/calcvids2019/secondaccount/second_account/secondaccount/secondaccount)
