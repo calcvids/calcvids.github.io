@@ -276,17 +276,17 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}ftoc1">Link</a></td>
 		<td>
 			<OL>
-<!--			<LI><a href=""></a>
--->
+			<LI><a href="https://youtu.be/UalmQI7o1S0">Video 0:</a>
+			<LI><a href="https://youtu.be/C6GprKTXvn4">Computing Total Accumulation</a>
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
 		<td><a href="{[v]}ftoc2">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://www.youtube.com/watch?v=FIK_HecrH0I">Video 0: Cumulative Probability from a Normal Distribution</a>
-			<LI><a href="https://www.youtube.com/watch?v=ctkhuNyODTQ">Accumulation Functions</a>
-			<LI><a href="https://www.youtube.com/watch?v=9wL-DiOLxLw">Antiderivatives and Accumulation Functions</a>
+			<LI><a href="https://youtu.be/FIK_HecrH0I">Video 0: Cumulative Probability from a Normal Distribution</a>
+			<LI><a href="https://youtu.be/ctkhuNyODTQ">Accumulation Functions</a>
+			<LI><a href="https://youtu.be/9wL-DiOLxLw">Antiderivatives and Accumulation Functions</a>
 
 	<tr>
 		<td>Antiderivatives</td>
