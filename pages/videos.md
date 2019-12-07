@@ -270,6 +270,15 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/Cf9d-coYmjw">Definite Integrals as Limits of Riemann Sums</a>
 			<LI><a href="https://youtu.be/LFTxQ30kaag">A Definite Integral for an Oil Spill</a>
 
+	<tr>
+		<td>Antiderivatives</td>
+		<td><a href="{{v}}antideriv">Link</a></td>
+		<td>
+			<OL>
+			<LI><a href="https://youtu.be/Rk3vvB0-IEc">Video 0: Antiderivatives</a>
+			<LI><a href="https://youtu.be/3ga2t49x9hk">Antiderivatves</a>
+			<LI><a href="https://youtu.be/J3s0N1sz2wU">Antiderivatvies, Part 2</a>
+			<LI><a href="https://youtu.be/VKAdG_hZ2qs">Using Antiderivative Rules</a>
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
@@ -289,20 +298,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/9wL-DiOLxLw">Antiderivatives and Accumulation Functions</a>
 
 	<tr>
-		<td>Antiderivatives</td>
-		<td><a href="{{v}}antideriv">Link</a></td>
-		<td>
-			<OL>
-			<LI><a href="https://youtu.be/Rk3vvB0-IEc">Video 0: Antiderivatives</a>
-			<LI><a href="https://youtu.be/3ga2t49x9hk">Antiderivatves</a>
-			<LI><a href="https://youtu.be/J3s0N1sz2wU">Antiderivatvies, Part 2</a>
-			<LI><a href="https://youtu.be/VKAdG_hZ2qs">Using Antiderivative Rules</a>
-
-	<tr>
 		<td>U-Substitution</td>
-		<td>Coming in 2019</td>
+		<td><a href="{[v]}usub"</td>
 		<td>
 			<OL>
+			<LI><a href="https://youtu.be/iEqEELguqYo">Video 0: Evaluating Indefinite Integrals</a>
+			<LI><a href="https://youtu.be/u-RDeb_0WUQ">Video 1: U-Substitution</a>
 
 <!--
 	<tr>

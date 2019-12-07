@@ -52,7 +52,9 @@ The materials below are still rough drafts; final versions of all of the materia
 | Antiderivatives                          | [Link]({{v}}antideriv)       | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
 | FTOC 1 - Integrals are Antiderivatives   | [Link]({{v}}ftoc1)           | [Link]({{o}}ftoc1)           | [Link]({{c}}ftoc1)           |
 | FTOC 2 - Variable in Bounds              | [Link]({{v}}ftoc2)           | [Link]({{o}}ftoc2)           | [Link]({{c}}ftoc2)           |
+| U-Substitution                           | [Link]({{v}}usub)            | [Link]({{o}}usub)            | [Link]({{c}}usub)            |
 | [Survey page]({{gen}}survey/survey)      |                              |                              |                              |
+
 
 
 <!--| Euler's Method                           | [Link]({{gen}}euler/euler)   |                              |                              |-->
