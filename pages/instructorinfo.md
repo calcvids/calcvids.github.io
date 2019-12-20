@@ -37,8 +37,7 @@ The instructions for using ximera will depend on whether you are going to have y
   - When logging in the first time, students may be forwarded to ximera.osu.edu. They can click the back button in their browser to return to the video set they were viewing.
   - After completing the work on a page--including watching a video--either click the blue "Save" at the top of the screen or wait for the button to switch to "Saved!"
   - Students can download a certificate of completion. Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
-  - **Certificates**
-    - Regardless of which method you use, your students can download a certificate with their progress through the set. If you would like, you can have students upload these certificates to verify completion of the assignment.
+  - **Certificates**: Regardless of which method you use, your students can download a certificate with their progress through the set on the last page of each set. If you would like, you can have students upload these certificates to verify completion of the assignment.
 
 <!--
 Using Ximera
