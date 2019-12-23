@@ -13,6 +13,7 @@ Please select the video set you would like to watch.
 
 <!-- note: do not edit this html file directly -->
 
+1. Name and instructor identificaion - coming soon
 1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
@@ -36,13 +37,14 @@ Please select the video set you would like to watch.
 1. [Related Rates](./relrates)
 1. [Implicit Differentiation](./implicit)
 1. [Optimization Intro](./optintro)
-1. [Optimization Modeling](./optmodel)
+1. [Optimization Modeling](./optmodel2)
 1. [Riemann Sums Introduction](./rsintro)
 1. [Riemann Sums Notation](./rsnotation)
-1. [Definite Integrals](./defint)
+1. [Definite Integrals](./defint2)
 1. [Antiderivatives](./antideriv)
 1. [FTOC 1 - Integrals are Antiderivatives](./ftoc1)
 1. [FTOC 2 - variable in bounds](./ftoc2)
+1. [U-Substitution](./usub)
 1. [End of semester survey](https://ximera.osu.edu/calcvids2019/survey/survey)
 1. [Second account linking page](https://ximera.osu.edu/calcvids2019/secondaccount/second_account/secondaccount/secondaccount)
-<!--1. [U-Substitution](./usub)-->
+
