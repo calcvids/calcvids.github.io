@@ -22,26 +22,25 @@ All Ximera sets should be assigned by having students visit [https://calcvids.or
 
 Using Ximera
 ------------
-   Students need to log in to Ximera each time they start an assignment.
    There are two methods for logging in to Ximera: one where students use usernames and passwords that are supplied by the Calcvids team, and one where students use their institutional Google-enabled login.
 
 - **Using a Google-enabled login**
-  - If your institution has a Google-enabled account, you can elect for your student to log in to Ximera with their institutional username and password. 
-  - Students will click on "Sign In" in the top right corner of Ximera and then click "Sign In With Google" and then enter their institutional username and password as shown in [this screenshot](Logging_in_to_Ximera_Google.png). 
+  - If your institution has a Google-enabled account, you can elect for your students to log in to Ximera with their institutional username and password.
+  - Students will click on "Sign In" in the top right corner of Ximera and then click "Sign In With Google" and then enter their institutional username and password as shown in [this screenshot](Logging_in_to_Ximera_Google.png).
   - If you provide a link to an assignment on calcvids.org/vids via your LMS (e.g., Canvas), the students may be automatically logged in to Ximera.
   - The first time students log in on a new device or browser, they need to go to Video Set 1 where they can enter their name and select their instructor. They can then watch any video set, and results will be added to your spreadsheets.
   - In order to use this option, we need to include your name on the instructor list by January 1st, 2020.
 
 - **Using our usernames and passwords**
-  - If your institution doesn't use Google-enabled logins &mdash; or if you haven't told us you'd like to use Google logins by January 5th &mdash; your students will need to log in to Ximera with a username and password we provide.
+  - If your institution doesn't use Google-enabled logins -- or if you haven't told us you'd like to use Google logins by January 1st -- your students will need to log in to Ximera with a username and password we provide.
   - Send us your class roster, and we will send you back a username and password for each student.
   - Students will enter their username and password as shown in [this screenshot](Logging_in_to_Ximera.png).
 
 - **Common Information**
   - The research team will create a folder on Google Drive for each instructor. This folder will contain a spreadsheet for each Ximera set students complete showing the date/time each student watched the videos and their score on the post-video questions. This folder will be updated daily at 6 AM Eastern US time. To access the folder, instructors should send their Google (or Google-connected) email address to Matt Thomas (<mthomas7@ithaca.edu>).
   - When logging in the first time, students may be forwarded to ximera.osu.edu. They can click the back button in their browser to return to the video set they were viewing.
-  - After completing the work on a page &mdash; including watching a video &mdash; either click the blue "Save" at the top of the screen or wait for the button to switch to "Saved!"
-  
+  - After completing the work on a page -- including watching a video -- either click the blue "Save" at the top of the screen or wait for the button to switch to "Saved!"
+
 - **Certificates**:
   - Regardless of which method you use, your students can download a certificate with their progress through the set on the last page of each set. If you would like, you can have students upload these certificates to verify completion of the assignment.
   - Here are instructions for downloading a Ximera certificate in [MS Word format](Ximera_Certificate_Instructions.docx) and in [PDF format](Ximera_Certificate_Instructions.pdf).
