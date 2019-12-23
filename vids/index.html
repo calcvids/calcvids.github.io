@@ -270,6 +270,7 @@ margin-top: 24px;
 ol {
 margin-left:0; 
 padding-left:0; 
+counter-increment: start -1;
 }
 ol > li {
 position:relative; 
@@ -280,9 +281,10 @@ border-top:2px solid #317EAC;
 background:rgba(49, 126, 172, 0.1);
 }
 ol > li:before {
-content:"Video Set " counter(li); 
-counter-increment:li; 
+content:"Video Set " counter(start); 
 
+
+counter-increment: start;
 position:absolute;
 top:-2px;
 left:-2em;

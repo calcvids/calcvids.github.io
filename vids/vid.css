@@ -16,6 +16,7 @@ h2 {
 ol {
     margin-left:0; /* Remove the default left margin */
     padding-left:0; /* Remove the default left padding */
+    counter-increment: start -1;
 }
 ol > li {
     position:relative; /* Create a positioning context */
@@ -26,9 +27,10 @@ ol > li {
     background:rgba(49, 126, 172, 0.1);
 }
 ol > li:before {
-    content:"Video Set " counter(li); /* Use the counter as content */
-    counter-increment:li; /* Increment the counter by 1 */
+    content:"Video Set " counter(start); /* Use the counter as content */
+    /*counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
+    counter-increment: start;
     position:absolute;
     top:-2px;
     left:-2em;
