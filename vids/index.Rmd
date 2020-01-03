@@ -13,7 +13,7 @@ Please select the video set you would like to watch.
 
 <!-- note: do not edit this html file directly -->
 
-1. Name and instructor identificaion - coming soon
+1. [Name/instructor identificaion](https://ximera.osu.edu/calcvids2019/google/login/google/page)
 1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
@@ -47,4 +47,3 @@ Please select the video set you would like to watch.
 1. [U-Substitution](./usub)
 1. [End of semester survey](https://ximera.osu.edu/calcvids2019/survey/survey)
 1. [Second account linking page](https://ximera.osu.edu/calcvids2019/secondaccount/second_account/secondaccount/secondaccount)
-
