@@ -20,8 +20,9 @@ Participants would be required to:
   - Have their students complete a short (5-minute)  survey near the end of the semester
   
 Benefits to participants:
-  - Participants will receive $15 per hour for participating in the professional development workshop
-  - Participants will receive $10 for each video set/survey that is assigned to their students
+  - Receive $15 per hour for participating in the professional development workshop
+  - Receive $10 for each video set/survey that is assigned to their students
+  - Receive $15 for completing a post-semester survey describing how they used the instructional materials
   - Participants will have access to high-quality instructional videos and will learn about the ideas that have been used to design the videos
   - Participants will receive support for the videos from the research team
   - Participants will have the option to receive data about their students' participation in the video-watching process (i.e., which videos the students watched and their students' responses to the pre- and post-video questions)

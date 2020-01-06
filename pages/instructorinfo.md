@@ -14,6 +14,12 @@ What you'll need to do
 - Assign the [Ximera Introduction](https://ximera.osu.edu/calcvids2019/intro/intro) (on Ximera) to your students
 - Assign the [end-of-semester survey](https://ximera.osu.edu/calcvids2019/survey/survey) (on Ximera) to your students
 
+Compensation
+-----------------------
+- $15 per hour for participating in the pre-semester professional development workshop
+- $10 per each video set and survey you assign to your class
+- $15 for completing the post-semester instructor survey
+
 
 How to assign videos using Ximera
 ----------------------------------
