@@ -6,10 +6,10 @@ permalink: "/publications/"
 ---
 
 ## Conference Papers
-- Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. To appear in *22nd Annual Conference of the Special Interest Group of the Mathematical Association of America on Research in Undergraduate Mathematics Education*, St. Louis, MO: The University of Missouri  
-  - [Paper](https://drive.google.com/open?id=18FKFkdPt_Q7cM3yxdWHDEnmoOZ4vq3HN)
-- Waters, K., Martsching, W., Martin, J. (2019). What are in looking at? Shape thinking and eye-tracking.  To appear in *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education* (pp. 646-653), Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
-  - [Paper](https://drive.google.com/open?id=1-PFMhFOPfeooLVjxzV6dvremMmJ6VS81)
+- Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
+  - [Paper](https://drive.google.com/open?id=1i0O-bBQ3Qj-OfgVb833NzRRhjlKM1SzM)
+- Waters, K., Martsching, W., Martin, J. (2019). What are you looking at? Shape thinking and eye-tracking. In Weinberg, Moore-Russo, Soto, & Wawro (Eds.), *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education* (pp. 646-653), Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
+  - [Paper](https://drive.google.com/open?id=1DCmOUyoDn9MkpuIbaxTg8gWFwf7lJPL7)
 - Weinberg, A., Thomas, M., Martin, J., & Tallman, M. (2018). Failing to rewind: Students' learning from instructional videos.  In Hodges, T. T., Roy, G. J., & Tyminski, A. M. (Eds.). *Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education** (pp. 1263-1266), Greenville, SC: University of South Carolina & Clemson University.
   - [Paper](https://drive.google.com/open?id=1WASTfi9FGi_YsgnCtgWl_W5-gsg6SNRl)
   
