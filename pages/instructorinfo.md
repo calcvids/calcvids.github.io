@@ -54,7 +54,7 @@ Using Ximera
 
 Reading Ximera spreadsheet files
 --------------------
-If you have sent us your Google-connected email address, you have access to a Google Drive folder with a collection of spreadsheets--one for each Ximera set that at least one of your students has completed. The meaning of each of the spreadsheet columns are:
+If you have sent us your Google-connected email address, you have access to a Google Drive folder with a collection of spreadsheets--one for each Ximera set that at least one of your students has completed. Please do not edit these files directly - they are automatically generated, so if you would like to make any changes, you should make a copy or download the file. The meaning of each of the spreadsheet columns are:
  - The first three columns show the student's first name, last name, and username
 - "Date Started" is the date when the student started watching the videos
 - "Time Started" is the time (in Zulu time zone) when the student started watching the videos
