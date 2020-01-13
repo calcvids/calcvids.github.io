@@ -13,7 +13,7 @@ Please select the video set you would like to watch.
 
 <!-- note: do not edit this html file directly -->
 
-1. [Name/instructor identificaion](https://ximera.osu.edu/calcvids2019/google/login/google/page)
+1. [Name/instructor identificaion (only for google accounts)](https://ximera.osu.edu/calcvids2019/google/login/google/page)
 1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
 1. [Constant Rate of Change](./croc)
 1. [Graphing Constant Rate of Change](./graphingcroc)
