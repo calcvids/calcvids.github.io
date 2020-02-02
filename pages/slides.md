@@ -23,12 +23,13 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Approximating Instantaneous Rates of Change
   - [Video 1 Slides: Approximating the Speed of a Baseball](https://drive.google.com/open?id=1W1jWlN2Wjo3wIwxIXnYxvXd1HnYHIEht)
   - [Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change](https://drive.google.com/open?id=13gDAqOOWhzQJznQnUSrEf8JcmYFRnqk2)
-- l'Hopital's Rule
-  - [Video 1 Slides: Limits of Quotients](https://drive.google.com/open?id=1Iqb3pMj7bxp4S5WV9RbjPcvzoSVFs1ut)
 - Continuity
   - [Video 1 Slides: Continuity](https://drive.google.com/open?id=16jMDdrPKLhAi2gCq_YdgLmjXRaPRTLj4)
 - Differentiability and Local Linearity
   - [Video 1 Slides: Local Linearity](https://drive.google.com/open?id=12efMcgWkBje1ebd5VfyOlZbjLnFccX7O)
+- Limit at a point
+  - [Video 1 Slides: What is a Limit?](https://drive.google.com/open?id=1Nm-SC57fVhaCHm27DlPzgMOcF-HY4Vhz)
+  - [Video 2 Slides: One Sided Limits](https://drive.google.com/open?id=1iIgI2UdXZDb1iBnMFEAbU3MYHx1vKMXh)
 - Limit Definition of Derivative
   - [Video 1 Slides: Defining the derivative](https://drive.google.com/open?id=13VccK9tcF9GGs3McZAl73rK55h_6Nqxg)
 - Using the Limit Definition of Derivative
@@ -54,6 +55,8 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
   - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/open?id=1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1)
   - [Video 2: How to Use the Chain Rule](https://drive.google.com/open?id=1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU)
   - [Video 3: Why the Chain Rule Works](https://drive.google.com/open?id=1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6)
+- l'Hopital's Rule
+  - [Video 1 Slides: Limits of Quotients](https://drive.google.com/open?id=1Iqb3pMj7bxp4S5WV9RbjPcvzoSVFs1ut)
 - Mean Value Theorem
   - [Video 1: Mean Value Theorem](https://drive.google.com/open?id=1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN)
   - [Video 2: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG)
@@ -64,7 +67,6 @@ We have Powerpoint slides with narration for each of our videos. These slides wi
 - Implicit Differentiation
   - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/open?id=1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb)
   - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/open?id=1nlo71SrAnDK3XtDIul383HciaWv7znTQ)
-- Related Rates
 - Introduction to Optimization
   - [Video 1: Using Derivatives to Maximize Fuel Economy](https://drive.google.com/open?id=13dD6sZDMe2lfevCkIpmaj7Y8J9yjSVRv)
   - [Video 2: An Example of Optimization](https://drive.google.com/open?id=1dIW_I_ru0A0LEOrFytQkws7ZQw5hFP5H)

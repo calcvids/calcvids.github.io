@@ -16,11 +16,12 @@ Each collection of videos can be viewed on our Ximera platform, which allows stu
 All of the videos can also be found on the [YouTube Calcvids channel](https://www.youtube.com/channel/UCpVXyeQJOLQ7pgXrG4SDCUA):
 
 {% capture v %}https://ximera.osu.edu/calcvids2019/in/v/{% endcapture %}
+{% capture o %}https://ximera.osu.edu/calcvids2019/in/o/{% endcapture %}
 
 <table>
 	<tr>
 		<th>Topic</th>
-		<th>Ximera Page (Student Problem Solving Version)</th>
+		<th>Ximera Page (Student Problem Solving Version, when available)</th>
 		<th>Individual Videos</th>
 		</tr>
 
@@ -78,6 +79,22 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/7fExCEm5Ckw">Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 
 	<tr>
+		<td>Continuity</td>
+		<td><a href="{{v}}continuity"></a>Link</td>
+		<td>
+			<OL>
+			<LI><a href="https://youtu.be/ghQYJThKFdM">Student Problem Solving: Continuity</a>
+			<LI><a href="https://youtu.be/s6ynsb00YRk">Video 1: Continuity</a>
+
+	<tr>
+		<td>Differentiability and Local Linearity</td>
+		<td><a href="{{v}}locallin"></a></td>
+		<td>
+			<OL>
+			<LI><a href="https://youtu.be/-fOvdwcDPvw">Student Problem Solving: Growth of a Rabbit Population</a>
+			<LI><a href="https://youtu.be/w5njlR_Ybuk">Local Linearity</a>
+
+	<tr>
 		<td>Limit at a Point</td>
 		<td><a href="{{v}}lhopital"></a>Link</td>
 		<td>
@@ -98,30 +115,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="">Limits at Infinity Laws (Coming Soon)</a>
-
-	<tr>
-		<td>l'Hopital's Rule</td>
-		<td><a href="{{v}}lhopital"></a>Link</td>
-		<td>
-			<OL>
-			<LI><a href="https://youtu.be/OygUfugpQ48">Student Problem Solving: Evaluating Indeterminate Limits</a>
-			<LI><a href="https://youtu.be/9dzsgThgRvQ">Limits of Quotients</a>
-
-	<tr>
-		<td>Continuity</td>
-		<td><a href="{{v}}continuity"></a>Link</td>
-		<td>
-			<OL>
-			<LI><a href="https://youtu.be/ghQYJThKFdM">Student Problem Solving: Continuity</a>
-			<LI><a href="https://youtu.be/s6ynsb00YRk">Video 1: Continuity</a>
-
-	<tr>
-		<td>Differentiability and Local Linearity</td>
-		<td><a href="{{v}}locallin"></a></td>
-		<td>
-			<OL>
-			<LI><a href="https://youtu.be/-fOvdwcDPvw">Student Problem Solving: Growth of a Rabbit Population</a>
-			<LI><a href="https://youtu.be/w5njlR_Ybuk">Local Linearity</a>
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
@@ -202,12 +195,13 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/YR_QZ-Quo08">How to Use the Chain Rule</a>
 			<LI><a href="https://youtu.be/iezUUzupaSk">Why the Chain Rule Works</a>
 
-<!--
 	<tr>
-		<td>Linear Approximation</td>
-		<td><a href=""></a>Coming in 2019</td>
+		<td>l'Hopital's Rule</td>
+		<td><a href="{{v}}lhopital"></a>Link</td>
 		<td>
--->
+			<OL>
+			<LI><a href="https://youtu.be/OygUfugpQ48">Student Problem Solving: Evaluating Indeterminate Limits</a>
+			<LI><a href="https://youtu.be/9dzsgThgRvQ">Limits of Quotients</a>
 
 	<tr>
 		<td>Mean Value Theorem</td>
@@ -227,16 +221,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/7zquHFUDkL0">Student Problem Solving</a>
 			<LI><a href="https://youtu.be/4fOWKNmFqp4">Video 1: Defining a Related Rate Formula</a>
 			<LI><a href="https://youtu.be/A-uVUQteTrQ">Video 2: Solving A Related Rates Problem</a>
-
-<!--
-	<tr>
-		<td>Extreme Value Theorem</td>
-		<td>Coming in 2020</td>
-		<td>
-			<OL>
-			<LI><a href="">Student Problem Solving: Locating a Submarine</a>
-			<LI><a href=""></a>
--->
 
 	<tr>
 		<td>Implicit Differentiation</td>
@@ -281,7 +265,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/Dxmh7HMS2JM">Student Problem Solving: Writing a Riemann Sum Two Ways</a>
 			<LI><a href="https://youtu.be/PO8aEKYeaAU">Writing Riemann Sums using Sigma Notation</a>
-
 
 	<tr>
 		<td>Definite Integrals</td>

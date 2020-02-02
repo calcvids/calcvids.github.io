@@ -10,6 +10,9 @@ permalink: "/sample/"
 {% capture o %}https://ximera.osu.edu/calcvids2019/in/o/{% endcapture %}
 {% capture v %}https://ximera.osu.edu/calcvids2019/in/v/{% endcapture %}
 
+{% capture nc %}https://ximera.osu.edu/calcvids2019/nin/c/{% endcapture %}
+{% capture no %}https://ximera.osu.edu/calcvids2019/nin/o/{% endcapture %}
+
 If you would like to have your students use our materials, please <a href="mailto:info@calcvids.org">contact us</a>.
 
 For each calculus topic, we create 1-4 short videos to explain the topic and provide examples. Then, we create questions for students to answer before and after watching the videos, and (depending on the details of the experimental design) also include various resources for the students to use prior to watching the videos.
@@ -29,9 +32,9 @@ The materials below are still rough drafts; final versions of all of the materia
 | Graphing IncROC                          | [Link]({{v}}graphingincroc)  | [Link]({{o}}graphingincroc)  | [Link]({{c}}graphingincroc)  |
 | AROC                                     | [Link]({{v}}aroc)            | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
 | Approximating InstROC                    | [Link]({{v}}approxiroc)      | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
-| L'Hopital's Rule                         | [Link]({{v}}lhopital)        | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
 | Continuity                               | [Link]({{v}}continuity)      | [Link]({{o}}continuity)      | [Link]({{c}}continuity)      |
 | Differentiability and Local Linearity    | [Link]({{v}}locallin)        | [Link]({{o}}locallin)        | [Link]({{c}}locallin)        |
+| Limit at a Point                         |                              | [Link]({{no}}limitpt)        | [Link]({{nc}}limitpt)        |
 | Limit Def of Derivative                  | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
 | Using the Limit Definition of Derivative | [Link]({{v}}usinglimit)      | [Link]({{o}}usinglimit)      | [Link]({{c}}usinglimit)      |
 | Interpreting Derivatives                 | [Link]({{v}}interpretderiv)  | [Link]({{o}}interpretderiv)  | [Link]({{c}}interpretderiv)  |
@@ -41,6 +44,7 @@ The materials below are still rough drafts; final versions of all of the materia
 | Product Rule                             | [Link]({{v}}product)         | [Link]({{o}}product)         | [Link]({{c}}product)         |
 | Quotient Rule                            | [Link]({{v}}quotient)        | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
 | Chain Rule                               | [Link]({{v}}chain)           | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
+| L'Hopital's Rule                         | [Link]({{v}}lhopital)        | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
 | Mean Value Theorem                       | [Link]({{v}}mvt)             | [Link]({{o}}mvt)             | [Link]({{c}}mvt)             |
 | Related Rates                            | [Link]({{v}}relrates)        | [Link]({{o}}relrates)        | [Link]({{c}}relrates)        |
 | Implicit Differentiation                 | [Link]({{v}}implicit)        | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
