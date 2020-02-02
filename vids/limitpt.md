@@ -35,36 +35,16 @@ function getCookie(cname) {
 
 function checkCookie() {
     var vidchoice=getCookie("limitpt");
-    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids2019/in/c/limitpt";}
-    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids2019/in/o/limitpt";}
-    else if (vidchoice==3){window.location.href = "https://ximera.osu.edu/calcvids2019/in/v/limitpt";}
-    else if (vidchoice==4){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/c/limitpt";}
-    else if (vidchoice==5){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/o/limitpt";}
-    else if (vidchoice==6){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/v/limitpt";}
+    if (vidchoice==1){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/c/limitpt";}
+    else if (vidchoice==2){window.location.href = "https://ximera.osu.edu/calcvids2019/nin/o/limitpt";}
     else {
       var forwardchoice=Math.random();
-      if (forwardchoice <= (1/6) ){
+      if (forwardchoice <= (1/2) ){
         setCookie("limitpt", 1, 365);
         checkCookie();
         }
-      else if (forwardchoice <= (2/6) ){
-        setCookie("limitpt", 2, 365);
-        checkCookie();
-        }
-      else if (forwardchoice <= (3/6) ){
-        setCookie("limitpt", 3, 365);
-        checkCookie();
-        }
-        else if (forwardchoice <= (4/6) ){
-          setCookie("limitpt", 4, 365);
-          checkCookie();
-          }
-          else if (forwardchoice <= (5/6) ){
-            setCookie("limitpt", 5, 365);
-            checkCookie();
-            }
       else {
-        setCookie("limitpt", 6, 365);
+        setCookie("limitpt", 2, 365);
         checkCookie();
         }
       }
