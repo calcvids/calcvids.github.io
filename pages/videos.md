@@ -100,7 +100,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/xZpbUp_qEQg">Limit at a Point</a>
-			<LI><a href="">One-Sided Limits (Coming Soon)</a>
+			<LI><a href="https://youtu.be/4iVKE3Hwy1E">One-Sided Limits</a>
 
 	<tr>
 		<td>Limit Laws</td>
@@ -328,6 +328,9 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI>Student Problem Solving: Computing the Spread of an Infection</a>
 			<LI>Using Euler's Method to Model the Spread of an Infection</a>
+			</OL>
+		</td>
+	</tr>
 -->
 
 </table>
