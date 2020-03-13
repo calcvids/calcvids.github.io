@@ -7,12 +7,12 @@ permalink: "/ay2019study/"
 
 Are you interested in using high-quality instructional videos in an introductory calculus class?
 
-We are recruiting college-level instructors of first-semester calculus classes to use our videos during the fall, 2019, and spring, 2020 semesters.
+We are recruiting college-level instructors of first-semester calculus classes to use our videos during the fall, 2020 semester.
 
 Participants would have access to all of our video and assessment materials, support and professional development opportunities from the research team, and would receive financial compensation for participation.
 
 Participants would be required to:
-  - Participate in an online professional development workshop prior to the beginning of the Fall, 2019 semester to learn about the materials and how they have been designed
+  - Participate in an online professional development workshop prior to the beginning of the Fall, 2020 semester to learn about the materials and how they have been designed
   - Provide a description of their use of the videos in their classes
   - Describe the study to their students
   - Have their students complete a short (10-minute) tutorial and survey to learn how to use the Ximera platform at the beginning of the semester
