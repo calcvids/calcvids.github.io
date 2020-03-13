@@ -8,9 +8,9 @@ header:
 ---
 
 
-<!--<span style="font-size:2.5em;">
-We are recruiting instructors to use our resources in 2019-2020. Visit our [participation](/ay2019study) page to learn more.
-</span>-->
+<span style="font-size:2.5em;">
+We are recruiting instructors to use our resources in 2020-2021. Visit our [participation](/ay2019study) page to learn more.
+</span>
 
 The Calculus Video Project is an NSF-funded project *Investigating Student Learning and Sense-Making from Instructional Calculus Videos* (awards DUE [#1712312](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712312&HistoricalAwards=false), DUE [#1711837](https://nsf.gov/awardsearch/showAward?AWD_ID=1711837&HistoricalAwards=false) and DUE [#1710377](https://nsf.gov/awardsearch/showAward?AWD_ID=1710377&HistoricalAwards=false)).
 
