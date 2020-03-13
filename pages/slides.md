@@ -7,8 +7,8 @@ permalink: "/slides/"
 Below are links to Powerpoint slides with narration for each of the videos.
 
 Please note that these slides use the *Avenir Next* and *whatever it takes* fonts; you will need to have these fonts installed in order for the text on the slides to be properly aligned. 
- + *Avenir Next* is typically installed by default on Apple computers. Windows and Linux users can download a version of the font from [cufonts.com](https://www.cufonfonts.com/font/avenir-next-lt-pro)
- + The *whatever it takes* font can be downloaded from [dafont.com](https://www.dafont.com/whatever-it-takes.font)
+ + *Avenir Next* is typically installed by default on Apple computers. Windows and Linux users can download a compatible font called [Avenir Next LT Pro](https://www.cufonfonts.com/font/avenir-next-lt-pro) or use the Google font called [Nunito](https://fonts.google.com/specimen/Nunito)
+ + *whatever it takes* can be downloaded from [dafont.com](https://www.dafont.com/whatever-it-takes.font)
 
 
 - Constant Rates of Change
