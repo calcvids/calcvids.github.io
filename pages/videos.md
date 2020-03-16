@@ -80,7 +80,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Continuity</td>
-		<td><a href="{{v}}continuity"></a>Link</td>
+		<td><a href="{{v}}continuity">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/ghQYJThKFdM">Student Problem Solving: Continuity</a>
@@ -88,7 +88,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href="{{v}}locallin"></a></td>
+		<td><a href="{{v}}locallin">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/-fOvdwcDPvw">Student Problem Solving: Growth of a Rabbit Population</a>
@@ -96,7 +96,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Limit at a Point</td>
-		<td><a href="{{v}}lhopital"></a>Link</td>
+		<td><a href="{{v}}limitpt"></a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/xZpbUp_qEQg">Limit at a Point</a>
@@ -104,14 +104,14 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Limit Laws</td>
-		<td><a href="{{v}}lhopital"></a>Link</td>
+		<td><a href="{{v}}lhopital"></a></td>
 		<td>
 			<OL>
 			<LI><a href="">Limit Laws (Coming Soon)</a>
 
 	<tr>
 		<td>Limits at Infinity</td>
-		<td><a href="{{v}}lhopital"></a>Link</td>
+		<td><a href="{{v}}lhopital"></a></td>
 		<td>
 			<OL>
 			<LI><a href="">Limits at Infinity Laws (Coming Soon)</a>
@@ -126,7 +126,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td><a href="{{v}}usinglimit"></a>Link</td>
+		<td><a href="{{v}}usinglimit">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/SpJAyeUDqRA">Student Problem Solving: Using Limits to Compute Derivatives</a>
@@ -134,7 +134,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td><a href="{{v}}interpretderiv"></a>Link</td>
+		<td><a href="{{v}}interpretderiv">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/fS2JTYEp89M">Student Problem Solving: Interpreting Derivatives</a>
@@ -197,7 +197,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td><a href="{{v}}lhopital"></a>Link</td>
+		<td><a href="{{v}}lhopital">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/OygUfugpQ48">Student Problem Solving: Evaluating Indeterminate Limits</a>
@@ -295,7 +295,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="{[v]}ftoc2">Link</a></td>
+		<td><a href="{{[v]}}ftoc2">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/5Ci1EZUARn4">Student Problem Solving: Cumulative Probability from a Normal Distribution</a>
@@ -304,7 +304,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><a href="{[v]}usub"</td>
+		<td><a href="{{[v]}}usub"</td></a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
