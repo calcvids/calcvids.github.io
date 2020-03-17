@@ -23,41 +23,41 @@ We take all of these data and analyze them using quantitative and qualitative te
 
 The materials below are still rough drafts; final versions of all of the materials will be posted for the Fall, 2019 semester.
 
-| Topic                                    | Video 0 Version              | Outline Version              | Control Version              |
-| ---------------------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| [Intro page]({{gen}}intro/intro)         |                              |                              |                              |
-| CROC                                     | [Link]({{v}}croc)            | [Link]({{o}}croc)            | [Link]({{c}}croc)            |
-| Graphing CROC                            | [Link]({{v}}graphingcroc)    | [Link]({{o}}graphingcroc)    | [Link]({{c}}graphingcroc)    |
-| IncROC                                   | [Link]({{v}}incroc)          | [Link]({{o}}incroc)          | [Link]({{c}}incroc)          |
-| Graphing IncROC                          | [Link]({{v}}graphingincroc)  | [Link]({{o}}graphingincroc)  | [Link]({{c}}graphingincroc)  |
-| AROC                                     | [Link]({{v}}aroc)            | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
-| Approximating InstROC                    | [Link]({{v}}approxiroc)      | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
-| Continuity                               | [Link]({{v}}continuity)      | [Link]({{o}}continuity)      | [Link]({{c}}continuity)      |
-| Differentiability and Local Linearity    | [Link]({{v}}locallin)        | [Link]({{o}}locallin)        | [Link]({{c}}locallin)        |
-| Limit at a Point                         |                              | [Link]({{no}}limitpt)        | [Link]({{nc}}limitpt)        |
-| Limit Def of Derivative                  | [Link]({{v}}limitdef)        | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
-| Using the Limit Definition of Derivative | [Link]({{v}}usinglimit)      | [Link]({{o}}usinglimit)      | [Link]({{c}}usinglimit)      |
-| Interpreting Derivatives                 | [Link]({{v}}interpretderiv)  | [Link]({{o}}interpretderiv)  | [Link]({{c}}interpretderiv)  |
-| Slopes of Secants and Tangents           | [Link]({{v}}secanttangent)   | [Link]({{o}}secanttangent)   | [Link]({{c}}secanttangent)   |
-| Graphing Derivatives                     | [Link]({{v}}graphingderiv)   | [Link]({{o}}graphingderiv)   | [Link]({{c}}graphingderiv)   |
-| Basic Derivative Rules                   | [Link]({{v}}basicderivrules) | [Link]({{o}}basicderivrules) | [Link]({{c}}basicderivrules) |
-| Product Rule                             | [Link]({{v}}product)         | [Link]({{o}}product)         | [Link]({{c}}product)         |
-| Quotient Rule                            | [Link]({{v}}quotient)        | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
-| Chain Rule                               | [Link]({{v}}chain)           | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
-| L'Hopital's Rule                         | [Link]({{v}}lhopital)        | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
-| Mean Value Theorem                       | [Link]({{v}}mvt)             | [Link]({{o}}mvt)             | [Link]({{c}}mvt)             |
-| Related Rates                            | [Link]({{v}}relrates)        | [Link]({{o}}relrates)        | [Link]({{c}}relrates)        |
-| Implicit Differentiation                 | [Link]({{v}}implicit)        | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
-| Optimization (Intro)                     | [Link]({{v}}optintro)        | [Link]({{o}}optintro)        | [Link]({{c}}optintro)        |
-| Optimization (Modeling)                  | [Link]({{v}}optmodel)        | [Link]({{o}}optmodel)        | [Link]({{c}}optmodel)        |
-| Riemann Sums Intro                       | [Link]({{v}}rsintro)         | [Link]({{o}}rsintro)         | [Link]({{c}}rsintro)         |
-| Riemann Sum Notation                     | [Link]({{v}}rsnotation)      | [Link]({{o}}rsnotation)      | [Link]({{c}}rsnotation)      |
-| Definite Integrals                       | [Link]({{v}}defint)          | [Link]({{o}}defint)          | [Link]({{c}}defint)          |
-| Antiderivatives                          | [Link]({{v}}antideriv)       | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
-| FTOC 1 - Integrals are Antiderivatives   | [Link]({{v}}ftoc1)           | [Link]({{o}}ftoc1)           | [Link]({{c}}ftoc1)           |
-| FTOC 2 - Variable in Bounds              | [Link]({{v}}ftoc2)           | [Link]({{o}}ftoc2)           | [Link]({{c}}ftoc2)           |
-| U-Substitution                           | [Link]({{v}}usub)            | [Link]({{o}}usub)            | [Link]({{c}}usub)            |
-| [Survey page]({{gen}}survey/survey)      |                              |                              |                              |
+| Topic                                    | Student Problem-solving Version| Outline Version              | Control Version              |
+| ---------------------------------------- | ------------------------------ | ---------------------------- | ---------------------------- |
+| [Intro page]({{gen}}intro/intro)         |                                |                              |                              |
+| CROC                                     | [Link]({{v}}croc)              | [Link]({{o}}croc)            | [Link]({{c}}croc)            |
+| Graphing CROC                            | [Link]({{v}}graphingcroc)      | [Link]({{o}}graphingcroc)    | [Link]({{c}}graphingcroc)    |
+| IncROC                                   | [Link]({{v}}incroc)            | [Link]({{o}}incroc)          | [Link]({{c}}incroc)          |
+| Graphing IncROC                          | [Link]({{v}}graphingincroc)    | [Link]({{o}}graphingincroc)  | [Link]({{c}}graphingincroc)  |
+| AROC                                     | [Link]({{v}}aroc)              | [Link]({{o}}aroc)            | [Link]({{c}}aroc)            |
+| Approximating InstROC                    | [Link]({{v}}approxiroc)        | [Link]({{o}}approxiroc)      | [Link]({{c}}approxiroc)      |
+| Continuity                               | [Link]({{v}}continuity)        | [Link]({{o}}continuity)      | [Link]({{c}}continuity)      |
+| Differentiability and Local Linearity    | [Link]({{v}}locallin)          | [Link]({{o}}locallin)        | [Link]({{c}}locallin)        |
+| Limit at a Point                         |                                | [Link]({{no}}limitpt)        | [Link]({{nc}}limitpt)        |
+| Limit Def of Derivative                  | [Link]({{v}}limitdef)          | [Link]({{o}}limitdef)        | [Link]({{c}}limitdef)        |
+| Using the Limit Definition of Derivative | [Link]({{v}}usinglimit)        | [Link]({{o}}usinglimit)      | [Link]({{c}}usinglimit)      |
+| Interpreting Derivatives                 | [Link]({{v}}interpretderiv)    | [Link]({{o}}interpretderiv)  | [Link]({{c}}interpretderiv)  |
+| Slopes of Secants and Tangents           | [Link]({{v}}secanttangent)     | [Link]({{o}}secanttangent)   | [Link]({{c}}secanttangent)   |
+| Graphing Derivatives                     | [Link]({{v}}graphingderiv)     | [Link]({{o}}graphingderiv)   | [Link]({{c}}graphingderiv)   |
+| Basic Derivative Rules                   | [Link]({{v}}basicderivrules)   | [Link]({{o}}basicderivrules) | [Link]({{c}}basicderivrules) |
+| Product Rule                             | [Link]({{v}}product)           | [Link]({{o}}product)         | [Link]({{c}}product)         |
+| Quotient Rule                            | [Link]({{v}}quotient)          | [Link]({{o}}quotient)        | [Link]({{c}}quotient)        |
+| Chain Rule                               | [Link]({{v}}chain)             | [Link]({{o}}chain)           | [Link]({{c}}chain)           |
+| L'Hopital's Rule                         | [Link]({{v}}lhopital)          | [Link]({{o}}lhopital)        | [Link]({{c}}lhopital)        |
+| Mean Value Theorem                       | [Link]({{v}}mvt)               | [Link]({{o}}mvt)             | [Link]({{c}}mvt)             |
+| Related Rates                            | [Link]({{v}}relrates)          | [Link]({{o}}relrates)        | [Link]({{c}}relrates)        |
+| Implicit Differentiation                 | [Link]({{v}}implicit)          | [Link]({{o}}implicit)        | [Link]({{c}}implicit)        |
+| Optimization (Intro)                     | [Link]({{v}}optintro)          | [Link]({{o}}optintro)        | [Link]({{c}}optintro)        |
+| Optimization (Modeling)                  | [Link]({{v}}optmodel)          | [Link]({{o}}optmodel)        | [Link]({{c}}optmodel)        |
+| Riemann Sums Intro                       | [Link]({{v}}rsintro)           | [Link]({{o}}rsintro)         | [Link]({{c}}rsintro)         |
+| Riemann Sum Notation                     | [Link]({{v}}rsnotation)        | [Link]({{o}}rsnotation)      | [Link]({{c}}rsnotation)      |
+| Definite Integrals                       | [Link]({{v}}defint)            | [Link]({{o}}defint)          | [Link]({{c}}defint)          |
+| Antiderivatives                          | [Link]({{v}}antideriv)         | [Link]({{o}}antideriv)       | [Link]({{c}}antideriv)       |
+| FTOC 1 - Integrals are Antiderivatives   | [Link]({{v}}ftoc1)             | [Link]({{o}}ftoc1)           | [Link]({{c}}ftoc1)           |
+| FTOC 2 - Variable in Bounds              | [Link]({{v}}ftoc2)             | [Link]({{o}}ftoc2)           | [Link]({{c}}ftoc2)           |
+| U-Substitution                           | [Link]({{v}}usub)              | [Link]({{o}}usub)            | [Link]({{c}}usub)            |
+| [Survey page]({{gen}}survey/survey)      |                                |                              |                              |
 
 
 
