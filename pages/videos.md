@@ -99,8 +99,8 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}limitpt"></a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/xZpbUp_qEQg">Limit at a Point</a>
-			<LI><a href="https://youtu.be/4iVKE3Hwy1E">One-Sided Limits</a>
+			<LI><a href="https://youtu.be/_bQNS3pwDrs">Limit at a Point</a>
+			<LI><a href="https://youtu.be/JxwD57FYC3Q">One-Sided Limits</a>
 
 	<tr>
 		<td>Limit Laws</td>
