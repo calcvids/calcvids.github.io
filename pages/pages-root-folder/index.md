@@ -7,7 +7,7 @@ header:
     image_fullwidth: "background_top.jpg"
 ---
 #video-wrap {
-float: left;
+float: right;
 margin: 0 20px 5px 0;
 }
 
