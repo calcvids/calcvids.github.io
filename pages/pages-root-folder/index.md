@@ -6,15 +6,16 @@ meta_title: "Calculus Videos Home"
 header:
     image_fullwidth: "background_top.jpg"
 ---
-
+#video-wrap {
+float: left;
+margin: 0 20px 5px 0;
+}
 
 <span style="font-size:2.5em;">
 We are recruiting instructors to use our resources in 2020-2021. Visit our [participation](/ay2019study) page to learn more.
 </span>
 
-<div style=”float:right;margin:0 10px 5px 0;”>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ep0KWzY8WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div id="video-wrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/2ep0KWzY8WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The Calculus Video Project is an NSF-funded project <em>Investigating Student Learning and Sense-Making from Instructional Calculus Videos</em> (awards DUE <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1712312&HistoricalAwards=false">#1712312</a>, DUE <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1711837&HistoricalAwards=false">#1711837</a> and DUE <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1710377&HistoricalAwards=false">#1710377</a>).
 
