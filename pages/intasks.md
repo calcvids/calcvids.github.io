@@ -23,273 +23,273 @@ For each task, there is a corresponding video of two students attempting to solv
 
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Constant_Rate_of_Change_IN.docx)
-		*[IN Task - PDF Format](Constant_Rate_of_Change_IN.pdf)
-		*[Video for IN Task](Constant_Rate_of_Change_IN_Video.mp4)
-		</td>											
+		<td><ul>						
+		<li><a href="Constant_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Constant_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Constant_Rate_of_Change_IN_Video.mp4">Video for IN Task</a>
+		</ul></td>											
 		<td><a href="https://youtu.be/RnwZinSVGg4">Student Problem Solving: Pouring Water into a Cylinder</a>
 
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Graphing_Constant_Rate_of_Change_IN.docx)
-		*[IN Task - PDF Format](Graphing_Constant_Rate_of_Change_IN.pdf)
-		*[Video for IN Task](Graphing_Constant_Rate_of_Change_IN_Video.mp4)
-		</td>											
+		<td><ul>						
+		<li><a href="Graphing_Constant_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Graphing_Constant_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Graphing_Constant_Rate_of_Change_IN_Video.mp4">Video for IN Task</a>
+		</ul></td>											
 		<td><a href="https://youtu.be/euWtAUZXWLM">Student Problem Solving: Cannon Cow!</a>
 
 
 	<tr>
 		<td>Varying Rates of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Increasing_Rate_of_Change_IN.docx)
-		*[IN Task - PDF Format](Increasing_Rate_of_Change_IN.pdf)
-		*[Video for IN Task](Increasing_Rate_of_Change_IN_Video.mp4)
-		</td>						
+		<td><ul>						
+		<li><a href="Increasing_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Increasing_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Increasing_Rate_of_Change_IN_Video.mp4">Video for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/tWs3f4-vEWw">Student Problem Solving: Pouring Water into an Erlenmeyer Flask</a>
 
 
   <tr>
 		<td>Graphing Varying Rates of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Graphing_Increasing_Rate_of_Change_IN.docx)
-		*[IN Task - PDF Format](Graphing_Increasing_Rate_of_Change_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Graphing_Increasing_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Graphing_Increasing_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/0jZ1h6RzBQc">Student Problem Solving: Filling a Spherical Flask</a>
 
 	<tr>
 		<td>Average Rates of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Average_Rate_of_Change_IN.docx)
-		*[IN Task - PDF Format](Average_Rate_of_Change_IN.pdf)
-		*[Video for IN Task](Average_Rate_of_Change_IN_Video.mp4)
-		</td>						
+		<td><ul>						
+		<li><a href="Average_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Average_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Average_Rate_of_Change_IN_Video.mp4">Video for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/n8tw4EVlDyg">Student Problem Solving: Two Race Cars, Constant Rates, and Average Rates</a>
 
 
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td>						
-		*[IN Task - MS Word Format](Approximating_Instantaneous_Rates_of_Change_IN.docx)
-		*[IN Task - PDF Format](Approximating_Instantaneous_Rates_of_Change_IN.pdf)
-		*[Photo for IN Task](Approximating_Instantaneous_Rates_of_Change_IN_Photo.png)
-		</td>		
+		<td><ul>						
+		<li><a href="Approximating_Instantaneous_Rates_of_Change_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Approximating_Instantaneous_Rates_of_Change_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Approximating_Instantaneous_Rates_of_Change_IN_Photo.png">Photo for IN Task</a>
+		</ul></td>		
 		<td><a href="https://youtu.be/7Bja2twJSCU">Student Problem Solving: The Stationary Baseball</a>
 
 	<tr>
 		<td>Continuity</td>
-		<td>						
-		*[IN Task - MS Word Format](Continuity_IN.docx)
-		*[IN Task - PDF Format](Continuity_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Continuity_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Continuity_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/ghQYJThKFdM">Student Problem Solving: Continuity</a>
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td>						
-		*[IN Task - MS Word Format](Differentiability_IN.docx)
-		*[IN Task - PDF Format](Differentiability_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Differentiability_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Differentiability_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/-fOvdwcDPvw">Student Problem Solving: Growth of a Rabbit Population</a>
 
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td>						
-		*[IN Task - MS Word Format](Limit_Definition_of_Derivative_IN.docx)
-		*[IN Task - PDF Format](Limit_Definition_of_Derivative_IN.pdf)
-		*[Graph for IN Task](Limit_Definition_of_Derivative_IN_Graph.png)
-		</td>						
+		<td><ul>						
+		<li><a href="Limit_Definition_of_Derivative_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Limit_Definition_of_Derivative_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Limit_Definition_of_Derivative_IN_Graph.png">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/t5D_CfweJNM">Student Problem Solving: Rate of Absorbing Ibuprofen</a>
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td>						
-		*[IN Task - MS Word Format](Using_the_Limit_Definition_of_Derivative_IN.docx)
-		*[IN Task - PDF Format](Using_the_Limit_Definition_of_Derivative_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Using_the_Limit_Definition_of_Derivative_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Using_the_Limit_Definition_of_Derivative_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/SpJAyeUDqRA">Student Problem Solving: Using Limits to Compute Derivatives</a>
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td>						
-		*[IN Task - MS Word Format](Interpreting_Derivatives_IN.docx)
-		*[IN Task - PDF Format](Interpreting_Derivatives_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Interpreting_Derivatives_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Interpreting_Derivatives_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/fS2JTYEp89M">Student Problem Solving: Interpreting Derivatives</a>
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td>						
-		*[IN Task - MS Word Format](Slopes_of_Secants_and_Tangents_IN.docx)
-		*[IN Task - PDF Format](Slopes_of_Secants_and_Tangents_IN.pdf)
-		*[Graph for IN Task](Slopes_of_Secants_and_Tangents_IN_Graph.png)
-		</td>						
+		<td><ul>						
+		<li><a href="Slopes_of_Secants_and_Tangents_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Slopes_of_Secants_and_Tangents_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Slopes_of_Secants_and_Tangents_IN_Graph.png">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/QCtHzbOyWoQ">Student Problem Solving: The Imprecision of Tangents</a>
 
 
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td>						
-		*[IN Task - MS Word Format](Graphing_Derivatives_IN.docx)
-		*[IN Task - PDF Format](Graphing_Derivatives_IN.pdf)
-		*[Video for IN Task](Graphing_Derivatives_IN_Video.mp4)
-		</td>						
+		<td><ul>						
+		<li><a href="Graphing_Derivatives_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Graphing_Derivatives_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Graphing_Derivatives_IN_Video.mp4">Video for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/PO7p9wDm2KM">Student Problem Solving: Graphing the Speed of a Baseball</a>
 
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td>						
-		*[IN Task - MS Word Format](Basic_Derivative_Rules_IN.docx)
-		*[IN Task - PDF Format](Basic_Derivative_Rules_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Basic_Derivative_Rules_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Basic_Derivative_Rules_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/4q6KQQ2qLd8">Student Problem Solving: Trying to Use the Limit Definition</a>
 
 
 	<tr>
 		<td>The Product Rule</td>
-		<td>						
-		*[IN Task - MS Word Format](Product_Rule_IN.docx)
-		*[IN Task - PDF Format](Product_Rule_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Product_Rule_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Product_Rule_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/F2FDCkPC7N4">Student Problem Solving: Products of Polynomials</a>
 
 
 	<tr>
 		<td>The Quotient Rule</td>
-		<td>						
-		*[IN Task - MS Word Format](Quotient_Rule_IN.docx)
-		*[IN Task - PDF Format](Quotient_Rule_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Quotient_Rule_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Quotient_Rule_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/EuVOjg7WO1c">Student Problem Solving: Derivatives of Quotients</a>
 
 
 	<tr>
 		<td>The Chain Rule</td>
-		<td>						
-		*[IN Task - MS Word Format](Chain_Rule_IN.docx)
-		*[IN Task - PDF Format](Chain_Rule_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Chain_Rule_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Chain_Rule_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/Xt5a59Sc7Aw">Student Problem Solving: A Ripple in a Pond</a>
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td>						
-		*[IN Task - MS Word Format](LHopitals_Rule_IN.docx)
-		*[IN Task - PDF Format](LHopitals_Rule_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="LHopitals_Rule_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="LHopitals_Rule_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/OygUfugpQ48">Student Problem Solving: Evaluating Indeterminate Limits</a>
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td>						
-		*[IN Task - MS Word Format](Mean_Value_Theorem_IN.docx)
-		*[IN Task - PDF Format](Mean_Value_Theorem_IN.pdf)
-		*[Graph for IN Task](Mean_Value_Theorem_IN_Graphs.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Mean_Value_Theorem_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Mean_Value_Theorem_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Mean_Value_Theorem_IN_Graphs.pdf">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/QT_gSMdfvkY">Student Problem Solving</a>
 
 
 	<tr>
 	  <td>Related Rates</td>
-		<td>						
-		*[IN Task - MS Word Format](Related_Rates_IN.docx)
-		*[IN Task - PDF Format](Related_Rates_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Related_Rates_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Related_Rates_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/7zquHFUDkL0">Student Problem Solving</a>
 
 
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td>						
-		*[IN Task - MS Word Format](Implicit_Differentiation_IN.docx)
-		*[IN Task - PDF Format](Implicit_Differentiation_IN.pdf)
-		*[Graph for IN Task](Implicit_Differentiation_IN_Graph.png)
-		</td>						
+		<td><ul>						
+		<li><a href="Implicit_Differentiation_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Implicit_Differentiation_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="Implicit_Differentiation_IN_Graph.png">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/n-Kl3atgYbk">Student Problem Solving: A Complicated Tangent Line</a>
 
 
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td>						
-		*[IN Task - MS Word Format](Optimization_Introduction_IN.docx)
-		*[IN Task - PDF Format](Optimization_Introduction_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Optimization_Introduction_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Optimization_Introduction_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/TWZulr6XpFE">Student Problem Solving: Maximizing Fuel Economy</a>
 
 
 
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td>						
-		*[IN Task - MS Word Format](Optimization_Modeling_IN.docx)
-		*[IN Task - PDF Format](Optimization_Modeling_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Optimization_Modeling_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Optimization_Modeling_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/hs1519HhtCQ">Student Problem Solving: Maximizing an Animal Pen</a>
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td>						
-		*[IN Task - MS Word Format](Riemann_Sums_Introduction_IN.docx)
-		*[IN Task - PDF Format](Riemann_Sums_Introduction_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Riemann_Sums_Introduction_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Riemann_Sums_Introduction_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/FWsFsP4b_aE">Student Problem Solving: Dust Accumulation on the Mars Rover</a>
 
 
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td>						
-		*[IN Task - MS Word Format](Riemann_Sums_Notation_IN.docx)
-		*[IN Task - PDF Format](Riemann_Sums_Notation_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Riemann_Sums_Notation_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Riemann_Sums_Notation_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/Dxmh7HMS2JM">Student Problem Solving: Writing a Riemann Sum Two Ways</a>
 
 	<tr>
 		<td>Definite Integrals</td>
-		<td>						
-		*[IN Task - MS Word Format](Definite_Integrals_IN.docx)
-		*[IN Task - PDF Format](Definite_Integrals_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Definite_Integrals_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Definite_Integrals_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/syhpg0h-JsM">Student Problem Solving: Mars Rover Using a Formula</a>
 
 
 	<tr>
 		<td>Antiderivatives</td>
-		<td>						
-		*[IN Task - MS Word Format](Antiderivatives_IN.docx)
-		*[IN Task - PDF Format](Antiderivatives_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="Antiderivatives_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="Antiderivatives_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/NKBPe4uMRpM">Student Problem Solving: Antiderivatives</a>
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td>						
-		*[IN Task - MS Word Format](FTOC_1_IN.docx)
-		*[IN Task - PDF Format](FTOC_1_IN.pdf)
-		*[Graph for IN Task](FTOC_1_IN_Graph.png)
-		</td>						
+		<td><ul>						
+		<li><a href="FTOC_1_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="FTOC_1_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="FTOC_1_IN_Graph.png">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/UalmQI7o1S0">Student Problem Solving: Computing Total Accumulation</a>
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td>						
-		*[IN Task - MS Word Format](FTOC_2_IN.docx)
-		*[IN Task - PDF Format](FTOC_2_IN.pdf)
-		*[Graph for IN Task](FTOC_2_IN_Graph.png)
-		</td>						
+		<td><ul>						
+		<li><a href="FTOC_2_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="FTOC_2_IN.pdf">IN Task - PDF Format</a>
+		<li><a href="FTOC_2_IN_Graph.png">Graph for IN Task</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/5Ci1EZUARn4">Student Problem Solving: Cumulative Probability from a Normal Distribution</a>
 
 
 	<tr>
 		<td>U-Substitution</td>
-		<td>						
-		*[IN Task - MS Word Format](U-Substitution_IN.docx)
-		*[IN Task - PDF Format](U-Substitution_IN.pdf)
-		</td>						
+		<td><ul>						
+		<li><a href="U-Substitution_IN.docx">IN Task - MS Word Format</a>
+		<li><a href="U-Substitution_IN.pdf">IN Task - PDF Format</a>
+		</ul></td>						
 		<td><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
 
 
@@ -299,15 +299,15 @@ For each task, there is a corresponding video of two students attempting to solv
 		<td>An Introduction to (Linear) Differential Equations</td>
 		<td><a href="">Link</a></td>
 		<td>Interpreting Differential Equations</a>
-			*Writing Differential Equations</a>
-			*Computing with Differential Equations</a>
+			<LI>Writing Differential Equations</a>
+			<LI>Computing with Differential Equations</a>
 
 
 	<tr>
 		<td>An Introduction to Euler's Method</td>
 		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler">Link</a></td>
 		<td>Student Problem Solving: Computing the Spread of an Infection</a>
-			
+			</ul>
 		</td>
 	</tr>
 -->
