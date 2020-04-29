@@ -7,8 +7,6 @@ permalink: "/videos/"
 
 We have created videos for many topics in first-semester calculus (listed below).
 
-The videos are currently rough drafts---there are visual, audio, and (occasionally) mathematical aspects of the videos that we are in the process of identifying and correcting.
-
 For each topic there is a "Student Problem Solving" that features two students working on a problem that motivates the study of the topic and highlights difficulties that many students face. The subsequent videos show how to solve the problem and use this as a springboard to describe the mathematical concept.
 
 Each collection of videos can be viewed on our Ximera platform, which allows students to try the motivating problem, watch all of the videos, and complete diagnostic questions prior to and after watching the videos.
@@ -290,7 +288,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}ftoc1">Link</a></td>
 		<td>
 			<OL>
-			<LI><a href="https://youtu.be/UalmQI7o1S0">Student Problem Solving:</a>
+			<LI><a href="https://youtu.be/UalmQI7o1S0">Student Problem Solving: Computing Total Accumulation</a>
 			<LI><a href="https://youtu.be/AeASWdqiDv0">Computing Total Accumulation</a>
 
 	<tr>
