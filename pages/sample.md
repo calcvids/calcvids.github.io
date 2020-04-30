@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Research Methods"
+title: "Ximera Pages"
 meta_title: "Examples"
 permalink: "/sample/"
 ---
