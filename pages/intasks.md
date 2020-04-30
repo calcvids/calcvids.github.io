@@ -70,7 +70,6 @@ For each task, there is a corresponding video of two students attempting to solv
 		<li style="font-size:rem-calc(12px)"><a href="Approximating_Instantaneous_Rates_of_Change_IN.docx">IN Task - MS Word Format</a>
 		<li style="font-size:rem-calc(12px)"><a href="Approximating_Instantaneous_Rates_of_Change_IN.pdf">IN Task - PDF Format</a>
 		<li style="font-size:rem-calc(12px)"><a href="Approximating_Instantaneous_Rates_of_Change_IN_Photo.png">Photo for IN Task</a>
-		</ul></td>		
 		<td><a href="https://youtu.be/7Bja2twJSCU">Student Problem Solving: The Stationary Baseball</a>
 
 	<tr>
@@ -278,7 +277,6 @@ For each task, there is a corresponding video of two students attempting to solv
 		<td>An Introduction to Euler's Method</td>
 		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler">Link</a></td>
 		<td>Student Problem Solving: Computing the Spread of an Infection</a>
-			</ul>
 		</td>
 	</tr>
 -->
