@@ -28,7 +28,9 @@
   - title: "Videos"
     url: "/videos/"
   - title: "Powerpoint Slides"
-    url: "/slides"
+    url: "/slides/"
+  - title: "Intellectual Need-Provoking Tasks"
+    url: "/intasks/"
   - title: "Information and Resources for Instructors"
     url: "/instructorinfo/"
 

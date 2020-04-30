@@ -80,7 +80,7 @@ Human subjects information
 Resources
 ---------
 - [Professional Development Workshop Slides](Professional_Development.pptx)
-- [Intellectual Need Tasks](Intellectual_Need_Tasks.docx)
+- [Intellectual Need Tasks](https://calcvids.org/intasks/)
 - Additional homework problems:
   - A [student workbook](Pathways_Calculus_Student.pdf) from Pathways through Calculus by Michael Tallman, Marilyn Carlson, and James Hart
   - [Instructor notes](Pathways_Calculus_Instructor.pdf) from Pathways through Calculus
