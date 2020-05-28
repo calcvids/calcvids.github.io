@@ -6,10 +6,6 @@ meta_title: "Calculus Videos Home"
 header:
     image_fullwidth: "background_top.jpg"
 ---
-<span style="font-size:2.5em;">
-We are recruiting instructors to use our resources in 2020-2021. Visit our [participation](/ay2019study) page to learn more.
-</span>
-
 <div style="float: right; width: 0px; height: 100px"></div>
 <div style="float: right; clear: right; margin:10px 0px 5px 15px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/2ep0KWzY8WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
