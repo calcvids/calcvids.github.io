@@ -21,7 +21,7 @@ header:
 * Read more [about the project](/info)
 * Read about our research methods and [see our videos "in action"](/sample)
 * Watch our [videos](/videos)
-* Use our [powerpoint slides](/slides) to [make your own](makeyourown) versions of our videos
+* Use our [powerpoint slides](/slides) to make your own versions of our videos
 * Read our [publications](/publications)
 
 
