@@ -21,6 +21,7 @@ header:
 * Read more [about the project](/info)
 * Read about our research methods and [see our videos "in action"](/sample)
 * Watch our [videos](/videos)
+* Use our [LMS modules](/lms) to add our materials to your LMS (Canvas, Blackboard, Moodle, D2L, or Sakai)
 * Use our [powerpoint slides](/slides) to make your own versions of our videos
 * Read our [publications](/publications)
 

@@ -21,17 +21,19 @@
 - title: "Resources"
   side: left
   dropdown:
-  - title: "Ximera Pages"
-    url: "/sample/"
   - title: "Videos"
     url: "/videos/"
+  - title: "LMS Modules"
+    url: "/lms/"
   - title: "Powerpoint Slides"
     url: "/slides/"
   - title: "Intellectual Need-Provoking Tasks"
     url: "/intasks/"
   - title: "Information and Resources for Instructors"
     url: "/instructorinfo/"
-
+  - title: "Ximera Pages"
+    url: "/sample/"
+    
 - title: "Search"
   url: "/search/"
   side: right
