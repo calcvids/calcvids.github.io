@@ -22,140 +22,260 @@ These materials Coming Soon!!!
 
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Varying Rates of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
   <tr>
 		<td>Graphing Varying Rates of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Average Rates of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Continuity</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>The Product Rule</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>The Quotient Rule</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>The Chain Rule</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 	  <td>Related Rates</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 	<tr>
 		<td>Definite Integrals</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>Antiderivatives</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
 
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><ul>						
+		<td>
+		<td>
+		<td>
+		<td>
+		<td>						
