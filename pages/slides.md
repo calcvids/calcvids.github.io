@@ -7,95 +7,97 @@ permalink: "/slides/"
 Below are links to Powerpoint slides with narration for each of the videos.
 
 Please note that these slides use the *Avenir Next* and *whatever it takes* fonts; you will need to have these fonts installed in order for the text on the slides to be properly aligned. 
- + *Avenir Next* is typically installed by default on Apple computers. Windows and Linux users can download a compatible font called [Avenir Next LT Pro](https://www.cufonfonts.com/font/avenir-next-lt-pro) or use the Google font called [Nunito](https://fonts.google.com/specimen/Nunito)
+ + *Avenir Next* is typically installed by default on Apple computers. Windows and Linux users can download a compatible font called [Avenir Next LT Pro](https://www.cufonfonts.com/font/avenir-next-lt-pro) or use the Google font called [Nunito](https://fonts.google.com/specimen/Nunito) but will likely need to adjust the position of all text boxes to ensure proper alignment
  + *whatever it takes* can be downloaded from [dafont.com](https://www.dafont.com/whatever-it-takes.font)
 
 
 - Constant Rates of Change
-  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/open?id=1MHqIcgSzaceL0EKfiNjEBPNO3hR-cc9h)
-  - [Video 2 Slides: Formal Definition of Constant Rate of Change](https://drive.google.com/open?id=1FIx-MtWaDdgmgjnYmQcGF1wkvbvXydZ4)
+  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/file/d/1MHqIcgSzaceL0EKfiNjEBPNO3hR-cc9h/view?usp=sharing)
+  - [Video 2 Slides: Formal Definition of Constant Rate of Change](https://drive.google.com/file/d/1FIx-MtWaDdgmgjnYmQcGF1wkvbvXydZ4/view?usp=sharing)
 - Graphing Constant Rate of Change
-  - [Video 1 Slides: Graphing Cannon Cow](https://drive.google.com/open?id=1-Mi_gPH1A8aqy3QttTKdAp-MN0nQPwTF)
-  - [Video 2 Slides: Graphing Pouring Water](https://drive.google.com/open?id=1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1)
+  - [Video 1 Slides: Graphing Cannon Cow](https://drive.google.com/file/d/1-Mi_gPH1A8aqy3QttTKdAp-MN0nQPwTF/view?usp=sharing)
+  - [Video 2 Slides: Graphing Pouring Water](https://drive.google.com/file/d/1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1/view?usp=sharing)
 - Varying Rates of Change
-  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/open?id=1wOQoEUbIL_12H_ybdQfQfYYYSvFv7SsR)
-  - [Video 2 Slides: Frozen Yogurt in a Cone](https://drive.google.com/open?id=1rlqoi1Rlt8hlwjwTNMpFuAiCUU18rub1)
+  - [Video 1 Slides: Solving the Problem of Pouring Water](https://drive.google.com/file/d/1wOQoEUbIL_12H_ybdQfQfYYYSvFv7SsR/view?usp=sharing)
+  - [Video 2 Slides: Frozen Yogurt in a Cone](https://drive.google.com/file/d/1rlqoi1Rlt8hlwjwTNMpFuAiCUU18rub1/view?usp=sharing)
 - Graphing Varying Rates of Change
-  - [Video 1 Slides Making a Graph for Filling a Spherical Flask](https://drive.google.com/open?id=1x1MkI9aR1ip6PzA0z6ldQOZhXUaX64i-)
+  - [Video 1 Slides Making a Graph for Filling a Spherical Flask](https://drive.google.com/file/d/1x1MkI9aR1ip6PzA0z6ldQOZhXUaX64i-/view?usp=sharing)
 - Average Rates of Change
   - [Video 1 Slides: Average Rates of Change as Constant Rates of Change](https://drive.google.com/file/d/1trzHja9PorvX7nDpV3wTEMINpqoJ2T42/view?usp=sharing)
   - [Video 2 Slides: A Precise Description of Average Rates of Change](https://drive.google.com/file/d/1TQsJpCalr2fNK_QijW5BcyzndO_7NJTP/view?usp=sharing)
 - Approximating Instantaneous Rates of Change
-  - [Video 1 Slides: Approximating the Speed of a Baseball](https://drive.google.com/open?id=1W1jWlN2Wjo3wIwxIXnYxvXd1HnYHIEht)
-  - [Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change](https://drive.google.com/open?id=13gDAqOOWhzQJznQnUSrEf8JcmYFRnqk2)
+  - [Video 1 Slides: Approximating the Speed of a Baseball](https://drive.google.com/file/d/1W1jWlN2Wjo3wIwxIXnYxvXd1HnYHIEht/view?usp=sharing)
+  - [Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change](https://drive.google.com/file/d/13gDAqOOWhzQJznQnUSrEf8JcmYFRnqk2/view?usp=sharing)
 - Continuity
-  - [Video 1 Slides: Continuity](https://drive.google.com/open?id=16jMDdrPKLhAi2gCq_YdgLmjXRaPRTLj4)
+  - [Video 1 Slides: Continuity](https://drive.google.com/file/d/16jMDdrPKLhAi2gCq_YdgLmjXRaPRTLj4/view?usp=sharing)
 - Differentiability and Local Linearity
-  - [Video 1 Slides: Local Linearity](https://drive.google.com/open?id=12efMcgWkBje1ebd5VfyOlZbjLnFccX7O)
-- Limit at a point
-  - [Video 1 Slides: What is a Limit?](https://drive.google.com/open?id=1Nm-SC57fVhaCHm27DlPzgMOcF-HY4Vhz)
-  - [Video 2 Slides: One Sided Limits](https://drive.google.com/open?id=1iIgI2UdXZDb1iBnMFEAbU3MYHx1vKMXh)
+  - [Video 1 Slides: Local Linearity](https://drive.google.com/file/d/12efMcgWkBje1ebd5VfyOlZbjLnFccX7O/view?usp=sharing)
+- Limit at a Point
+  - [Video 1 Slides: What is a Limit?](https://drive.google.com/file/d/1Nm-SC57fVhaCHm27DlPzgMOcF-HY4Vhz/view?usp=sharing)
+  - [Video 2 Slides: One Sided Limits](https://drive.google.com/file/d/1iIgI2UdXZDb1iBnMFEAbU3MYHx1vKMXh/view?usp=sharing)
+- Limit Laws
+  - [Video 1 Slides: Limit Laws](https://drive.google.com/file/d/1LYJ3JygD-MlPhcI15-0JkjTI-C68XJmy/view?usp=sharing)
 - Limit Definition of Derivative
-  - [Video 1 Slides: Defining the derivative](https://drive.google.com/open?id=13VccK9tcF9GGs3McZAl73rK55h_6Nqxg)
+  - [Video 1 Slides: Defining the derivative](https://drive.google.com/file/d/13VccK9tcF9GGs3McZAl73rK55h_6Nqxg/view?usp=sharing)
 - Using the Limit Definition of Derivative
-  - [Video 1 Slides: Using Limits to Compute Instantaneous Rates of Change](https://drive.google.com/open?id=1O5njIkwBRkJsDeAfYYzcjs6-D2QeVc8I)
+  - [Video 1 Slides: Using Limits to Compute Instantaneous Rates of Change](https://drive.google.com/file/d/1tlztm0YWrHf-lu-KFjVSnxuYmPrEUN6R/view?usp=sharing)
 - Interpreting Derivatives
-  - [Video 1 Slides: Interpreting the Derivative](https://drive.google.com/open?id=1keKznyrZYMZ13pTuJZFWK7nJqZZ1fmTe)
+  - [Video 1 Slides: Interpreting the Derivative](https://drive.google.com/file/d/1keKznyrZYMZ13pTuJZFWK7nJqZZ1fmTe/view?usp=sharing)
 - Slopes of Secant and Tangent Lines
-  - [Video 1 Slides: Finding the speed of a baseball at a moment in time graphically](https://drive.google.com/open?id=1JfAmsbgMFpQu7FqifMYpji5eBwwQtpVc)
-  - [Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen](https://drive.google.com/open?id=1xDxkMNqFLhdBhO50bRokSQ06BGGxf-o9)
+  - [Video 1 Slides: Finding the speed of a baseball at a moment in time graphically](https://drive.google.com/file/d/1JfAmsbgMFpQu7FqifMYpji5eBwwQtpVc/view?usp=sharing)
+  - [Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen](https://drive.google.com/file/d/1xDxkMNqFLhdBhO50bRokSQ06BGGxf-o9/view?usp=sharing)
 - Graphing Derivatives
-  - [Video 1 Slides: Graphing the Derivative Function](https://drive.google.com/open?id=1IwwWbL_R2SEGgOfUBHvpP4UgeoLyFQnm)
+  - [Video 1 Slides: Graphing the Derivative Function](https://drive.google.com/file/d/1IwwWbL_R2SEGgOfUBHvpP4UgeoLyFQnm/view?usp=sharing)
 - Basic Derivative Rules
-  - [Video 1: The Power Rule](https://drive.google.com/open?id=1MDKe6F4GsJQ2kprJ50JoEGfbReHvPZX4)
-  - [Video 2: Exponential and Logarithmic Functions](https://drive.google.com/open?id=114DlwosuSiWP3uzmk-4QRntsELKx9v3-)
-  - [Video 3: Trigonometric Functions](https://drive.google.com/open?id=1C7FaTItRhRCrvj47tuZ9YWWsCWEEWSQk)
+  - [Video 1: The Power Rule](https://drive.google.com/file/d/1MDKe6F4GsJQ2kprJ50JoEGfbReHvPZX4/view?usp=sharing)
+  - [Video 2: Exponential and Logarithmic Functions](https://drive.google.com/file/d/114DlwosuSiWP3uzmk-4QRntsELKx9v3-/view?usp=sharing)
+  - [Video 3: Trigonometric Functions](https://drive.google.com/file/d/1C7FaTItRhRCrvj47tuZ9YWWsCWEEWSQk/view?usp=sharing)
 - The Product Rule
-  - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/open?id=1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS)
-  - [Video 2: Conceptual Explanation of the Product Rule](https://drive.google.com/open?id=1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ)
+  - [Video 1: Procedural Description of the Product Rule](https://drive.google.com/file/d/1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS/view?usp=sharing)
+  - [Video 2: Conceptual Explanation of the Product Rule](https://drive.google.com/file/d/1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ/view?usp=sharing)
 - The Quotient Rule
-  - [Video 1: The Quotient Rule](https://drive.google.com/open?id=1OIkgBPnG5BtRjlDJCpeZL0Uh_EJVds31)
-  - [Video 2: Why the Quotient Rule Works](https://drive.google.com/open?id=1AMvv9QQtkal4tECIiIc8P4zSpPby8LzU)
+  - [Video 1: The Quotient Rule](https://drive.google.com/file/d/1OIkgBPnG5BtRjlDJCpeZL0Uh_EJVds31/view?usp=sharing)
+  - [Video 2: Why the Quotient Rule Works](https://drive.google.com/file/d/1AMvv9QQtkal4tECIiIc8P4zSpPby8LzU/view?usp=sharing)
 - The Chain Rule
-  - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/open?id=1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1)
-  - [Video 2: How to Use the Chain Rule](https://drive.google.com/open?id=1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU)
-  - [Video 3: Why the Chain Rule Works](https://drive.google.com/open?id=1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6)
+  - [Video 1: Computing the Average Rate of Change of a Composition of Functions](https://drive.google.com/file/d/1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1/view?usp=sharing)
+  - [Video 2: How to Use the Chain Rule](https://drive.google.com/file/d/1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU/view?usp=sharing)
+  - [Video 3: Why the Chain Rule Works](https://drive.google.com/file/d/1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6/view?usp=sharing)
 - l'Hopital's Rule
-  - [Video 1 Slides: Limits of Quotients](https://drive.google.com/open?id=1Iqb3pMj7bxp4S5WV9RbjPcvzoSVFs1ut)
+  - [Video 1 Slides: Limits of Quotients](https://drive.google.com/file/d/1ItJto0I6TMifNnqA8q008NO5SLZxfhED/view?usp=sharing)
 - Mean Value Theorem
-  - [Video 1: Mean Value Theorem](https://drive.google.com/open?id=1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN)
-  - [Video 2: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG)
+  - [Video 1: Mean Value Theorem](https://drive.google.com/file/d/1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN/view?usp=sharing)
+  - [Video 2: Mean Value Theorem, Why it Works](https://drive.google.com/file/d/1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG/view?usp=sharing)
   - [Video 2 Extended: Mean Value Theorem, Why it Works](https://drive.google.com/open?id=1IXjdhZasaYFn2zbAkWkcLxHuHEKsgnRh)
 - Related Rates
-  - [Video 1: Defining a Related Rate Formula](https://drive.google.com/open?id=1NanZ_xPk-D-9pz3D6vD_Q-o70eMK_hVb)
-  - [Video 2: Solving A Related Rates Problem](https://drive.google.com/open?id=1yF5wlIPRn9x6GpkpJsmZ3S0lv7ZhGjv2)
+  - [Video 1: Defining a Related Rate Formula](https://drive.google.com/file/d/1NanZ_xPk-D-9pz3D6vD_Q-o70eMK_hVb/view?usp=sharing)
+  - [Video 2: Solving A Related Rates Problem](https://drive.google.com/file/d/1yF5wlIPRn9x6GpkpJsmZ3S0lv7ZhGjv2/view?usp=sharing)
 - Implicit Differentiation
-  - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/open?id=1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb)
-  - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/open?id=1nlo71SrAnDK3XtDIul383HciaWv7znTQ)
+  - [Video 1: Introduction to Implicit Differentiation](https://drive.google.com/file/d/1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb/view?usp=sharing)
+  - [Video 2: Tangent Lines for a Cardioid](https://drive.google.com/file/d/1nlo71SrAnDK3XtDIul383HciaWv7znTQ/view?usp=sharing)
 - Introduction to Optimization
-  - [Video 1: Using Derivatives to Maximize Fuel Economy](https://drive.google.com/open?id=13dD6sZDMe2lfevCkIpmaj7Y8J9yjSVRv)
-  - [Video 2: An Example of Optimization](https://drive.google.com/open?id=1dIW_I_ru0A0LEOrFytQkws7ZQw5hFP5H)
+  - [Video 1: Using Derivatives to Maximize Fuel Economy](https://drive.google.com/file/d/13dD6sZDMe2lfevCkIpmaj7Y8J9yjSVRv/view?usp=sharing)
+  - [Video 2: An Example of Optimization](https://drive.google.com/file/d/1dIW_I_ru0A0LEOrFytQkws7ZQw5hFP5H/view?usp=sharing)
 - Optimization: Algebraic Modeling
-  - [Video 1: How to Maximize the Area of a Rectangular Pen](https://drive.google.com/open?id=1CH-ABDnURFKNCrTV9-KzC0gC0bpSm3n2)
+  - [Video 1: How to Maximize the Area of a Rectangular Pen](https://drive.google.com/file/d/1CH-ABDnURFKNCrTV9-KzC0gC0bpSm3n2/view?usp=sharing)
 - Introduction to Riemann Sums
-  - [Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust](https://drive.google.com/open?id=1jTPP3hcXCC656IrTmkOrMEz801vINaKS)
-  - [Video 2: A Riemann Sum for an Oil Spill](https://drive.google.com/open?id=1CfqSdto26XuZg5YsFLn-clzsDEFtFgTB)
+  - [Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust](https://drive.google.com/file/d/1jTPP3hcXCC656IrTmkOrMEz801vINaKS/view?usp=sharing)
+  - [Video 2: A Riemann Sum for an Oil Spill](https://drive.google.com/file/d/1CfqSdto26XuZg5YsFLn-clzsDEFtFgTB/view?usp=sharing)
 - Riemann Sum Notation
-  - [Video 1: Writing Riemann Sums using Sigma Notation](https://drive.google.com/open?id=1I-tm7M2mFuLrneB2e9gN0Zy4pMFiQQJ_)
+  - [Video 1: Writing Riemann Sums using Sigma Notation](https://drive.google.com/file/d/1I-tm7M2mFuLrneB2e9gN0Zy4pMFiQQJ_/view?usp=sharing)
 - Definite Integrals
-  - [Video 1: Definite Integrals as Limits of Riemann Sums](https://drive.google.com/open?id=1o4QatlzEJEdXbAErAESfBdDfCWiJdYn5)
-  - [Video 2: A Definite Integral for an Oil Spill](https://drive.google.com/open?id=1zlxuwQX_Da1oUqbLWTl_LJ1i8r3ydV9p)
+  - [Video 1: Definite Integrals as Limits of Riemann Sums](https://drive.google.com/file/d/1o4QatlzEJEdXbAErAESfBdDfCWiJdYn5/view?usp=sharing)
+  - [Video 2: A Definite Integral for an Oil Spill](https://drive.google.com/file/d/1zlxuwQX_Da1oUqbLWTl_LJ1i8r3ydV9p/view?usp=sharing)
 - Antiderivatives
-  - [Video 1: Antiderivatives](https://drive.google.com/open?id=1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV)
-  - [Video 2: Antiderivatives, Part 2](https://drive.google.com/open?id=1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE)
-  - [Video 3: Using Antiderivative Rules](https://drive.google.com/open?id=1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn)
-- The Fundamental Theorem of Calculus, Part 1
-  - [Video 1: Computing Total Accumulation](https://drive.google.com/open?id=1ydhqEer5BxDARpLbvWTwOdRCblkr6nOi)
-- The Fundamental Theorem of Calculus, Part 2
-  - [Video 1: Accumulation Functions](https://drive.google.com/open?id=1oBoiYQpojfh-TS4UhYs9autIWa5AcbsN)
-  - [Video 2: Antiderivatives and Accumulation Functions](https://drive.google.com/open?id=1vXIt3djg3pxagfEsPexdCrcU-AJhPPGQ)
+  - [Video 1: Antiderivatives](https://drive.google.com/file/d/1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV/view?usp=sharing)
+  - [Video 2: Antiderivatives, Part 2](https://drive.google.com/file/d/1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE/view?usp=sharing)
+  - [Video 3: Using Antiderivative Rules](https://drive.google.com/file/d/1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn/view?usp=sharing)
+- The Fundamental Theorem of Calculus, Part 1 (Definite Integrals are Antiderivatives)
+  - [Video 1: Computing Total Accumulation](https://drive.google.com/file/d/1ydhqEer5BxDARpLbvWTwOdRCblkr6nOi/view?usp=sharing)
+- The Fundamental Theorem of Calculus, Part 2 (Constructing Antiderivatives)
+  - [Video 1: Accumulation Functions](https://drive.google.com/file/d/1oBoiYQpojfh-TS4UhYs9autIWa5AcbsN/view?usp=sharing)
+  - [Video 2: Antiderivatives and Accumulation Functions](https://drive.google.com/file/d/1vXIt3djg3pxagfEsPexdCrcU-AJhPPGQ/view?usp=sharing)
 - U-Substitution
-  - [Video 1: U-Substitution](https://drive.google.com/open?id=128r84I3dHIt0gfVQS1eIG_DMIneA4xZJ)
+  - [Video 1: U-Substitution](https://drive.google.com/file/d/128r84I3dHIt0gfVQS1eIG_DMIneA4xZJ/view?usp=sharing)
 
 
 <!-- U-Substitution -->

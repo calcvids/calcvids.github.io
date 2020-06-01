@@ -105,7 +105,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="{{v}}lhopital"></a></td>
 		<td>
 			<OL>
-			<LI><a href="">Limit Laws (Coming Soon)</a>
+			<LI><a href="https://youtu.be/uhn4B6fR0gI">Limit Laws</a>
 
 	<tr>
 		<td>Limits at Infinity</td>
