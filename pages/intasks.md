@@ -18,7 +18,7 @@ For each task, there is a corresponding video of two students attempting to solv
 	<tr>
 		<th width="30%">Topic</th>
 		<th width="25%">Task and Related Files</th>
-		<th width="45%">Problem-Solving Video</th>
+		<th width="45%">Student Problem-Solving Video</th>
 		</tr>
 
 	<tr>
