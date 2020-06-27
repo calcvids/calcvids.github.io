@@ -303,7 +303,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 	<tr>
 		<td>U-Substitution</td>
 		<td><a href="{{[v]}}usub"></a></td>
-		<td>
+		<td> 
 			<OL>
 			<LI><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
 			<LI><a href="https://youtu.be/pBfyWU_lf04">U-Substitution</a>
