@@ -23,7 +23,7 @@ Please select the video set you would like to watch.
 1. [Approximating Instantaneous Rates of Change](./approxiroc)
 1. [Continuity](./continuity)
 1. [Differentiability and Local Linearity](./locallin)
-1. Limit at a Point - in preparparation
+1. [Limit at a Point](./limitpt)
 1. Limit Laws - in preparation
 1. Limit at Infinity - in preparation
 1. [Limit Definition of Derivative](./limitdef)
