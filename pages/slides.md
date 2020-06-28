@@ -135,4 +135,9 @@ Please note that these slides use the *Avenir Next* and *whatever it takes* font
 <tr><td>U-Substitution</td>
   <td><ul>
   <li><a href="https://drive.google.com/file/d/128r84I3dHIt0gfVQS1eIG_DMIneA4xZJ/view?usp=sharing">Video 1: U-Substitution</a>
+<tr><td>The S-I-R Model</td>
+	<td><ul>
+	<LI><a href="https://drive.google.com/file/d/15AczkQC2n0NqTjbz9o3jeDj6ZmCJ1Kox/view?usp=sharing">Video 1: Thinking About the Spread of Disease in a Population</a>
+	<LI><a href="https://drive.google.com/file/d/1xP19-J1sqkX9y8j_J17l673Ot6QsvBoI/view?usp=sharing">Video 2: Rate (Differential) Equations for the Spread of Disease</a>
+	<LI><a href="https://drive.google.com/file/d/1xsGhqcW2ldUA4Wu1csFg8fhUThDOGB1G/view?usp=sharing">Video 3: A System of Equations for the SIR Model</a>
 </table>

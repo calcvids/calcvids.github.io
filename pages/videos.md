@@ -308,17 +308,16 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
 			<LI><a href="https://youtu.be/pBfyWU_lf04">U-Substitution</a>
 
-
-
-<!--
 	<tr>
-		<td>An Introduction to (Linear) Differential Equations</td>
-		<td><a href="">Link</a></td>
+		<td>The S-I-R Model</td>
+		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler"></a></td>
 		<td>
 			<OL>
-			<LI>Interpreting Differential Equations</a>
-			<LI>Writing Differential Equations</a>
-			<LI>Computing with Differential Equations</a>
+			<LI><a href="https://youtu.be/IwZ9DVxf82s">Thinking About the Spread of Disease in a Population</a>
+			<LI><a href="https://youtu.be/zBjiy7-nHKs">Rate (Differential) Equations for the Spread of Disease</a>
+			<LI><a href="https://youtu.be/7r9MEaxFpM4">A System of Equations for the SIR Model</a>
+		</td>
+
 
 
 	<tr>
@@ -326,14 +325,17 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler">Link</a></td>
 		<td>
 			<OL>
-			<LI>Student Problem Solving: Computing the Spread of an Infection</a>
 			<LI>Using Euler's Method to Model the Spread of an Infection</a>
-			</OL>
 		</td>
+
+	<tr>
+		<td>An Introduction to (Linear) Differential Equations</td>
+		<td><a href="">Link</a></td>
+		<td>
+			<OL>
+			<LI>Interpreting Differential Equations</a>
+			<LI>Writing Differential Equations</a>
 	</tr>
--->
-
-
 
 
 
