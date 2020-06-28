@@ -293,7 +293,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="https://ximera.osu.edu/calcvids2019/in/v/ftoc2">Link</a></td>
+		<td><a href="{{v}}ftoc2">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/5Ci1EZUARn4">Student Problem Solving: Cumulative Probability from a Normal Distribution</a>
@@ -302,7 +302,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><a href="{{[v]}}usub">Link</a></td>
+		<td><a href="{{v}}usub">Link</a></td>
 		<td> 
 			<OL>
 			<LI><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
