@@ -28,8 +28,8 @@ Instructional Resources
 - [Suggestions for Incorporating Videos into Instruction](Suggestions_for_Incorporating_Videos_into_Instruction.pdf)
 - [Versions of the materials](/lms) that can be directly imported into various learning management systems (e.g., Canvas, Blackboard, etc.)
 - [Powerpoint Files](/slides) you can use to create your own versions of the videos
-- [Additional homework problems]() you can assign to your students
-- [Intellectual Need-Provoking Tasks](https://calcvids.org/intasks/) you can use for in-class problem-solving and discussion
+- [Additional homework problems](/problems) you can assign to your students
+- [Intellectual Need-Provoking Tasks](/intasks) you can use for in-class problem-solving and discussion
 
 
 
