@@ -17,11 +17,13 @@ These problems will be available later in the summer of 2020.
 
 	<tr>
 		<td>Constant Rates of Change</td>
+		<td>
 		<a href="Constant_Rate_of_Change_Problems.docx">Problems - MS Word Format</a>
 
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
+		<td>
 		<a href="Graphing_Constant_Rate_of_Change_Problems.docx">Problems - MS Word Format</a>
 
 
