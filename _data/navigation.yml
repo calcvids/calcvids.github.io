@@ -25,6 +25,8 @@
     url: "/videos/"
   - title: "LMS Modules"
     url: "/lms/"
+  - title: "Problems"
+    url: "/problems/"
   - title: "Powerpoint Slides"
     url: "/slides/"
   - title: "Intellectual Need-Provoking Tasks"

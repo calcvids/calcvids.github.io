@@ -19,13 +19,11 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 <table>
 	<tr>
 		<th>Topic</th>
-		<th>Ximera Page (Student Problem Solving Version, when available)</th>
 		<th>Individual Videos</th>
 		</tr>
 
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><a href="{{v}}croc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/RnwZinSVGg4">Student Problem Solving: Pouring Water into a Cylinder</a>
@@ -34,7 +32,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
-		<td><a href="{{v}}graphingcroc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/euWtAUZXWLM">Student Problem Solving: Cannon Cow!</a>
@@ -43,7 +40,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Varying Rates of Change</td>
-		<td><a href="{{v}}incroc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/tWs3f4-vEWw">Student Problem Solving: Pouring Water into an Erlenmeyer Flask</a>
@@ -52,7 +48,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
   <tr>
 		<td>Graphing Varying Rates of Change</td>
-		<td><a href="{{v}}graphingincroc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/0jZ1h6RzBQc">Student Problem Solving: Filling a Spherical Flask</a>
@@ -60,7 +55,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Average Rates of Change</td>
-		<td><a href="{{v}}aroc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/n8tw4EVlDyg">Student Problem Solving: Two Race Cars, Constant Rates, and Average Rates</a>
@@ -69,7 +63,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td><a href="{{v}}approxiroc">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/7Bja2twJSCU">Student Problem Solving: The Stationary Baseball</a>
@@ -78,7 +71,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Continuity</td>
-		<td><a href="{{v}}continuity">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/ghQYJThKFdM">Student Problem Solving: Continuity</a>
@@ -86,7 +78,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href="{{v}}locallin">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/-fOvdwcDPvw">Student Problem Solving: Growth of a Rabbit Population</a>
@@ -94,7 +85,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Limit at a Point</td>
-		<td><a href="{{v}}limitpt"></a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/_bQNS3pwDrs">Limit at a Point</a>
@@ -102,21 +92,12 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Limit Laws</td>
-		<td><a href="{{v}}lhopital"></a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/uhn4B6fR0gI">Limit Laws</a>
 
 	<tr>
-		<td>Limits at Infinity</td>
-		<td><a href="{{v}}lhopital"></a></td>
-		<td>
-			<OL>
-			<LI><a href="">Limits at Infinity Laws (Coming Soon)</a>
-
-	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><a href="{{v}}limitdef">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/t5D_CfweJNM">Student Problem Solving: Rate of Absorbing Ibuprofen</a>
@@ -124,7 +105,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td><a href="{{v}}usinglimit">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/SpJAyeUDqRA">Student Problem Solving: Using Limits to Compute Derivatives</a>
@@ -132,7 +112,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td><a href="{{v}}interpretderiv">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/fS2JTYEp89M">Student Problem Solving: Interpreting Derivatives</a>
@@ -140,7 +119,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td><a href="{{v}}secanttangent">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/QCtHzbOyWoQ">Student Problem Solving: The Imprecision of Tangents</a>
@@ -149,7 +127,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td><a href="{{v}}graphingderiv">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/PO7p9wDm2KM">Student Problem Solving: Graphing the Speed of a Baseball</a>
@@ -157,7 +134,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td><a href="{{v}}basicderivrules">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/4q6KQQ2qLd8">Student Problem Solving: Trying to Use the Limit Definition</a>
@@ -167,7 +143,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Product Rule</td>
-		<td><a href="{{v}}product">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/F2FDCkPC7N4">Student Problem Solving: Products of Polynomials</a>
@@ -176,7 +151,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Quotient Rule</td>
-		<td><a href="{{v}}quotient">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/EuVOjg7WO1c">Student Problem Solving: Derivatives of Quotients</a>
@@ -185,7 +159,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Chain Rule</td>
-		<td><a href="{{v}}chain">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/Xt5a59Sc7Aw">Student Problem Solving: A Ripple in a Pond</a>
@@ -195,7 +168,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td><a href="{{v}}lhopital">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/OygUfugpQ48">Student Problem Solving: Evaluating Indeterminate Limits</a>
@@ -203,7 +175,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td><a href="{{v}}mvt">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/QT_gSMdfvkY">Student Problem Solving</a>
@@ -213,7 +184,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 	  <td>Related Rates</td>
-		<td><a href="{{v}}relrates">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/7zquHFUDkL0">Student Problem Solving</a>
@@ -222,7 +192,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td><a href="{{v}}implicit">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/n-Kl3atgYbk">Student Problem Solving: A Complicated Tangent Line</a>
@@ -231,7 +200,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td><a href="{{v}}optintro">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/TWZulr6XpFE">Student Problem Solving: Maximizing Fuel Economy</a>
@@ -241,7 +209,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td><a href="{{v}}optmodel">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/hs1519HhtCQ">Student Problem Solving: Maximizing an Animal Pen</a>
@@ -249,7 +216,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><a href="{{v}}rsintro">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/FWsFsP4b_aE">Student Problem Solving: Dust Accumulation on the Mars Rover</a>
@@ -258,7 +224,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td><a href="{{v}}rsnotation">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/Dxmh7HMS2JM">Student Problem Solving: Writing a Riemann Sum Two Ways</a>
@@ -266,7 +231,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Definite Integrals</td>
-		<td><a href="{{v}}defint">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/syhpg0h-JsM">Student Problem Solving: Mars Rover Using a Formula</a>
@@ -275,7 +239,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>Antiderivatives</td>
-		<td><a href="{{v}}antideriv">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/NKBPe4uMRpM">Student Problem Solving: Antiderivatives</a>
@@ -285,7 +248,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td><a href="{{v}}ftoc1">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/UalmQI7o1S0">Student Problem Solving: Computing Total Accumulation</a>
@@ -293,7 +255,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="{{v}}ftoc2">Link</a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/5Ci1EZUARn4">Student Problem Solving: Cumulative Probability from a Normal Distribution</a>
@@ -302,7 +263,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><a href="{{v}}usub">Link</a></td>
 		<td> 
 			<OL>
 			<LI><a href="https://youtu.be/iEqEELguqYo">Student Problem Solving: Evaluating Indefinite Integrals</a>
@@ -310,7 +270,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>The S-I-R Model</td>
-		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler"></a></td>
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/IwZ9DVxf82s">Thinking About the Spread of Disease in a Population</a>
@@ -322,7 +281,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>An Introduction to Euler's Method</td>
-		<td><a href="https://ximera.osu.edu/calcvids2019/euler/euler">Link</a></td>
 		<td>
 			<OL>
 			<LI>Using Euler's Method to Model the Spread of an Infection</a>
@@ -330,7 +288,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 
 	<tr>
 		<td>An Introduction to (Linear) Differential Equations</td>
-		<td><a href="">Link</a></td>
 		<td>
 			<OL>
 			<LI>Interpreting Differential Equations</a>

@@ -5,6 +5,9 @@ meta_title: "Publications"
 permalink: "/publications/"
 ---
 
+The goals of the Calculus Video Project are to conduct design research to generate knowledge about how students engage with, make sense of, and learn from videos that address foundational calculus concepts. The project team is creating, refining, and disseminating materials for creating video lessons for post-secondary introductory calculus courses; collecting data to analyze the aspects of the videos that students attend to; determining how students make sense of the videos; identifying what students learn from watching the videos; and investigating the impact on student learning of various ways of structuring students’ video- watching experience.
+
+
 ## Conference Papers
 - Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
   - [Paper](https://drive.google.com/open?id=1i0O-bBQ3Qj-OfgVb833NzRRhjlKM1SzM)
