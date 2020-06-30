@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-meta_title: "Intellectual Need-Provoking Tasks"
-title: "Intellectual Need-Provoking Tasks"
-permalink: "/intasks/"
+meta_title: "Problems"
+title: "Problems"
+permalink: "/problems/"
 ---
 
 Below are problems for each topic that can be used to support in-class problem-solving and discussion, or assigned for homework.
