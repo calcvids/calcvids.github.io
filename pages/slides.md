@@ -140,4 +140,14 @@ Please note that these slides use the *Avenir Next* and *whatever it takes* font
 	<LI><a href="https://drive.google.com/file/d/15AczkQC2n0NqTjbz9o3jeDj6ZmCJ1Kox/view?usp=sharing">Video 1: Thinking About the Spread of Disease in a Population</a>
 	<LI><a href="https://drive.google.com/file/d/1xP19-J1sqkX9y8j_J17l673Ot6QsvBoI/view?usp=sharing">Video 2: Rate (Differential) Equations for the Spread of Disease</a>
 	<LI><a href="https://drive.google.com/file/d/1xsGhqcW2ldUA4Wu1csFg8fhUThDOGB1G/view?usp=sharing">Video 3: A System of Equations for the SIR Model</a>
+<tr><td>Euler's Method</td>
+	<td><ul>
+	<LI><a href="https://drive.google.com/file/d/1Vj2JvSXnARpOVzCbM67X7ncslFzANgo2/view?usp=sharing">Introduction to Euler's Method</a>
+	<LI><a href="https://drive.google.com/file/d/1vPAAx0u_VFaY3MJj6v9h7drvsI8Cmdwy/view?usp=sharing">Using Euler's Method to Model the Spread of an Infection</a>	
+	<LI><a href="https://drive.google.com/file/d/1S97xOzLJB6ZYeFc6TV93JcsN7USdlKne/view?usp=sharing">Spreadsheet Techniques for Euler's Method</a>
+	<LI><a href="">Step Size and Constant Rate Assumptions in Euler's Method</a>
+<tr><td>Introduction to (Linear) Differential Equations</td>
+	<td><ul>
+	<LI><a href="">Interpreting Differential Equations</a>
+	<LI><a href="">Writing Differential Equations</a>
 </table>
