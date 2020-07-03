@@ -286,7 +286,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/RKknvYVDg1k">Introduction to Euler's Method</a>
 			<LI><a href="https://youtu.be/mc4S0UIbIuY">Using Euler's Method to Model the Spread of an Infection</a>
 			<LI><a href="https://youtu.be/Q8AYgdXzIpg">Spreadsheet Techniques for Euler's Method</a>
-			<LI><a href="">Step Size and Constant Rate Assumptions in Euler's Method</a>
+			<LI><a href="https://youtu.be/RnXBT_ztIz0">Step Size and Constant Rate Assumptions in Euler's Method</a>
 		</td>
 
 				
@@ -295,6 +295,6 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>An Introduction to (Linear) Differential Equations</td>
 		<td>
 			<OL>
-			<LI>Interpreting Differential Equations</a>
-			<LI>Writing Differential Equations</a>
+			<LI><a href="https://youtu.be/ZHDChJlts-8">Understanding Differential Equations</a>
+			<LI><a href="https://youtu.be/E4sg0Unr2Lc">Writing Differential Equations</a>
 	</tr>

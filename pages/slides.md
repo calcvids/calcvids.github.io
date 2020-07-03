@@ -145,9 +145,9 @@ Please note that these slides use the *Avenir Next* and *whatever it takes* font
 	<LI><a href="https://drive.google.com/file/d/1Vj2JvSXnARpOVzCbM67X7ncslFzANgo2/view?usp=sharing">Introduction to Euler's Method</a>
 	<LI><a href="https://drive.google.com/file/d/1vPAAx0u_VFaY3MJj6v9h7drvsI8Cmdwy/view?usp=sharing">Using Euler's Method to Model the Spread of an Infection</a>	
 	<LI><a href="https://drive.google.com/file/d/1S97xOzLJB6ZYeFc6TV93JcsN7USdlKne/view?usp=sharing">Spreadsheet Techniques for Euler's Method</a>
-	<LI><a href="">Step Size and Constant Rate Assumptions in Euler's Method</a>
+	<LI><a href="https://drive.google.com/file/d/1qEWWb5vc4jo2ZXjwEdY3_QJgq4JRyuKw/view?usp=sharing">Step Size and Constant Rate Assumptions in Euler's Method</a>
 <tr><td>Introduction to (Linear) Differential Equations</td>
 	<td><ul>
-	<LI><a href="">Interpreting Differential Equations</a>
-	<LI><a href="">Writing Differential Equations</a>
+	<LI><a href="https://drive.google.com/file/d/1bHDXOz1iUNPwll_3bEN2waEI90IKAWDn/view?usp=sharing">Understanding Differential Equations</a>
+	<LI><a href="https://drive.google.com/file/d/1e65Vc4Aie_XuXyxAPBaK0El4pgtdrE1p/view?usp=sharing">Writing Differential Equations</a>
 </table>
