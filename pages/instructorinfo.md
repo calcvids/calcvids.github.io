@@ -22,7 +22,7 @@ Information about the Concepts and Videos
   - A [description of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
-  - A [description of intellectual need-provoking tasks](https://youtu.be/aJX7mC3H7lU) that we have created to support instruction
+- A [description of intellectual need-provoking tasks](https://youtu.be/aJX7mC3H7lU) that we have created to support instruction
 
 Instructional Resources
 ---------
