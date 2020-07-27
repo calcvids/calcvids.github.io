@@ -115,7 +115,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/fS2JTYEp89M">Student Problem Solving: Interpreting Derivatives</a>
-			<LI><a href="https://youtu.be/dotuaaGT71A">Interpreting the Derivative</a>
+			<LI><a href="https://youtu.be/dH34dT00e2Q">Interpreting the Derivative</a>
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
