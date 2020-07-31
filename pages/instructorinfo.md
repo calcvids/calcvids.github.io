@@ -16,8 +16,8 @@ Information about the Concepts and Videos
 ---------
 - A [flowchart](Calcvids_Flowchart.pdf) that shows the core videos and the relationships between the concepts in the videos
 - A description of the key concepts, terminology, and notation used in the videos.
-- A discussion of [the difference between quantitative and geometric reasoning]() and why Calcvids focuses on quantitative reasoning
-- A [description of quantitative reasoning]()
+- A [the theory of quantitative reasoning](https://youtu.be/zvr9EwdQTW8), which is a central component of our video design and course structure
+- A description of [how quantitative reasoning is used in calculus](https://youtu.be/iosg_7QqetI)
 - Additional information about quantitative reasoning:
   - A [description of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
