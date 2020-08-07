@@ -10,33 +10,22 @@ These modules can be customized after importing into your LMS. You can download 
 
 
 <h2>Course Packages</h2>
-<table>
-	<tr>
-		<th width="40%"> </th>
-		<th width="12%">Canvas</th>
-		<th width="12%">Blackboard</th>
-		<th width="12%">Moodle</th>
-		<th width="12%">Brightspace/D2L</th>
-		<th width="12%">Sakai</th>		
-		</tr>
-	<tr>
-		<td>Course Package</td>
-		<td><a href="calculus-videos-project-export.imscc">Canvas Package</a>
-		<td><a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
-		<td>Coming soon</td>
-		<td>Coming soon</td>
-		<td>Coming soon</td>
-		</tr>
-	<tr>
-		<td>Instructions</td>	
-		<td> <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a></td>
-		<td><a href="Blackboard_Instructions.txt">Blackboard Instructions</a></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		</tr>
-</table>
-<p>
+<UL>
+<LI> Canvas
+	<UL>
+	<LI><a href="calculus-videos-project-export.imscc">Canvas Package</a>
+	<LI><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a>
+	</UL>
+<LI> Blackboard
+	<UL>
+	<LI><a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
+	<LI><a href="Blackboard_Instructions.txt">Blackboard Instructions</a>
+	</UL>
+<LI> Moodle: Coming soon!
+<LI> Brightspace/D2L: Coming soon!
+<LI> Sakai: Coming soon!
+</UL>
+
 <h2>Individual Modules</h2>
 <table>
 	<tr>
