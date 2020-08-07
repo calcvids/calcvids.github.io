@@ -9,24 +9,21 @@ We have created modules that instructors can integrate into their LMS (learning 
 These modules can be customized after importing into your LMS. You can download a file that includes all of the modules for Canvas, Blackboard, Moodle, or Sakai. Our modules are also available individually via Canvas Commons.
 
 
-<h2>Course Packages</h2>
-<UL>
-<LI> Canvas
-	<UL>
-	<LI><a href="calculus-videos-project-export.imscc">Canvas Package</a>
-	<LI><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a>
-	</UL>
-<LI> Blackboard
-	<UL>
-	<LI><a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
-	<LI><a href="Blackboard_Instructions.txt">Blackboard Instructions</a>
-	</UL>
-<LI> Moodle: Coming soon!
-<LI> Brightspace/D2L: Coming soon!
-<LI> Sakai: Coming soon!
-</UL>
 
-<h2>Individual Modules</h2>
+Course Packages
+---------
+- Canvas
+  - <a href="calculus-videos-project-export.imscc">Canvas Package</a>
+  - <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a>
+- Blackboard
+  - <a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
+  - <a href="Blackboard_Instructions.txt">Blackboard Instructions</a>
+- Moodle: Coming soon!
+- Brightspace/D2L: Coming soon!
+- Sakai: Coming soon!
+
+Individual Modules
+---------
 <table>
 	<tr>
 		<th width="40%">Topic</th>
