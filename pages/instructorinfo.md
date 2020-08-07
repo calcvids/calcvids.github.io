@@ -19,7 +19,7 @@ Information about the Concepts and Videos
 - A [the theory of quantitative reasoning](https://youtu.be/zvr9EwdQTW8), which is a central component of our video design and course structure
 - A description of [how quantitative reasoning is used in calculus](https://youtu.be/iosg_7QqetI)
 - Additional information about quantitative reasoning:
-  - A [description of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman
+  - A description of [the concept of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman
   - A [paper by Pat Thompson](http://bit.ly/18OpUu0) that describes all of the technical details of quantitative reasoning
   - A [paper by Moore, Carlson, and Oehrtman](http://sigmaa.maa.org/rume/crume2009/Moore1_LONG.pdf) that provides an example of using quantitative reasoning to describe students' thinking about precalculus problems
 - A [description of intellectual need-provoking tasks](https://youtu.be/aJX7mC3H7lU) that we have created to support instruction
