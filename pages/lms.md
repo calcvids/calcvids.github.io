@@ -21,8 +21,8 @@ These modules can be customized after importing into your LMS. You can download 
 		</tr>
 	<tr>
 		<td>Course Package</td>
-		<td>[Canvas Package](calculus-videos-project-export.imscc)
-		<td>[Blackboard Package](CalcVids Blackboard Course Package.zip)
+		<td><a href="calculus-videos-project-export.imscc">Canvas Package</a>
+		<td><a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
 		<td>Coming soon</td>
 		<td>Coming soon</td>
 		<td>Coming soon</td>
@@ -36,7 +36,7 @@ These modules can be customized after importing into your LMS. You can download 
 		<td> </td>
 		</tr>
 </table>
-
+<p>
 <h2>Individual Modules</h2>
 <table>
 	<tr>
