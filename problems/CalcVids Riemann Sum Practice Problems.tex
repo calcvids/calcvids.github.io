@@ -1,0 +1,345 @@
+\documentclass[12pt]{report}
+%\usepackage{amsmath,amsthm} %More Math Imputs
+%\usepackage{amssymb} %More Math Symbols
+%\usepackage{amsfonts} %More Math Fonts
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+%\usepackage{fancyhdr} %Fancy Header for making headers
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate} %Enumerate is half-assed....
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+%Margins
+%\topmargin=-0.45in
+%\evensidemargin=0in
+%\oddsidemargin=0in
+%\textwidth=6.5in %text area
+%\textheight=9in %text area
+%\headsep=.25in %separation between header and stuff
+\linespread{1} %Line Spacing
+\newcommand{\R}{\mathbb{R}}
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+%\lhead{Zack Reed\\}
+%\chead{RUME 2017 Proposal Tex}
+
+%\lfoot{}
+%\cfoot{\thepage}
+%\rfoot{}
+%\renewcommand\headrulewidth{0.4pt} %thickness of header line
+%\renewcommand\footrulewidth{0.4pt} %thickness of footer line
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\setlength\parindent{.25in} % no indentation in the whole document
+% Theorem, Definition, etc.... MACROS
+\newtheorem{axiom}{Axiom}[subsection]
+\newtheorem{definition}{Definition}[subsection]
+\newtheorem{statement}{Statement}[subsection]
+\newtheorem{comment}{Comment}[subsection]
+\newtheorem{convention}{Convention}[subsection]
+\newtheorem{proposition}{Proposition}[subsection]
+\newtheorem{lemma}{Lemma}[subsection]
+\newtheorem{theorem}{Theorem}[subsection]
+\newtheorem{corollary}{Corollary}[subsection]
+\newtheorem{properties}{Properties}[subsection]
+\newtheorem{formula}{Formula}[subsection]
+\newtheorem{example}{Example}[subsection]
+%\newtheorem*{axiom}{Axiom}
+\DeclareMathOperator{\Log}{Log}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\Arg}{Arg}
+\DeclareMathOperator{\Ind}{Ind}
+\DeclareMathOperator{\Real}{Re}
+\DeclareMathOperator{\Imag}{Im}
+%\begin{definition}\textbf{}\\
+%\end{definition}
+%\begin{theorem}\textbf{}\\
+%\end{theorem}
+\newenvironment{myquote1}%
+  {\list{}{\leftmargin=0.5in\rightmargin=.25in\linespread{1}}\item[]}%
+  {\endlist}%Sets margins for blockquotes
+ \newenvironment{myquote2}%
+  {\list{}{\leftmargin=0.25in\rightmargin=0.25in}\item[]}%
+  {\endlist}%Sets margins for blockquotes
+  \usepackage{pdfpages}
+\usepackage{graphicx}
+%\setcounter{secnumdepth}{4}
+
+\let\LaTeXStandardTableOfContents\tableofcontents
+
+\renewcommand{\tableofcontents}{%
+\begingroup%
+\renewcommand{\bfseries}{\relax}%
+\LaTeXStandardTableOfContents%
+\endgroup%
+}%
+\usepackage[english]{babel}
+\addto\captionsenglish{% Replace "english" with the language you use
+  \renewcommand{\contentsname}%
+    {\center{\normalsize TABLE OF CONTENTS}   \\  \hfill \normalsize\renewcommand{\bfseries}{\relax}\underline{Page}\vspace{-12pt}}%
+    }
+
+\setcounter{secnumdepth}{5}
+
+\AtEndDocument{\thispagestyle{fancy}}
+\AtEndDocument{ \fancyhead[R]{\thepage}}
+\AtEndDocument{  \renewcommand{\headrulewidth}{0pt}}
+
+\begin{document}
+\newcommand{\epzero}{\forall\epsilon\textgreater0}
+\newcommand{\epone}{\textless\epsilon}
+\newcommand{\la}{\left|}
+\newcommand{\ra}{\right|}
+\newcommand{\lno}{\left\|}
+\newcommand{\rno}{\right\|}
+\newcommand{\xinf}{x\rightarrow\infty}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\bff}{\begin{definition}}
+\newcommand{\eff}{\end{definition}}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\exN}{\exists N\in\mathbb{N}}
+\newcommand{\tvect}[3]{%
+\newcommand{\grad}{\nabla}
+\newcommand{\weakarrow}{\hookrightarrow}
+  \ensuremath{\Bigl(\negthinspace\begin{smallmatrix}#1\\#2\\#3\end{smallmatrix}\Bigr)}}
+  \newcommand{\lnorm}{\left\|}
+\newcommand{\rnorm}{\right\|}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\jq}{\emph{Jerry}:}
+\newcommand{\cq}{\emph{Christina}:}
+\newcommand{\iq}{\emph{Interviewer}:}
+\newcommand{\Lq}{\emph{Laura}:}
+\newcommand{\N}{{\Bbb N}}
+\newcommand{\Z}{{\Bbb Z}}
+\newcommand{\dsp}{\displaystyle}
+\newcommand{\blank}{\makebox[.5in]{\hrulefill}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\limx}[1]{\lim_{x\rightarrow#1}}
+\newcommand{\s}{\hskip6pt}
+
+\section*{Riemann Sums}
+
+\begin{enumerate}
+
+%\item Let $f$ be a positive, strictly increasing function on $[2, 4]$. Which of the following approximations of $\int_2^4 f(x)\,dx$ is the largest?
+%\begin{enumerate}
+
+%\item $R_4$
+
+%\item $M_4$
+
+%\item $L_4$
+
+%\item They are all equal
+
+%\item There is not enough information provided to determine which approximation is largest.
+
+%\end{enumerate}
+
+\item Kacey decides to go for a run before school. She starts her run from home. The function $y=v(t)$ expresses the relationship between Kacey's velocity (in meters per minute) as she runs and the number of minutes $t$ elapsed since she started running. What quantity does the sum 
+
+$$v(1)\cdot \frac{1}{2}+v\left(3/2\right)\cdot \frac{1}{2}+v\left(5/2\right)\cdot \frac{1}{2}+v\left(3\right)\cdot \frac{1}{2}+v\left(7/2\right)\cdot \frac{1}{2}$$
+
+approximate?
+
+\begin{enumerate}
+
+\item The average rate of change of Kacey's velocity over the interval of time from $ t = 1$ to $t = \frac{7}{2}$.
+
+\item The change in Kacey's distance away from home over the interval of time from $t = 1$ to $t = 4$.
+
+\item Kacey's acceleration over the interval of time from $t=1$ to $t=4$
+
+\item Kacey's distance away from home after having run for 3.5 minutes.
+
+\item Kacey's instantaneous velocity 3.5 minutes after having left home.
+\end{enumerate}
+
+The function $y=g(t)$ represents the relationship between the rate of change in the value of investment stocks (in dollars per month) and the number of months $t$ elapsed since the stocks were purchased. Which of the following sums approximates the change in the value of the stocks over the interval of time from 4 to 7 months after the stocks were purchased?
+
+\begin{enumerate}
+
+\item $\sum_{k=4}^7g(k)$
+
+\item $\sum_{k=4}^7g(t)\cdot\Delta t$
+
+\item $\sum_{k=1}^6g(4+.5k)\cdot .5$
+
+\item $\sum_{k=0}^3g(4+k)\cdot \Delta t$
+
+\item $\sum_{k=0}^3g(4+k)$
+
+\end{enumerate}
+
+% PROBLEM 4(b)
+\item[4(b)] (\textit{5 points}) The following image illustrates a Riemann sum using $N$ terms:\\
+\begin{center}
+\includegraphics[width=5.5in]{Graph_2_2016.png}
+\end{center}
+Write each item on the right in the blank next to the corresponding expression on the left. Items B, C, and $A_3$ refer to the labeled graphical quantities above. \textit{\textbf{Each expression will be used exactly once.}} 
+\begin{center}
+\begin{tabular}{c c c c c}
+	\textbf{\underline{Expression}} & & & & \textbf{\underline{Item}}\\\\
+	$\Delta x$ & \underline{\hspace{2.25in}} & & & B\\\\
+	$f(x_3)\Delta x$ & \underline{\hspace{2.25in}} & & & C\\\\
+	$f(x_3)$ & \underline{\hspace{2.25in}} & & & $A_3$\\\\
+	$\dsp \sum_{i=1}^N f(x_i)\Delta x$ & \underline{\hspace{2.25in}} & & & $\dsp \int_a^b f(x)dx$\\\\
+	$\dsp \lim_{N \to \infty} \sum_{i=1}^N f(x_i)\Delta x$ & \underline{\hspace{2.25in}} & & & $A_1+A_2+A_3+\cdots+A_{N-1}+A_N$\\
+\end{tabular}
+\end{center}
+
+\item Explain why $\sum_{k=1}^N f\left(3+\frac{(k-1)}{N}\right)\cdot\frac{1}{N}$ is an under approximation of the area bounded by the graph of $f$ and the $x$-axis when $f$ is increasing on the interval $[3, 4]$.
+
+
+\item Let $f(x)$ represent the linear density (in g/m) of a 20 meter long wire, where $x$ is the distance in meters from one end. The definite integral $\int_0^{20} f(x)\,dx$ is approximated by the right endpoint approximation with $N$ terms:
+
+$$\sum_{i=1}^N f(i\Delta x)\cdot \Delta x$$
+
+Note that this Riemann sum is based on a uniform partition.
+
+Explain what the following expressions represent {\bf in the context of the wire} and provide its units of measurement. 
+
+\begin{enumerate}
+
+\item $\Delta x$
+
+\item $i\Delta x$
+
+\item $f(i\Delta x)$
+
+\item $f(i\Delta x)\cdot \Delta x$
+
+\item $\sum_{k=1}^Nf(i\Delta t)\cdot \Delta t$
+
+\item $\lim_{n\rightarrow \infty}\sum_{i=1}^Nf(i\Delta t)\cdot \Delta t$
+
+\end{enumerate}
+
+\item Let $f(t)$ represent the horizontal velocity (in ft/s) of a golf ball $t$ seconds after it was struck and lands $b$ seconds later. The definite integral $\int_0^b f(t)\,dt$ is approximated by the right endpoint approximation with $N$ terms:
+
+$$\sum_{i=1}^N f(i\Delta t)\cdot \Delta t$$
+
+Note that this Riemann sum is based on a uniform partition.
+
+Explain what the following expressions represent {\bf in the context of the golf ball} and provide its units of measurement. 
+
+\begin{enumerate}
+
+\item $\Delta t$
+
+\item $i\Delta t$
+
+\item $f(i\Delta t)$
+
+\item $f(i\Delta t)\cdot \Delta t$
+
+\item $\sum_{k=1}^Nf(i\Delta t)\cdot \Delta t$
+
+\item $\lim_{N\rightarrow\infty}\sum_{i=1}^Nf(i\Delta t)\cdot \Delta t$
+
+\end{enumerate}
+
+\pagebreak
+
+\item The following image illustrates a Riemann sum using $N$ terms:
+
+\begin{center}
+	\includegraphics[width = 5in]{Riemann_Sum_S20.png}
+\end{center}
+
+$A_{3}$= the area of the third rectangle from the left
+
+$B =$ the vertical height of the third rectangle
+
+$C =$ the horizontal width of the third rectangle
+
+$D =$ the total shaded area of the LaTeX: NN rectangles
+
+Match each graphical quantity with the corresponding expression on the left from the definition of the integral
+
+$\int_a^bf(x)\,dx=\lim_{N\to\infty}\sum_{i=1}^Nf(x_i)\Delta x$
+
+Each item will be used exactly once.
+
+\begin{enumerate}
+
+\item $\Delta x$
+
+\item $f(x_3)$
+
+\item $f(x_3)\Delta x$
+
+\item $\sum_{i=1}^Nf(x_i)\Delta x$
+
+\end{enumerate}
+
+\item The expression $\sum_{k=1}^{10}\left(1+\frac{3k}{10}\right)^3\cdot\frac{3}{10}$  is a Riemann sum approximation for which of the following?
+
+\begin{enumerate}
+\item $\frac{3}{10}\int_1^{10}x^3\ dx$
+\item $\int_1^{10}(1+x)^3\ dx$
+\item $\frac{3}{10}\int_1^{10}\left(1+\frac{3x}{10}\right)^3\ dx$
+\item $\int_1^4x^3\ dx$
+\item $\frac{3}{10}\int_1^4x^3\ dx$
+\end{enumerate}
+
+\item The expression $\frac{1}{10}\left(\left(\frac{1}{10}\right)^2+\left(\frac{2}{10}\right)^2+\left(\frac{3}{10}\right)^2+\ldots +\left(\frac{20}{10}\right)^2\right)$ is a Riemann sum approximation for which of the following expressions?
+\begin{enumerate}
+
+\item $\int_0^2x^2\ dx$
+\item $\int_0^2\left(\frac{x}{10}\right)^2\ dx$
+\item $\frac{1}{10}\int_0^2\left(\frac{x}{10}\right)^2\ dx$
+\item $\int_0^{20}x^2\ dx$
+\item $\frac{1}{10}\int_0^2x^2\ dx$
+\end{enumerate}
+
+
+\item The expression $\sum_{k=1}^{6}\sin(2+.5k)\cdot.5$  is a Riemann sum approximation for which of the following?
+
+\begin{enumerate}
+\item $.5\int_1^{6}\sin(2+.5x) dx$
+\item $\int_2^{5}\sin(x)\ dx$
+\item $.5\int_1^{6}\sin(2+x)\ dx$
+\item $\int_1^6\sin(x)\ dx$
+\item $.5\int_2^5\sin(x)\ dx$
+\end{enumerate}
+
+\pagebreak
+
+\item The expression $.04\left(\cos(1.04)+\cos(1.08)+\cos(1.12)+\ldots +\cos(3)\right)$ is a Riemann sum approximation for which of the following expression?
+
+\begin{enumerate}
+
+\item $\int_1^3\cos(x)\ dx$
+
+\item $.04\int_{25}^{50}\cos(x)\ dx$
+
+\item $\int_1^3\cos(1+.04x)\ dx$
+
+\item $.04\int_0^1\cos(1+.04x)\ dx$
+
+\item $\int_{1}^{50}\cos(x) dx$
+
+\end{enumerate}
+
+\end{enumerate}
+
+
+\end{document}
