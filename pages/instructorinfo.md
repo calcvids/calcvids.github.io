@@ -16,7 +16,7 @@ Information about the Concepts and Videos
 ---------
 - A [flowchart](Calcvids_Flowchart.pdf) that shows the core videos and the relationships between the concepts in the videos
 - A description of the key concepts, terminology, and notation used in the videos.
-- A [the theory of quantitative reasoning](https://youtu.be/zvr9EwdQTW8), which is a central component of our video design and course structure
+- A description of [the theory of quantitative reasoning](https://youtu.be/zvr9EwdQTW8), which is a central component of our video design and course structure
 - A description of [how quantitative reasoning is used in calculus](https://youtu.be/iosg_7QqetI)
 - Additional information about quantitative reasoning:
   - A description of [the concept of quantitative reasoning](Quantitative_and_Covariational_Reasoning.pdf) by Michael Tallman

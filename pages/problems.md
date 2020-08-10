@@ -61,8 +61,8 @@ Below are problems for each topic that can be used to support in-class problem-s
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><a href="CalcVids Limit Definition of Derivative Practice Problems.tex">LaTeX File</a></td>
-		<td><a href="CalcVids Limit Definition of Derivative Practice Problems.pdf">PDF File</a></td>
+		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
@@ -160,8 +160,8 @@ Below are problems for each topic that can be used to support in-class problem-s
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><a href="CalcVids Riemann Sums Introduction Practice Problems.tex">LaTeX File</a></td>
-		<td><a href="CalcVids Riemann Sums Introduction Practice Problems.pdf">PDF File</a></td>
+		<td><a href="CalcVids Riemann Sum Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Riemann Sum Practice Problems.pdf">PDF File</a></td>
 
 
 
@@ -173,8 +173,8 @@ Below are problems for each topic that can be used to support in-class problem-s
 
 	<tr>
 		<td>Definite Integrals</td>
-		<td><a href="CalcVids Definite Integrals Practice Problems.tex">LaTeX File</a></td>
-		<td><a href="CalcVids Definite Integrals Practice Problems.pdf">PDF File</a></td>
+		<td><a href="CalcVids Definite Integral Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Definite Integral Practice Problems.pdf">PDF File</a></td>
 
 
 
