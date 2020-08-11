@@ -13,7 +13,7 @@ These modules can be customized after importing into your LMS. You can download 
 Course Packages
 ---------
 - Canvas
-  - <a href="calculus-videos-project-export.imscc">Canvas Package</a>
+  - <a href="calculus-videos-project-canvas.imscc">Canvas Package</a>
   - <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a>
 - Blackboard
   - <a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
