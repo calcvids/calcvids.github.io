@@ -18,8 +18,8 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Constant Rates of Change</td>
-		<td><a href="CalcVids Constant Rate of Change Practice Problems.zip">LaTeX Files</a></td>
-		<td><a href="CalcVids Constant Rate of Change Practice Problems.pdf">PDF File</a></td>
+		<td><a href="CalcVids Constant Rates of Change Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Constant Rates of Change Practice Problems.pdf">PDF File</a></td>
 
 	<tr>
 		<td>Graphing Constant Rate of Change</td>
