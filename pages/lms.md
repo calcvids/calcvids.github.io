@@ -27,8 +27,8 @@ Individual Modules via Canvas Commons
 The modules linked below can be directly imported into Canvas via Canvas Commons. It is also possible to download the IMS Common Cartridge file from Canvas Commons for import into other learning management systems, although images and embedded YouTube videos might not be formatted properly.
 <table>
 	<tr>
-		<th width="40%">Topic</th>
-		<th width="60%">Link to Canvas Commons Module</th>
+		<th width="50%">Topic</th>
+		<th width="50%">Link to Canvas Commons Module</th>
 		</tr>
 
 	<tr>

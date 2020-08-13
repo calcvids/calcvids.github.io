@@ -11,9 +11,9 @@ These problems should be available by August 17th.
 
 <table>
 	<tr>
-		<th width="30%">Topic</th>
-		<th width="35%">LaTeX File (Compressed archive including .tex files and images)</th>
-		<th width="35%">PDF File</th>
+		<th width="40%">Topic</th>
+		<th width="30%">LaTeX File (Compressed archive including .tex files and images)</th>
+		<th width="30%">PDF File</th>
 		</tr>
 
 	<tr>
