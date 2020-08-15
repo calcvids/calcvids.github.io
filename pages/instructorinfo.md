@@ -15,7 +15,7 @@ There are numerous resources available for instructors on this website.
 Information about the Concepts and Videos
 ---------
 - A [flowchart](Calcvids_Flowchart.pdf) that shows the core videos and the relationships between the concepts in the videos
-- A description of the key concepts, terminology, and notation used in the videos.
+- A description of the [key concepts, terminology, and notation](Definition_and_Terminology_List_for_Instructors.pdf) used in the videos.
 - A description of [the theory of quantitative reasoning](https://youtu.be/zvr9EwdQTW8), which is a central component of our video design and course structure
 - A description of [how quantitative reasoning is used in calculus](https://youtu.be/iosg_7QqetI)
 - Additional information about quantitative reasoning:
@@ -37,7 +37,7 @@ Instructional Resources
 Support
 -------
 - You can contact any member of the research team at any time:
-  - For questions about Ximera or other technical aspects, contact Matt Thomas (<mthomas7@ithaca.edu>)
+  - For most questions, contact Aaron Weinberg (<aweinberg@ithaca.edu>)
   - For questions about quantitative reasoning or other mathematical/learning theory, contact Michael Tallman (<michael.tallman@okstate.edu>)
   - For questions about the Geogebra animations we use, contact Jason Martin (<jasonm@uca.edu>)
-  - For any other questions, contact Aaron Weinberg (<aweinberg@ithaca.edu>)
+  - For questions about Ximera, contact Matt Thomas (<mthomas7@ithaca.edu>)

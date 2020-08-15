@@ -26,7 +26,8 @@ For each task, there is a corresponding video of two students attempting to solv
 		<td><ul>						
 		<li style="font-size:14px"><a href="Constant_Rate_of_Change_IN.docx">IN Task - MS Word Format</a>
 		<li style="font-size:14px"><a href="Constant_Rate_of_Change_IN.pdf">IN Task - PDF Format</a>
-		<li style="font-size:14px"><a href="Constant_Rate_of_Change_IN_Video.mp4">Video for IN Task</a>
+		<li style="font-size:14px"><a href="Constant_Rate_of_Change_IN_Video.mp4">Video file for IN Task</a>
+		<li style="font-size:14px"><a href="https://youtu.be/Py9sljJRAU0">YouTube Video for IN Task</a>
 		<td><a href="https://youtu.be/RnwZinSVGg4">Student Problem Solving: Pouring Water into a Cylinder</a>
 
 

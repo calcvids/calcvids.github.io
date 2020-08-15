@@ -20,7 +20,9 @@ Course Packages
   - <a href="Blackboard_Instructions.rtf">Blackboard Instructions</a>
 - Moodle: Coming soon!
 - Brightspace/D2L: Coming soon!
-- Sakai: Coming soon!
+- Sakai
+  - <a href="calcvids-sakai-export.imscc">Sakai Package</a>
+  - <a href="Sakai Instructions.rtf">Sakai Instructions</a>
 
 Individual Modules via Canvas Commons
 ---------
