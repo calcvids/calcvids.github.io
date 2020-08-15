@@ -62,6 +62,10 @@ These problems should be available by August 17th.
 		<td><a href="CalcVids Differentiability Practice Problems.zip">---</a></td>
 		<td><a href="CalcVids Differentiability Practice Problems.pdf">--</a></td>
 
+	<tr>
+		<td>Limit at a Point</td>
+		<td><a href="CalcVids Limit at a Point Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Limit at a Point Practice Problems.pdf">PDF File</a></td>		
 
 	<tr>
 		<td>Limit Definition of Derivative</td>
@@ -71,20 +75,20 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Using the Limit Definition of Derivative</td>
-		<td><a href="CalcVids Using the Limit Definition of Derivative Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Using the Limit Definition of Derivative Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Using the Limit Definition of a Derivative Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Using the Limit Definition of a Derivative Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Interpreting Derivatives</td>
-		<td><a href="CalcVids Interpreting Derivatives Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Interpreting Derivatives Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Interpreting Derivatives Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Interpreting Derivatives Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Slopes of Secant and Tangent Lines</td>
-		<td><a href="CalcVids Slopes of Secants and Tangents Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Slopes of Secants and Tangents Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Slopes of Secant and Tangent Lines Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Slopes of Secant and Tangent Lines Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
@@ -113,8 +117,8 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>The Chain Rule</td>
-		<td><a href="CalcVids Chain Rule Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Chain Rule Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Chain Rule Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Chain Rule Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
@@ -131,20 +135,20 @@ These problems should be available by August 17th.
 
 	<tr>
 	  <td>Related Rates</td>
-		<td><a href="CalcVids Related Rates Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Related Rates Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Related Rates Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Related Rates Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Implicit Differentiation</td>
-		<td><a href="CalcVids Implicit Differentiation Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Implicit Differentiation Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Implicit Differentiation Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Implicit Differentiation Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Introduction to Optimization</td>
-		<td><a href="CalcVids Optimization Introduction Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Optimization Introduction Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Introduction to Optimization Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Introduction to Optimization Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
