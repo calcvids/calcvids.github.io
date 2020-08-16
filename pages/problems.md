@@ -59,8 +59,8 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Differentiability and Local Linearity</td>
-		<td><a href="CalcVids Differentiability Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Differentiability Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Local Linear Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Local Linear Practice Problems.pdf">PDF File</a></td>
 
 	<tr>
 		<td>Limit at a Point</td>
@@ -68,9 +68,14 @@ These problems should be available by August 17th.
 		<td><a href="CalcVids Limit at a Point Practice Problems.pdf">PDF File</a></td>		
 
 	<tr>
+		<td>Limit Laws</td>
+		<td><a href="CalcVids Limit Laws Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Limit Laws Practice Problems.pdf">PDF File</a></td>	
+
+	<tr>
 		<td>Limit Definition of Derivative</td>
-		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.pdf">--</a></td>
+		<td><a href="Calcvids Limit Definition of a Derivative Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
@@ -153,49 +158,48 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Optimization: Algebraic Modeling</td>
-		<td><a href="CalcVids Optimization Modeling Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Optimization Modeling Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Algebra Optimization Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Algebra Optimization Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Introduction to Riemann Sums</td>
-		<td><a href="CalcVids Riemann Sum Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Riemann Sum Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Riemann Sum Introduction Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Riemann Sum Introduction Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Riemann Sum Notation</td>
-		<td><a href="CalcVids Riemann Sums Notation Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Riemann Sums Notation Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Riemann Sum Notation Practice Problem.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Riemann Sum Notation Practice Problem.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Definite Integrals</td>
-		<td><a href="CalcVids Definite Integral Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Definite Integral Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Definite Integral Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Definite Integral Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Antiderivatives</td>
-		<td><a href="CalcVids Antiderivatives Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Antiderivatives Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Antiderivatives Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Antiderivatives Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 1</td>
-		<td><a href="CalcVids FTOC 1 Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids FTOC 1 Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids FTC1 Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids FTC1 Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>The Fundamental Theorem of Calculus, Part 2</td>
-		<td><a href="CalcVids FTOC 2 Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids FTOC 2 Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids FTC2 Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids FTC2 Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>U-Substitution</td>
-		<td><a href="CalcVids U-Substitution Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids U-Substitution Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids USub Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids USub Practice Problems.pdf">PDF File</a></td>
 	</tr>
-</table>
