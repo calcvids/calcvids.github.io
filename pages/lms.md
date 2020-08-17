@@ -19,7 +19,9 @@ Course Packages
   - <a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
   - <a href="Blackboard_Instructions.rtf">Blackboard Instructions</a>
 - Moodle: Coming soon!
-- Brightspace/D2L: Coming soon!
+- Brightspace/D2L:
+  - <a href="calcvids-brightspace-export">Brightspace Package</a>
+  - <a href="https://documentation.brightspace.com/EN/le/course_administration/instructor/import_course_components.htm">Brightspace Instructions</a>
 - Sakai
   - <a href="calcvids-sakai-export.imscc">Sakai Package</a>
   - <a href="Sakai Instructions.rtf">Sakai Instructions</a>
