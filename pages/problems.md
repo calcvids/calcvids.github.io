@@ -98,8 +98,8 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Graphing Derivatives</td>
-		<td><a href="CalcVids Graphing Derivatives Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Graphing Derivatives Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Graphing Derivatives Practice Problems.zip">LaTeX Files</a></td>
+		<td><a href="CalcVids Graphing Derivatives Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
@@ -128,14 +128,14 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>l'Hopital's Rule</td>
-		<td><a href="CalcVids LHopitals Rule Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids LHopitals Rule Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids L'Hopital's Rule Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids L'Hopital's Rule Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>Mean Value Theorem</td>
-		<td><a href="CalcVids Mean Value Theorem Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Mean Value Theorem Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids MVT Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids MVT Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
