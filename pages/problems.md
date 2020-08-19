@@ -104,14 +104,14 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Basic Derivative Rules</td>
-		<td><a href="CalcVids Basic Derivative Rules Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Basic Derivative Rules Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Basic Derivatives Practice Problems.tex">LaTeX File</a></td>
+		<td><a href="CalcVids Basic Derivatives Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
 		<td>The Product Rule</td>
-		<td><a href="CalcVids Product Rule Practice Problems.zip">---</a></td>
-		<td><a href="CalcVids Product Rule Practice Problems.pdf">--</a></td>
+		<td><a href="CalcVids Product Rule Practice Problems.tex">LaTeX Files</a></td>
+		<td><a href="CalcVids Product Rule Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
