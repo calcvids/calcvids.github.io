@@ -28,6 +28,8 @@ Course Packages
   - <a href="calcvids-sakai-export.imscc">Sakai Package</a>
   - <a href="Sakai Instructions.rtf">Sakai Instructions</a>
 
+If you find an error in any of the materials, please submit it via <a href="https://docs.google.com/spreadsheets/d/1vix-6o_g2ysd43qJ0q4aS1TylQgV2L-3l7hWtSHBHNg/edit?usp=sharing">this form</a>.
+
 Individual Modules via Canvas Commons
 ---------
 The modules linked below can be directly imported into Canvas via Canvas Commons. It is also possible to download the IMS Common Cartridge file from Canvas Commons for import into other learning management systems, although images and embedded YouTube videos might not be formatted properly.
