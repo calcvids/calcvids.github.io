@@ -10,7 +10,7 @@ These modules can be customized after importing into your LMS. You can download 
 
 
 
-Course Packages
+Course Packages (Supported)
 ---------
 - Canvas
   - <a href="calculus-videos-project-canvas.imscc">Canvas Package</a>
@@ -18,15 +18,17 @@ Course Packages
 - Blackboard
   - <a href="CalcVids Blackboard Course Package.zip">Blackboard Package</a>
   - <a href="Blackboard_Instructions.rtf">Blackboard Instructions</a>
+
+Course Packages (With Errata)
+---------
+- Please note that the packages linked below contain numerous typos and minor errors in the pre- and post-video questions. The Calcvids team doesn't have access to Moodle or Brightspace, so we're unable to fix these errors. Your best bet is to import either the Canvas or Blackboard files linked above. Alternatively, you can import the appropriate LMS file for your system and make the <a href="Calcvids_LMS_Fixes.csv">edits that are described in this file</a>. If you do this and are willing to share your work, please contact us!
 - Moodle
   - <a href="backup-moodle2-course-3-calcvids-20200825-1348-nu.mbz">Moodle Package</a>
   - <a href="https://docs.moodle.org/39/en/Course_restore">Moodle Instructions</a>
 - Brightspace/D2L
   - <a href="calcvids-brightspace-export.zip">Brightspace Package</a>
   - <a href="https://documentation.brightspace.com/EN/le/course_administration/instructor/import_course_components.htm">Brightspace Instructions</a>
-- Sakai
-  - <a href="calcvids-sakai-export.imscc">Sakai Package</a>
-  - <a href="Sakai Instructions.rtf">Sakai Instructions</a>
+
 
 Individual Modules via Canvas Commons
 ---------
