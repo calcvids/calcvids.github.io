@@ -47,8 +47,8 @@ These problems should be available by August 17th.
 
 	<tr>
 		<td>Approximating Instantaneous Rates of Change</td>
-		<td><a href="CalcVids Approximating Instantaneous Rates of Change Practice Problems.tex">LaTeX Files</a></td>
-		<td><a href="CalcVids Approximating Instantaneous Rates of Change Practice Problems.pdf">PDF File</a></td>
+		<td><a href="CalcVids Approximating Instantaneous Rate of Change Practice Problems.tex">LaTeX Files</a></td>
+		<td><a href="CalcVids Approximating Instantaneous Rate of Change Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
