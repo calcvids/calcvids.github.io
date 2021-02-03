@@ -75,7 +75,7 @@ These problems should be available by August 17th.
 	<tr>
 		<td>Limit Definition of Derivative</td>
 		<td><a href="Calcvids Limit Definition of a Derivative Practice Problems.tex">LaTeX File</a></td>
-		<td><a href="CalcVids Limit Definition of a Derivative Practice Problems.pdf">PDF File</a></td>
+		<td><a href="Calcvids Limit Definition of a Derivative Practice Problems.pdf">PDF File</a></td>
 
 
 	<tr>
