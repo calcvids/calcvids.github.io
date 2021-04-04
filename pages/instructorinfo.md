@@ -40,4 +40,3 @@ Support
   - For most questions, contact Aaron Weinberg (<aweinberg@ithaca.edu>)
   - For questions about quantitative reasoning or other mathematical/learning theory, contact Michael Tallman (<michael.tallman@okstate.edu>)
   - For questions about the Geogebra animations we use, contact Jason Martin (<jasonm@uca.edu>)
-  - For questions about Ximera, contact Matt Thomas (<mthomas7@ithaca.edu>)
